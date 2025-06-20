@@ -6,8 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:001100,100:00FF00&height=180&section=header&text=OJAS%20SRIVASTAVA&fontSize=65&fontColor=00FF00&animation=twinkling&fontAlignY=50&desc=NEURAL%20NETWORKS%20•%20MACHINE%20LEARNING%20•%20AI%20RESEARCH&descAlignY=75&descSize=16&descColor=FFFFFF"/>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF0080,50:8000FF,100:00FFE1&height=200&section=header&text=OJAS%20SRIVASTAVA&fontSize=75&fontColor=FFFFFF&animation=blinking&fontAlignY=50&desc=CYBER%20ARCHITECT%20|%20AI%20VISIONARY&descAlignY=75&descSize=22&descColor=FFFFFF"/>
-
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0a0a,25:1a1a2e,50:16213e,75:0f3460,100:533483&height=220&section=header&text=OJAS%20SRIVASTAVA&fontSize=75&fontColor=00ff41&animation=twinkling&fontAlignY=45&desc=⚡%20NEURAL%20ARCHITECT%20⚡%20QUANTUM%20CODER%20⚡%20AI%20VISIONARY%20⚡&descAlignY=70&descSize=18&descColor=00FFE1"/>
 
 
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="500" alt="AI Development" />
