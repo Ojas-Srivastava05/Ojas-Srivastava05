@@ -62,7 +62,7 @@ System Status: ✅ Online
 
 <!-- 🧠 Skills -->
 
-## 🧠 AI & ML Learning Progress
+## 🧠 AI , ML & Web Development Learning Progress 
 
 <div align="center">
 
