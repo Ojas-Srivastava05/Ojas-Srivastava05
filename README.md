@@ -4,7 +4,7 @@
 <!-- 🚀 Welcome Section -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00FFE1&center=true&vCenter=true&width=700&lines=AI+Engineering+Student+%F0%9F%A4%96;Neural+Network+Enthusiast+%F0%9F%A7%A0;Machine+Learning+Explorer+%E2%9A%A1%EF%B8%8F;Code+%26+Intelligence+Architect+%F0%9F%94%AE;Building+The+Future+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:8000FF,100:00FFE1&height=150&section=header&text=NEURAL%20NEXUS&fontSize=60&fontColor=FFFFFF&animation=blinking&fontAlignY=50&desc=AI%20ARCHITECT%20•%20NEURAL%20ENGINEER%20•%20QUANTUM%20CODER&descAlignY=75&descSize=20"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFE1,100:9D4EDD&height=250&section=header&text=Ojas%20Srivastava&fontSize=60&fontColor=FFFFFF&animation=twinkling&desc=Crafting%20AI%20Solutions%20and%20Neural%20Networks&descSize=18&descAlign=60" />
 
