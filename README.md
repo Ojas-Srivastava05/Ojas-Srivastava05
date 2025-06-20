@@ -95,5 +95,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=70"/>
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=ojassrivastava&color=blueviolet&style=for-the-badge&label=AI+Enthusiasts+Visited)
+  ![Profile Views](https://komarev.com/ghpvc/?username=ojas-srivastava05&color=blueviolet&style=for-the-badge&label=AI+Enthusiasts+Visited)
 </div>
