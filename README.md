@@ -12,6 +12,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D0208,20:1A0B14,40:370617,60:6A040F,80:9D0208,100:DC2F02&height=220&section=header&text=OJAS%20SRIVASTAVA&fontSize=78&fontColor=00ff00&animation=twinkling&fontAlignY=35&desc=▓▒░%20CYBER%20ARCHITECT%20░▒▓%20▓▒░%20AI%20VISIONARY%20░▒▓%20▓▒░%20NEURAL%20ENGINEER%20░▒▓&descAlignY=60&descSize=17&descColor=00FFE1&desc2=⟦%20BUILDING%20THE%20MATRIX%20OF%20TOMORROW%20⟧&desc2AlignY=80&desc2Size=19&desc2Color=FFFFFF"/>
 
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,15:001122,30:002244,45:003366,60:004488,75:0055aa,90:0066cc,100:00ff00&height=200&section=header&text=OJAS%20SRIVASTAVA&fontSize=72&fontColor=00ff00&animation=twinkling&fontAlignY=40&desc=◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤&descAlignY=60&descSize=12&descColor=00FFE1&desc2=🧠%20NEURAL%20NETWORKS%20•%20🤖%20MACHINE%20LEARNING%20•%20⚡%20AI%20RESEARCH%20•%20🔬%20DEEP%20LEARNING%20🔬&desc2AlignY=80&desc2Size=16&desc2Color=FFFFFF"/>
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="500" alt="AI Development" />
 
 </div>
