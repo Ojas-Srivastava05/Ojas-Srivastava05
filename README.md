@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:001100,100:00FF00&height=180&section=header&text=OJAS%20SRIVASTAVA&fontSize=65&fontColor=00FF00&animation=twinkling&fontAlignY=50&desc=NEURAL%20NETWORKS%20•%20MACHINE%20LEARNING%20•%20AI%20RESEARCH&descAlignY=75&descSize=16&descColor=FFFFFF"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="AI Neural Network"/>
+ <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500" alt="AI Neural Network"/>
 
 </div>
 
