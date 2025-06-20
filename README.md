@@ -16,7 +16,7 @@
 
 ## 🎯 About Me
 
-```json
+```jsonc
 {
   "name": "Ojas Srivastava",
   "title": "AI Engineering Student",
