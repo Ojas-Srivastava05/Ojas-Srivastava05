@@ -14,21 +14,43 @@
 
 <!-- 🎯 About Me -->
 
-## 🎯 About Me
 
-- **Name:** Ojas Srivastava  
-- **Title:** AI Engineering Student  
-- **University:** NIT Surat  
-- **Degree:** BTech in Artificial Intelligence  
-- **Year:** Sophomore  
-- **Location:** Surat, Gujarat, India  
-- **Current Stack:** HTML5, CSS3, JavaScript, jQuery, Django  
-- **Learning Path:** React, Node.js, Express.js, EJS, SQL, PostgreSQL  
-- **Interests:** Machine Learning, Neural Networks, Deep Learning, AI Research  
-- **Current Focus:** Building intelligent web applications with AI integration  
-- **AI Goals:** Computer Vision, NLP, Reinforcement Learning, AGI Research  
-- **Fun Fact:** I believe AI will revolutionize everything, starting with my code! 🤖  
-- **Motto:** *Teaching machines to think, one algorithm at a time*
+
+## 🧬 About Me
+
+<div align="center">
+
+<pre style="font-family:'Fira Code', monospace; background:#000000; color:#00ff41; padding:20px; border-radius:10px; font-size:16px; line-height:1.7em; width:fit-content; overflow-x:auto; box-shadow: 0 0 20px #00ff41;">
+> Initializing A.I. Core . . .
+> Connection Established with Neural Node [OJAS-SRIVASTAVA-05]
+
+[IDENTITY]
+🧠 Name:           Ojas Srivastava
+🎓 Title:          AI Engineering Student
+🏛️ University:     NIT Surat
+📘 Degree:         BTech in Artificial Intelligence
+📅 Year:           Sophomore
+📍 Location:       Surat, Gujarat, India
+
+[TECH STACK]
+💻 Core:           HTML5, CSS3, JavaScript, jQuery, Django
+⚙️ Learning:       React, Node.js, Express.js, EJS, SQL, PostgreSQL
+
+[INTERESTS]
+🧠 Domains:        Machine Learning, Neural Networks, Deep Learning, AI Research
+
+[FOCUS]
+🎯 Current Work:   Building intelligent web applications with AI integration
+🚀 AI Goals:       Computer Vision, NLP, Reinforcement Learning, AGI Research
+
+[FUN BIT]
+🤖 Quote:          “I believe AI will revolutionize everything, starting with my code.”
+💡 Motto:          *Teaching machines to think, one algorithm at a time*
+
+> System Operational... Awaiting Next Instruction.
+
+</pre>
+</div>
 
 
 <!-- 🧠 Skills -->
