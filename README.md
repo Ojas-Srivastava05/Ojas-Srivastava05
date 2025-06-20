@@ -34,8 +34,10 @@
 
 
 <!-- 🔥 GitHub Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojas-srivastava05&theme=synthwave&hide_border=true&stroke=0000&background=0D1117&ring=00FFE1&fire=FF6B6B&currStreakLabel=00FFE1" alt="GitHub Streak Stats" />
+</div>
 
-<img src="https://streak-stats.demolab.com?user=ojassrivastava&theme=synthwave&hide_border=true&stroke=0000&background=0D1117&ring=00FFE1&fire=FF6B6B&currStreakLabel=00FFE1" alt="GitHub Streak Stats" />
 
 
 <!-- 🧠 Skills -->
