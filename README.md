@@ -7,7 +7,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ojas%20Srivastava&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Crafting%20AI%20Solutions%20%26%20Neural%20Networks&descAlignY=51&descAlign=62"/>
   
   <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="AI Neural Network"/>
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="500" alt="AI Development"/>
   </div>
   
 </div>
@@ -113,7 +113,7 @@ const learningProgress = {
 ## 🧠 AI Learning Journey
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="AI Brain"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b4aee788-7f89-41e0-9dd9-8aa035332c8e" width="400" alt="AI Brain Neural Network"/>
 </div>
 
 ## 🏆 GitHub Trophies
@@ -126,8 +126,7 @@ const learningProgress = {
 
 <div align="center">
 
-[![AI Project 1](https://github-readme-stats.vercel.app/api/pin/?username=ojassrivastava&repo=neural-network-from-scratch&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FFE1)](https://github.com/ojassrivastava/neural-network-from-scratch)
-[![AI Project 2](https://github-readme-stats.vercel.app/api/pin/?username=ojassrivastava&repo=machine-learning-playground&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FFE1)](https://github.com/ojassrivastava/machine-learning-playground)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ojassrivastava&repo=ojassrivastava&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FFE1)](https://github.com/ojassrivastava/ojassrivastava)
 
 </div>
 
@@ -138,13 +137,18 @@ const learningProgress = {
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ojassrivastava)
 [![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/ojassrivastava)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/ojassrivastava)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ojassrivastava)
 
 </div>
 
-## 💭 AI Wisdom of the Day
+## 💭 AI Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" alt="Random Dev Quote" />
+  
+  > *"The best way to predict the future is to invent it."* - Alan Kay
+  
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="300" alt="Coding"/>
+  
 </div>
 
 ## 🌟 Neural Network Facts & Goals
@@ -166,14 +170,8 @@ const learningProgress = {
 - 🏛️ Exploring the beautiful campus of NIT Surat
 - 🤝 Collaborating with fellow AI enthusiasts on innovative projects
 
-## 📈 Neural Network Visualization
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ojassrivastava&bg_color=0D1117&color=00FFE1&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Neural Network Animation"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="400" alt="Data Science"/>
 </div>
 
 ## 🌐 Connect With Me
@@ -193,9 +191,7 @@ const learningProgress = {
 
 <div align="center">
   
-  ![Snake animation](https://github.com/ojassrivastava/ojassrivastava/blob/output/github-contribution-grid-snake.svg)
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="AI Footer"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="600" alt="Programming"/>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=70"/>
   
