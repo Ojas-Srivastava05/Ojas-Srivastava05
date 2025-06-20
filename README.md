@@ -71,8 +71,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ojassrivastava&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFE1&icon_color=FF6B6B&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojassrivastava&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FFE1&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ojas-srivastava05&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFE1&icon_color=FF6B6B&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojas-srivastava05&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FFE1&text_color=FFFFFF"/>
 </div>
 
 <!-- 🔗 Links -->
@@ -86,7 +86,7 @@
 [![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/ojassrivastava)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ojassrivastava.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojas.srivastava@nitgsurat.ac.in)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ojassrivastava)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ojas-srivastava05)
 
 </div>
 
