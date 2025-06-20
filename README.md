@@ -6,7 +6,8 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00FFE1&center=true&vCenter=true&width=700&lines=AI+Engineering+Student+%F0%9F%A4%96;Neural+Network+Enthusiast+%F0%9F%A7%A0;Machine+Learning+Explorer+%E2%9A%A1%EF%B8%8F;Code+%26+Intelligence+Architect+%F0%9F%94%AE;Building+The+Future+%F0%9F%9A%80" alt="Typing SVG" />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFE1,100:9D4EDD&height=250&section=header&text=Ojas%20Srivastava&fontSize=60&fontColor=FFFFFF&animation=twinkling&desc=Crafting%20AI%20Solutions%20and%20Neural%20Networks&desc
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFE1,100:9D4EDD&height=250&section=header&text=Ojas%20Srivastava&fontSize=60&fontColor=FFFFFF&animation=twinkling&desc=Crafting%20AI%20Solutions%20and%20Neural%20Networks&descSize=18&descAlign=60" />
+
 
 
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="500" alt="AI Development" />
