@@ -91,7 +91,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:001100,100:00FF00&height=180&section=footer&text=THANKS%20FOR%20VISITING!&fontSize=60&fontColor=00FF00&animation=twinkling&fontAlignY=50&desc=CONNECT%20•%20COLLABORATE%20•%20CREATE%20THE%20FUTURE&descAlignY=75&descSize=16&descColor=FFFFFF"/>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=ojas-srivastava05&color=blueviolet&style=for-the-badge&label=AI+Enthusiasts+Visited)
 </div>
