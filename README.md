@@ -10,7 +10,7 @@
 
 </div>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb2cd32-8239-4afc-a0a9-5a6ac676d2b8" width="500" alt="Cyberpunk Terminal"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="500" alt="Neural Network"/>
 <!-- 🎯 About Me -->
 
 ## 🎯 About Me
