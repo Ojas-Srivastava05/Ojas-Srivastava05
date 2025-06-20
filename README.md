@@ -10,7 +10,7 @@
 
 </div>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="500" alt="Neural Network"/>
+<img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="500" alt="Digital Matrix"/>
 <!-- 🎯 About Me -->
 
 ## 🎯 About Me
