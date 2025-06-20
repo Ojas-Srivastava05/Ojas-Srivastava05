@@ -22,7 +22,7 @@ Initializing A.I. Core . . .
 Connection Established with Neural Node: OJAS-SRIVASTAVA-05
 ```
 
-**[IDENTITY]**
+**IDENTITY**
 ```
 🧠 Name: Ojas Srivastava
 🎓 Title: AI Engineering Student  
@@ -32,24 +32,24 @@ Connection Established with Neural Node: OJAS-SRIVASTAVA-05
 📍 Location: Surat, Gujarat, India
 ```
 
-**[TECH STACK]**
+**TECH STACK**
 ```
 💻 Core: HTML5, CSS3, JavaScript, jQuery, Django
 ⚙️ Learning: React, Node.js, Express.js, EJS, SQL, PostgreSQL
 ```
 
-**[INTERESTS]**
+**INTERESTS**
 ```
 🧠 Domains: Machine Learning, Neural Networks, Deep Learning, AI Research
 ```
 
-**[FOCUS]**
+**FOCUS**
 ```
 🎯 Current Work: Building intelligent web applications with AI integration
 🚀 AI Goals: Computer Vision, NLP, Reinforcement Learning, AGI Research
 ```
 
-**[FUN BIT]**
+**FUN BIT**
 ```
 🤖 Quote: "I believe AI will revolutionize everything, starting with my code!"
 💡 Motto: Teaching machines to think, one algorithm at a time
