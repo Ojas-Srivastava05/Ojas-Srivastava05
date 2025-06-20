@@ -16,23 +16,22 @@
 
 ## 🎯 About Me
 
-```jsonc
-{
-  "name": "Ojas Srivastava",
-  "title": "AI Engineering Student",
-  "university": "NIT Surat",
-  "degree": "BTech Artificial Intelligence",
-  "year": "Sophomore",
-  "location": "Surat, Gujarat, India",
-  "currentStack": ["HTML5", "CSS3", "JavaScript", "jQuery", "Django"],
-  "learningPath": ["React", "Node.js", "Express.js", "EJS", "SQL", "PostgreSQL"],
-  "interests": ["Machine Learning", "Neural Networks", "Deep Learning", "AI Research"],
-  "currentFocus": "Building intelligent web applications with AI integration",
-  "aiGoals": ["Computer Vision", "NLP", "Reinforcement Learning", "AGI Research"],
-  "funFact": "I believe AI will revolutionize everything, starting with my code!",
-  "motto": "Teaching machines to think, one algorithm at a time"
-}
-```
+## 🎯 About Me
+
+- **Name:** Ojas Srivastava  
+- **Title:** AI Engineering Student  
+- **University:** NIT Surat  
+- **Degree:** BTech in Artificial Intelligence  
+- **Year:** Sophomore  
+- **Location:** Surat, Gujarat, India  
+- **Current Stack:** HTML5, CSS3, JavaScript, jQuery, Django  
+- **Learning Path:** React, Node.js, Express.js, EJS, SQL, PostgreSQL  
+- **Interests:** Machine Learning, Neural Networks, Deep Learning, AI Research  
+- **Current Focus:** Building intelligent web applications with AI integration  
+- **AI Goals:** Computer Vision, NLP, Reinforcement Learning, AGI Research  
+- **Fun Fact:** I believe AI will revolutionize everything, starting with my code! 🤖  
+- **Motto:** *Teaching machines to think, one algorithm at a time*
+
 
 <!-- 🔥 GitHub Streak Stats -->
 
