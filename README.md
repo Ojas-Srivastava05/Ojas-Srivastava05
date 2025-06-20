@@ -33,17 +33,6 @@
 - **Motto:** *Teaching machines to think, one algorithm at a time*
 
 
-<!-- 🔥 GitHub Streak Stats -->
-<div align="center">
-  <picture>
-    <img src="https://streak-stats.demolab.com?user=ojas-srivastava05&theme=synthwave&hide_border=true&stroke=0000&background=0D1117&ring=00FFE1&fire=FF6B6B&currStreakLabel=00FFE1" alt="GitHub Streak Stats"/>
-  </picture>
-</div>
-
-
-
-
-
 <!-- 🧠 Skills -->
 
 ## 🧠 AI & ML Learning Progress
