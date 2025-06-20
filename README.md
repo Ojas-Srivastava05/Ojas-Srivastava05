@@ -6,7 +6,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:001100,100:00FF00&height=180&section=header&text=OJAS%20SRIVASTAVA&fontSize=65&fontColor=00FF00&animation=twinkling&fontAlignY=50&desc=NEURAL%20NETWORKS%20•%20MACHINE%20LEARNING%20•%20AI%20RESEARCH&descAlignY=75&descSize=16&descColor=FFFFFF"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFE1,100:9D4EDD&height=250&section=header&text=Ojas%20Srivastava&fontSize=60&fontColor=FFFFFF&animation=twinkling&desc=Crafting%20AI%20Solutions%20and%20Neural%20Networks&descSize=18&descAlign=60" />
 
 
 
