@@ -13,7 +13,7 @@
 </div>
 
 ## 🎯 About Me
-
+'''
 javascript
 const ojasAI = {
     name: "Ojas Srivastava",
@@ -30,7 +30,7 @@ const ojasAI = {
     funFact: "I believe AI will revolutionize everything, starting with my code! 🤖",
     motto: "Teaching machines to think, one algorithm at a time"
 };
-
+'''
 // AI Learning Progress
 const learningProgress = {
     machineLearning: "████████░░ 80%",
