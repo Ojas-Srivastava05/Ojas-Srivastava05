@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:001100,100:00FF00&height=180&section=header&text=OJAS%20SRIVASTAVA&fontSize=65&fontColor=00FF00&animation=twinkling&fontAlignY=50&desc=NEURAL%20NETWORKS%20•%20MACHINE%20LEARNING%20•%20AI%20RESEARCH&descAlignY=75&descSize=16&descColor=FFFFFF"/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=OJAS%20SRIVASTAVA&fontSize=70&fontColor=00FFE1&animation=fadeIn&fontAlignY=50&desc=⚡%20BUILDING%20THE%20DIGITAL%20FUTURE%20⚡&descAlignY=75&descSize=18&descColor=FF0080"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF0080,50:8000FF,100:00FFE1&height=200&section=header&text=OJAS%20SRIVASTAVA&fontSize=75&fontColor=FFFFFF&animation=blinking&fontAlignY=50&desc=CYBER%20ARCHITECT%20|%20AI%20VISIONARY&descAlignY=75&descSize=22&descColor=FFFFFF"/>
 
 
 
