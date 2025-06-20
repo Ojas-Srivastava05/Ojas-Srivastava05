@@ -16,170 +16,48 @@
 
 
 
-# ⚡ MATRIX NEURAL INTERFACE ⚡
-
+## 🧬 About Me
 ```
-█▀▄▀█ ▄▀█ ▀█▀ █▀█ █ ▀▄▀   █▄░█ █▀▀ █░█ █▀█ ▄▀█ █░░   █▄░█ █▀▀ ▀█▀ █░█░█ █▀█ █▀█ █▄▀
-█░▀░█ █▀█ ░█░ █▀▄ █ █░█   █░▀█ ██▄ █▄█ █▀▄ █▀█ █▄▄   █░▀█ ██▄ ░█░ ▀▄▀▄▀ █▄█ █▀▄ █░█
-```
-
-## 🟢 **SYSTEM STATUS: ONLINE**
-
-```bash
-> Initializing Neural Network...
-> Loading Consciousness Matrix...
-> Establishing Quantum Entanglement...
-> █████████████████████████████ 100% COMPLETE
-> 
-> CONNECTION ESTABLISHED
-> NEURAL NODE: OJAS-SRIVASTAVA-05
-> MATRIX ACCESS LEVEL: ARCHITECT
+Initializing A.I. Core . . .
+Connection Established with Neural Node: OJAS-SRIVASTAVA-05
 ```
 
----
-
-## 🔴 **IDENTITY MATRIX**
-
-```python
-class DigitalSelf:
-    def __init__(self):
-        self.name = "Ojas Srivastava"
-        self.designation = "AI Engineering Student"
-        self.location = "NIT Surat | Gujarat, India"
-        self.degree = "BTech in Artificial Intelligence"
-        self.year = "Sophomore"
-        self.status = "JACKED IN"
-        
-    def reality_check(self):
-        return "There is no spoon... only code."
+**[IDENTITY]**
+```
+🧠 Name: Ojas Srivastava
+🎓 Title: AI Engineering Student  
+🏛️ University: NIT Surat
+📘 Degree: BTech in Artificial Intelligence
+📅 Year: Sophomore
+📍 Location: Surat, Gujarat, India
 ```
 
----
-
-## 🔋 **TECH STACK MATRIX**
-
-### **CORE PROGRAMS**
+**[TECH STACK]**
 ```
-[████████████████████████████████] HTML5      - MASTERED
-[████████████████████████████████] CSS3       - MASTERED  
-[████████████████████████████████] JavaScript - MASTERED
-[████████████████████████████████] jQuery     - MASTERED
-[████████████████████████████████] Django     - MASTERED
+💻 Core: HTML5, CSS3, JavaScript, jQuery, Django
+⚙️ Learning: React, Node.js, Express.js, EJS, SQL, PostgreSQL
 ```
 
-### **DOWNLOADING SKILLS...**
+**[INTERESTS]**
 ```
-[████████████████████░░░░░░░░░░░░] React      - 65% LOADED
-[████████████████░░░░░░░░░░░░░░░░] Node.js    - 55% LOADED
-[██████████████░░░░░░░░░░░░░░░░░░] Express.js - 45% LOADED
-[████████████░░░░░░░░░░░░░░░░░░░░] EJS        - 40% LOADED
-[██████████░░░░░░░░░░░░░░░░░░░░░░] SQL        - 35% LOADED
-[████████░░░░░░░░░░░░░░░░░░░░░░░░] PostgreSQL - 30% LOADED
+🧠 Domains: Machine Learning, Neural Networks, Deep Learning, AI Research
 ```
 
----
-
-## 🧠 **NEURAL NETWORK SPECIALIZATION**
-
+**[FOCUS]**
 ```
-                    ╔═══════════════════════════════╗
-                    ║     ARTIFICIAL INTELLIGENCE   ║
-                    ║           CORE MATRIX         ║
-                    ╚═══════════════════════════════╝
-                                   │
-                     ┌─────────────┼─────────────┐
-                     │             │             │
-              ┌─────────────┐ ┌─────────────┐ ┌─────────────┐
-              │   MACHINE   │ │   NEURAL    │ │    DEEP     │
-              │  LEARNING   │ │  NETWORKS   │ │  LEARNING   │
-              └─────────────┘ └─────────────┘ └─────────────┘
+🎯 Current Work: Building intelligent web applications with AI integration
+🚀 AI Goals: Computer Vision, NLP, Reinforcement Learning, AGI Research
 ```
 
----
-
-## 🎯 **CURRENT MISSION PARAMETERS**
-
-```bash
-> MISSION: Building intelligent web applications with AI integration
-> OBJECTIVES:
-  ├── Computer Vision Implementation
-  ├── Natural Language Processing
-  ├── Reinforcement Learning Protocols
-  └── AGI Research & Development
-
-> MISSION STATUS: IN PROGRESS...
-> NEXT CHECKPOINT: The Architect's Chamber
+**[FUN BIT]**
+```
+🤖 Quote: "I believe AI will revolutionize everything, starting with my code!"
+💡 Motto: Teaching machines to think, one algorithm at a time
 ```
 
----
-
-## 💊 **CHOICE MATRIX**
-
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  "This is your last chance. After this, there is no going back.             ║
-║   You take the blue pill—the story ends, you wake up in your bed and        ║
-║   believe whatever you want to believe.                                      ║
-║   You take the red pill—you stay in Wonderland, and I show you how          ║
-║   deep the rabbit hole goes in AI Engineering."                             ║
-║                                                                              ║
-║   🔵 BLUE PILL: Traditional Programming                                      ║
-║   🔴 RED PILL: AI Revolution                                                 ║
-║                                                                              ║
-║   CHOICE SELECTED: 🔴 RED PILL                                               ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+System Status: ✅ Online
 ```
-
----
-
-## 🤖 **SYSTEM PHILOSOPHY**
-
-```css
-.matrix-quote {
-    content: "I believe AI will revolutionize everything, starting with my code!";
-    font-family: 'Matrix Code', monospace;
-    color: #00ff00;
-    text-shadow: 0 0 10px #00ff00;
-}
-
-.mission-statement {
-    motto: "Teaching machines to think, one algorithm at a time";
-    purpose: "To bend the rules of reality through code";
-    belief: "There is no bug... only features waiting to be discovered";
-}
-```
-
----
-
-## 🌐 **JACK IN**
-
-```bash
-> To connect to my neural network:
-> Initialize handshake protocol...
-> Establish secure connection...
-> Ready to download consciousness...
-
-[📧] Neural.Link@ojas-srivastava.matrix
-[🔗] GitHub.com/your-username
-[💼] LinkedIn.com/in/your-profile
-[🐦] Twitter.com/your-handle
-```
-
----
-
-```
-    ▄▀█ █ █▀▄▀█   ▄▀█ █▄░█ █▀▄   █▀▀ █▀█ █▀▄ █▀▀
-    █▀█ █ █░▀░█   █▀█ █░▀█ █▄▀   █▄▄ █▄█ █▄▀ ██▄
-    
-    Reality is not what it seems... 
-    Welcome to the Matrix of Artificial Intelligence.
-```
-
-**[⚡ SYSTEM POWERED BY NEURAL ENERGY ⚡]**
-
----
-
-*"The Matrix is everywhere. It is all around us. Even now, in this very GitHub repository."* - Morpheus
 
 
 <!-- 🧠 Skills -->
