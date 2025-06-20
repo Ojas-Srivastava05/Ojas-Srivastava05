@@ -16,8 +16,6 @@
 
 ## 🎯 About Me
 
-## 🎯 About Me
-
 - **Name:** Ojas Srivastava  
 - **Title:** AI Engineering Student  
 - **University:** NIT Surat  
