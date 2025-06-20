@@ -10,8 +10,7 @@
 
 </div>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d33-8ac7-66e30f75f7fd" width="500" alt="Matrix Code Rain"/>
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb2cd32-8239-4afc-a0a9-5a6ac676d2b8" width="500" alt="Cyberpunk Terminal"/>
 <!-- 🎯 About Me -->
 
 ## 🎯 About Me
