@@ -14,7 +14,7 @@
 
 ## 🎯 About Me
 
-```javascript
+javascript
 const ojasAI = {
     name: "Ojas Srivastava",
     title: "AI Engineering Student",
@@ -38,7 +38,7 @@ const learningProgress = {
     algorithms: "███████░░░ 70%",
     aiResearch: "█████░░░░░ 50%"
 };
-```
+
 
 <div align="center">
 
