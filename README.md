@@ -13,49 +13,38 @@
 
 
 <!-- 🎯 About Me -->
-```
-> BOOTING UP NEURAL NODE: [OJAS-SRIVASTAVA-05]
-> Initializing Synapse Engine...
-> Loading Core Identity Modules ████████████ 100%
-> Loading AI Capabilities ████████████ 100%
-> Status: STABLE | Access Level: ROOT_USER
-```
+<div align="left">
 
-┌──────────────────────────────────────────────┐
-│                 SYSTEM IDENTITY              │
-├──────────────────────────────────────────────┤
-│ 👤 Name      : Ojas Srivastava               │
-│ 🎓 Role      : B.Tech in AI, NIT Surat       │
-│ 📍 Location  : Surat, Gujarat, India         │
-│ 📡 Node ID   : OJU-MATRIX-05                 │
-└──────────────────────────────────────────────┘
+> <span style="color:#00FF41">BOOTING UP NEURAL NODE: <b>[OJAS-SRIVASTAVA-05]</b></span><br>
+> Initializing Synapse Engine...<br>
+> Loading Core Identity Modules ████████████ 100%<br>
+> Loading AI Capabilities ████████████ 100%<br>
+> Status: STABLE | Access Level: <b>ROOT_USER</b><br><br>
 
-┌──────────────────────────────────────────────┐
-│               CORE MODULES LOADED            │
-├──────────────────────────────────────────────┤
-│ 💻 HTML5 • CSS3 • JavaScript • Django • jQuery│
-│ ⚙️ React • Node.js • Express • SQL • PostgreSQL│
-└──────────────────────────────────────────────┘
+<b>👤 Name:</b> Ojas Srivastava<br>
+<b>🎓 Role:</b> B.Tech in AI, NIT Surat<br>
+<b>📍 Location:</b> Surat, Gujarat, India<br>
+<b>📡 Node ID:</b> OJU-MATRIX-05<br><br>
 
-┌──────────────────────────────────────────────┐
-│              INTELLIGENCE DOMAINS            │
-├──────────────────────────────────────────────┤
-│ 🤖 Machine Learning • Neural Networks         │
-│ 🧠 Deep Learning • Computer Vision • NLP       │
-│ 🧬 AGI Research • AI-Driven Web Dev           │
-└──────────────────────────────────────────────┘
+<b>🧠 Core Stack:</b> HTML5 • CSS3 • JavaScript • Django • jQuery<br>
+<b>⚙️ Currently Training:</b> React • Node.js • Express • PostgreSQL<br><br>
 
-┌──────────────────────────────────────────────┐
-│              CURRENT OBJECTIVES              │
-├──────────────────────────────────────────────┤
-│ 🔬 Learning: RL, Transformers, Full-Stack AI  │
-│ 🚀 Building: AI-integrated web applications   │
-└──────────────────────────────────────────────┘
+<b>🤖 Intelligence Domains:</b><br>
+- Machine Learning<br>
+- Neural Networks<br>
+- Deep Learning<br>
+- Computer Vision<br>
+- NLP<br>
+- AGI Research<br><br>
 
-```
-> "I believe AI will revolutionize everything — starting with my code."
-> [SYSTEM STATUS: ONLINE ✅]
-```
+<b>🚀 Current Mission:</b><br>
+Build intelligent web applications with AI at the core.<br><br>
+
+> "<i>AI will revolutionize everything — starting with my code.</i>"<br>
+> <b>[SYSTEM STATUS: ✅ ONLINE]</b>
+
+</div>
+
 
 
 <!-- 🧠 Skills -->
