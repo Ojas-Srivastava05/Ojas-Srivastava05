@@ -32,12 +32,12 @@
 <b>⚙️ Currently Training:</b> React • Node.js • Express • PostgreSQL<br><br>
 
 <b>🤖 Intelligence Domains:</b><br>
-- Machine Learning<br>
-- Neural Networks<br>
-- Deep Learning<br>
-- Computer Vision<br>
-- NLP<br>
-- AGI Research<br><br>
+ Machine Learning<br>
+ Neural Networks<br>
+ Deep Learning<br>
+ Computer Vision<br>
+ NLP<br>
+ AGI Research<br><br>
 
 <b>🚀 Current Mission:</b><br>
 Build intelligent web applications with AI at the core.<br><br>
