@@ -104,7 +104,9 @@ System Status: ✅ Online
 </div>
 
 <!-- Leetcode -->
+<div align="center">
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Oju_Srivastava?theme=dark&font=Outfit)
+</div>
 
 <!-- 🔗 Links -->
 
