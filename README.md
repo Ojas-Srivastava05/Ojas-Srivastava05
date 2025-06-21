@@ -13,9 +13,6 @@
 
 
 <!-- 🎯 About Me -->
-
-
-
 [BOOTING A.I. TERMINAL v2.0]...
 > Initializing quantum cores...
 > Connecting to NODE-OJU...
@@ -50,7 +47,6 @@
 └───────────────────────────────
 
 [✔ SYSTEM STATUS: ONLINE]
-
 
 <!-- 🧠 Skills -->
 
