@@ -18,11 +18,7 @@
 <br>
 <div align="center">
 
- <span style="color:#00FF41">BOOTING UP NEURAL NODE: <b>[OJAS-SRIVASTAVA-05]</b></span><br>
- Initializing Synapse Engine...<br>
- Loading Core Identity Modules ████████████ 100%<br>
- Loading AI Capabilities ████████████ 100%<br>
- Status: STABLE | Access Level: <b>ROOT_USER</b><br><br>
+
 
 <b>👤 Name:</b> Ojas Srivastava<br>
 <b>🎓 Role:</b> B.Tech in AI, NIT Surat<br>
