@@ -18,16 +18,16 @@
 <br>
 <div align="center">
 
-> <span style="color:#00FF41">BOOTING UP NEURAL NODE: <b>[OJAS-SRIVASTAVA-05]</b></span><br>
-> Initializing Synapse Engine...<br>
-> Loading Core Identity Modules ████████████ 100%<br>
-> Loading AI Capabilities ████████████ 100%<br>
-> Status: STABLE | Access Level: <b>ROOT_USER</b><br><br>
+ <span style="color:#00FF41">BOOTING UP NEURAL NODE: <b>[OJAS-SRIVASTAVA-05]</b></span><br>
+ Initializing Synapse Engine...<br>
+ Loading Core Identity Modules ████████████ 100%<br>
+ Loading AI Capabilities ████████████ 100%<br>
+ Status: STABLE | Access Level: <b>ROOT_USER</b><br><br>
 
 <b>👤 Name:</b> Ojas Srivastava<br>
 <b>🎓 Role:</b> B.Tech in AI, NIT Surat<br>
 <b>📍 Location:</b> Surat, Gujarat, India<br>
-<b>📡 Node ID:</b> OJU-MATRIX-05<br><br>
+
 
 <b>🧠 Core Stack:</b> HTML5 • CSS3 • JavaScript • Django • jQuery<br>
 <b>⚙️ Currently Training:</b> React • Node.js • Express • PostgreSQL<br><br>
@@ -43,8 +43,8 @@
 <b>🚀 Current Mission:</b><br>
 Build intelligent web applications with AI at the core.<br><br>
 
-> "<i>AI will revolutionize everything — starting with my code.</i>"<br>
-> <b>[SYSTEM STATUS: ✅ ONLINE]</b>
+ "<i>AI will revolutionize everything — starting with my code.</i>"<br>
+ <b>[SYSTEM STATUS: ✅ ONLINE]</b>
 
 </div>
 
