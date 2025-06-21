@@ -103,6 +103,9 @@ System Status: ✅ Online
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojas-srivastava05&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FFE1&text_color=FFFFFF"/>
 </div>
 
+<!-- Leetcode -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/Oju_Srivastava?theme=dark&font=Outfit)
+
 <!-- 🔗 Links -->
 
 ## 🌐 Connect With Me
