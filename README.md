@@ -16,48 +16,40 @@
 
 
 
-## 🧬 About Me
-```
-Initializing A.I. Core . . .
-Connection Established with Neural Node: OJAS-SRIVASTAVA-05
-```
+[BOOTING A.I. TERMINAL v2.0]...
+> Initializing quantum cores...
+> Connecting to NODE-OJU...
+> Handshake complete ✔
+> Identity Matrix Verified
 
-**IDENTITY**
-```
-🧠 Name: Ojas Srivastava
-🎓 Title: AI Engineering Student  
-🏛️ University: NIT Surat
-📘 Degree: BTech in Artificial Intelligence
-📅 Year: Sophomore
-📍 Location: Surat, Gujarat, India
-```
+┌─[ SYSTEM IDENTITY ]
+│ 🧠 Name     : Ojas Srivastava
+│ 🎓 Degree   : B.Tech in Artificial Intelligence
+│ 🏛️ College  : NIT Surat (Sophomore)
+│ 🌍 Location : Surat, Gujarat, India
+└───────────────────────────────
 
-**TECH STACK**
-```
-💻 Core: HTML5, CSS3, JavaScript, jQuery, Django
-⚙️ Learning: React, Node.js, Express.js, EJS, SQL, PostgreSQL
-```
+┌─[ CORE MODULES ]
+│ 💻 HTML • CSS • JavaScript • Django • Python
+│ ⚙️  React • Node.js • SQL • PostgreSQL • EJS
+└───────────────────────────────
 
-**INTERESTS**
-```
-🧠 Domains: Machine Learning, Neural Networks, Deep Learning, AI Research
-```
+┌─[ INTELLIGENCE DOMAINS ]
+│ 🤖 Machine Learning • Neural Nets • Deep Learning
+│ 🧠 AI Research • CV • NLP • AGI
+└───────────────────────────────
 
-**FOCUS**
-```
-🎯 Current Work: Building intelligent web applications with AI integration
-🚀 AI Goals: Computer Vision, NLP, Reinforcement Learning, AGI Research
-```
+┌─[ CURRENT EXECUTION ]
+│ 🚧 Building AI-integrated web apps
+│ 🎯 Focused on learning & solving with intelligence
+└───────────────────────────────
 
-**FUN BIT**
-```
-🤖 Quote: "I believe AI will revolutionize everything, starting with my code!"
-💡 Motto: Teaching machines to think, one algorithm at a time
-```
+┌─[ SYSTEM LOGS ]
+│ 💡 Motto : Teaching machines to think
+│ 🤖 Quote : "AI will revolutionize everything — starting with my code."
+└───────────────────────────────
 
-```
-System Status: ✅ Online
-```
+[✔ SYSTEM STATUS: ONLINE]
 
 
 <!-- 🧠 Skills -->
