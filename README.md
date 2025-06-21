@@ -96,7 +96,7 @@ System Status: ✅ Online
 
 <!-- 📊 Stats -->
 
-## 📊 GitHub Analytics
+## 📊 Coding Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ojas-srivastava05&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFE1&icon_color=FF6B6B&text_color=FFFFFF"/>
