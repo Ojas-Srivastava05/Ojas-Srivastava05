@@ -106,6 +106,9 @@ System Status: ✅ Online
 <!-- Leetcode -->
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Oju_Srivastava?theme=dark&font=Outfit)
+
+![Codeforces Rating](https://cf.leed.at?id=<Oju>)
+
 </div>
 
 <!-- 🔗 Links -->
