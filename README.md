@@ -15,7 +15,7 @@
 <!-- 🎯 About Me -->
 <br>
 <br>
-<div align="left">
+<div align="center">
 
 > <span style="color:#00FF41">BOOTING UP NEURAL NODE: <b>[OJAS-SRIVASTAVA-05]</b></span><br>
 > Initializing Synapse Engine...<br>
