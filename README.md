@@ -13,40 +13,50 @@
 
 
 <!-- 🎯 About Me -->
-[BOOTING A.I. TERMINAL v2.0]...
-> Initializing quantum cores...
-> Connecting to NODE-OJU...
-> Handshake complete ✔
-> Identity Matrix Verified
+```
+> BOOTING UP NEURAL NODE: [OJAS-SRIVASTAVA-05]
+> Initializing Synapse Engine...
+> Loading Core Identity Modules ████████████ 100%
+> Loading AI Capabilities ████████████ 100%
+> Status: STABLE | Access Level: ROOT_USER
+```
 
-┌─[ SYSTEM IDENTITY ]
-│ 🧠 Name     : Ojas Srivastava
-│ 🎓 Degree   : B.Tech in Artificial Intelligence
-│ 🏛️ College  : NIT Surat (Sophomore)
-│ 🌍 Location : Surat, Gujarat, India
-└───────────────────────────────
+┌──────────────────────────────────────────────┐
+│                 SYSTEM IDENTITY              │
+├──────────────────────────────────────────────┤
+│ 👤 Name      : Ojas Srivastava               │
+│ 🎓 Role      : B.Tech in AI, NIT Surat       │
+│ 📍 Location  : Surat, Gujarat, India         │
+│ 📡 Node ID   : OJU-MATRIX-05                 │
+└──────────────────────────────────────────────┘
 
-┌─[ CORE MODULES ]
-│ 💻 HTML • CSS • JavaScript • Django • Python
-│ ⚙️  React • Node.js • SQL • PostgreSQL • EJS
-└───────────────────────────────
+┌──────────────────────────────────────────────┐
+│               CORE MODULES LOADED            │
+├──────────────────────────────────────────────┤
+│ 💻 HTML5 • CSS3 • JavaScript • Django • jQuery│
+│ ⚙️ React • Node.js • Express • SQL • PostgreSQL│
+└──────────────────────────────────────────────┘
 
-┌─[ INTELLIGENCE DOMAINS ]
-│ 🤖 Machine Learning • Neural Nets • Deep Learning
-│ 🧠 AI Research • CV • NLP • AGI
-└───────────────────────────────
+┌──────────────────────────────────────────────┐
+│              INTELLIGENCE DOMAINS            │
+├──────────────────────────────────────────────┤
+│ 🤖 Machine Learning • Neural Networks         │
+│ 🧠 Deep Learning • Computer Vision • NLP       │
+│ 🧬 AGI Research • AI-Driven Web Dev           │
+└──────────────────────────────────────────────┘
 
-┌─[ CURRENT EXECUTION ]
-│ 🚧 Building AI-integrated web apps
-│ 🎯 Focused on learning & solving with intelligence
-└───────────────────────────────
+┌──────────────────────────────────────────────┐
+│              CURRENT OBJECTIVES              │
+├──────────────────────────────────────────────┤
+│ 🔬 Learning: RL, Transformers, Full-Stack AI  │
+│ 🚀 Building: AI-integrated web applications   │
+└──────────────────────────────────────────────┘
 
-┌─[ SYSTEM LOGS ]
-│ 💡 Motto : Teaching machines to think
-│ 🤖 Quote : "AI will revolutionize everything — starting with my code."
-└───────────────────────────────
+```
+> "I believe AI will revolutionize everything — starting with my code."
+> [SYSTEM STATUS: ONLINE ✅]
+```
 
-[✔ SYSTEM STATUS: ONLINE]
 
 <!-- 🧠 Skills -->
 
