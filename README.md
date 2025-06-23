@@ -96,6 +96,9 @@ Build intelligent web applications with AI at the core.<br><br>
 <!-- Codeforces -->
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Oju)
 
+<!--Kaggle-->
+![Kaggle Summary](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?ojassrivastava05)
+
 </div>
 
 <!-- 🔗 Links -->
