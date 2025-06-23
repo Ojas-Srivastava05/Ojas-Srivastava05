@@ -69,6 +69,8 @@ Build intelligent web applications with AI at the core.<br><br>
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-20232A?style=for-the-badge&logo=javascript&logoColor=white)
+
 
 ### AI/ML Focus 🤖
 
