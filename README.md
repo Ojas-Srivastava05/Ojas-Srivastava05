@@ -52,34 +52,34 @@ Build intelligent web applications with AI at the core.<br><br>
 
 <div align="center">
 
-### 🚀 Current Skills
+<h3>🚀 Current Skills</h3>
 
-<img src="https://img.shields.io/badge/HTML5-%23FF5733?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-%2300BFFF?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-%23FFFF00?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/jQuery-%238A2BE2?style=for-the-badge&logo=jquery&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-%234B8BBE?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-%23009200?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-%2300FF00?style=for-the-badge&logo=node.js&logoColor=black" />
-<img src="https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/EJS-%23202020?style=for-the-badge&logo=javascript&logoColor=%23FFD700" />
-<img src="https://img.shields.io/badge/Figma-%23FF00FF?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" style="margin:10px; filter: invert(100%);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" style="margin:10px;" />
 
-### 🧠 Currently Learning
+<h3>📚 Currently Learning</h3>
 
-<img src="https://img.shields.io/badge/React-%2300FFFF?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/PostgreSQL-%23416CD2?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-%23007FFF?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" style="margin:10px;" />
 
-### 🤖 AI/ML Focus
+<h3>🤖 AI/ML Tools</h3>
 
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="50" style="margin:10px;" />
 
 </div>
+
 
 <!-- 📊 Stats -->
 
