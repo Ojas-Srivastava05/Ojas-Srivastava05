@@ -90,8 +90,10 @@ Build intelligent web applications with AI at the core.<br><br>
 <!-- Cohere -->
 <img src="https://assets-global.website-files.com/61e86a9942f42230fb5ecbc4/642d529885c2f04f099e94eb_cohere-logo-black.svg" height="50" style="margin:10px;" />
 
+
 <!-- OpenAI -->
-<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/openai.svg" height="50" style="margin:10px;" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="50" style="margin:10px;" />
+
 
 
 
