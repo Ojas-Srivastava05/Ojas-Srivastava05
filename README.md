@@ -87,11 +87,12 @@ Build intelligent web applications with AI at the core.<br><br>
 <!-- Postman -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" style="margin:10px;" />
 
-<!-- Cohere (no official Devicon, using fallback) -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Cohere_logo.svg" height="50" style="margin:10px;" />
+<!-- Cohere -->
+<img src="https://assets-global.website-files.com/61e86a9942f42230fb5ecbc4/642d529885c2f04f099e94eb_cohere-logo-black.svg" height="50" style="margin:10px;" />
 
-<!-- OpenAI / ChatGPT -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" height="50" style="margin:10px;" />
+<!-- OpenAI -->
+<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/openai.svg" height="50" style="margin:10px;" />
+
 
 
 </div>
