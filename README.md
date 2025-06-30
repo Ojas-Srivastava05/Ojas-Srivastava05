@@ -88,7 +88,8 @@ Build intelligent web applications with AI at the core.<br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" style="margin:10px;" />
 
 <!-- Cohere -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cohere_logo.svg/512px-Cohere_logo.svg.png" height="50" style="margin:10px;" />
+![Cohere](https://img.shields.io/badge/Cohere_API-000?style=for-the-badge&logo=cohere&logoColor=white)
+
 
 
 
