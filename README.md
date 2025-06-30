@@ -97,6 +97,10 @@ Build intelligent web applications with AI at the core.<br><br>
 <!-- OpenAI -->
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="50" style="margin:10px;" />
 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cohere](https://img.shields.io/badge/Cohere_API-1A1A1A?style=for-the-badge&logo=cohere&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 
 
 
