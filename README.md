@@ -82,6 +82,18 @@ Build intelligent web applications with AI at the core.<br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" style="margin:10px;" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50" style="margin:10px;" />
 
+### 🌐 API Tools
+
+<!-- Postman -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" style="margin:10px;" />
+
+<!-- Cohere (no official Devicon, using fallback) -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Cohere_logo.svg" height="50" style="margin:10px;" />
+
+<!-- OpenAI / ChatGPT -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" height="50" style="margin:10px;" />
+
+
 </div>
 
 
