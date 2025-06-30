@@ -69,6 +69,7 @@ Build intelligent web applications with AI at the core.<br><br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
+
 <h3>📚 Currently Learning</h3>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" style="margin:10px;" />
