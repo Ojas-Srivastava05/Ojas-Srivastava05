@@ -67,7 +67,7 @@ Build intelligent web applications with AI at the core.<br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" style="margin:10px; filter: invert(100%);" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" style="margin:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" style="margin:10px;" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg" height="50" style="margin:10px; filter: invert(47%) sepia(89%) saturate(431%) hue-rotate(145deg) brightness(93%) contrast(90%);" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg" height="50" style="margin:10px; filter: invert(17%) sepia(89%) saturate(431%) hue-rotate(145deg) brightness(93%) contrast(40%);" />
 
 
 
