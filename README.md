@@ -67,6 +67,8 @@ Build intelligent web applications with AI at the core.<br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" style="margin:10px; filter: invert(100%);" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" style="margin:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" style="margin:10px;" />
+
 
 <h3>📚 Currently Learning</h3>
 
