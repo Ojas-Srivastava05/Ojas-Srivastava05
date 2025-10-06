@@ -12,8 +12,9 @@
 </div>
 
 <!-- Trophy 1: Single Row - Radical Theme -->
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ojas-srivastava05&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="trophy" />
-
+</div>
 <!-- 🎯 About Me -->
 
 <br>
