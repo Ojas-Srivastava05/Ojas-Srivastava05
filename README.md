@@ -14,18 +14,6 @@
 <!-- Trophy 1: Single Row - Radical Theme -->
 <img src="https://github-profile-trophy.vercel.app/?username=ojas-srivastava05&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="trophy" />
 
-<!-- Trophy 2: Double Row - Dracula Theme -->
-<img src="https://github-profile-trophy.vercel.app/?username=ojas-srivastava05&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="trophy" />
-
-<!-- Trophy 3: Compact Grid - Gruvbox Theme -->
-<img src="https://github-profile-trophy.vercel.app/?username=ojas-srivastava05&theme=gruvbox&no-frame=true&no-bg=true&margin-w=3&row=2&column=3" alt="trophy" />
-
-<!-- Trophy 4: Wide Display - Monokai Theme with Top Ranks Only -->
-<img src="https://github-profile-trophy.vercel.app/?username=ojas-srivastava05&theme=monokai&no-frame=true&no-bg=false&margin-w=5&row=1&column=8&rank=SECRET,SSS,SS,S,AAA,AA" alt="trophy" />
-
-<!-- Trophy 5: Vertical Stack - Nord Theme -->
-<img src="https://github-profile-trophy.vercel.app/?username=ojas-srivastava05&theme=nord&no-frame=false&no-bg=false&margin-w=4&row=3&column=3" alt="trophy" />
-
 <!-- 🎯 About Me -->
 
 <br>
