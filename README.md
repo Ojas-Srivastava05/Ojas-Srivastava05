@@ -124,7 +124,7 @@ Build intelligent web applications with AI at the core.<br><br>
 
 <!-- Leetcode -->
 <br><br>
-https://codechef-readme-stats.onrender.com/ojassrivastava?v=1
+![CodeChef Stats](https://codechef-readme-stats.onrender.com/ojassrivastava?v=1)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Oju_Srivastava?theme=dark&font=Outfit)
 
