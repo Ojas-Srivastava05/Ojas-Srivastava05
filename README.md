@@ -1,279 +1,191 @@
-<!-- ══════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- █▀▀ █░░ █ ▀█▀ █▀▀   █▀▄ █▀▀ █░█ █▀▀ █░░ █▀█ █▀█ █▀▀ █▀█   █▀█ █▀█ █▀█ █▀▀ █ █░░ █▀▀ -->
-<!-- ██▄ █▄▄ █ ░█░ ██▄   █▄▀ ██▄ ▀▄▀ ██▄ █▄▄ █▄█ █▀▀ ██▄ █▀▄   █▀▀ █▀▄ █▄█ █▀░ █ █▄▄ ██▄ -->
-<!-- ══════════════════════════════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-```ascii
-   ╔═══════════════════════════════════════════════════════════════════════════════╗
-   ║                                                                               ║
-   ║    ██████╗      ██╗ █████╗ ███████╗    ███████╗██████╗ ██╗██╗   ██╗ █████╗  ║
-   ║   ██╔═══██╗     ██║██╔══██╗██╔════╝    ██╔════╝██╔══██╗██║██║   ██║██╔══██╗ ║
-   ║   ██║   ██║     ██║███████║███████╗    ███████╗██████╔╝██║██║   ██║███████║ ║
-   ║   ██║   ██║██   ██║██╔══██║╚════██║    ╚════██║██╔══██╗██║╚██╗ ██╔╝██╔══██║ ║
-   ║   ╚██████╔╝╚█████╔╝██║  ██║███████║    ███████║██║  ██║██║ ╚████╔╝ ██║  ██║ ║
-   ║    ╚═════╝  ╚════╝ ╚═╝  ╚═╝╚══════╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═╝  ╚═╝ ║
-   ║                                                                               ║
-   ║          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓          ║
-   ║          ▓ AI ENGINEER • FULL-STACK ARCHITECT • ML RESEARCHER ▓          ║
-   ║          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓          ║
-   ║                                                                               ║
-   ╚═══════════════════════════════════════════════════════════════════════════════╝
-```
+# OJAS SRIVASTAVA
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Building+the+Future+with+Neural+Networks;Training+Models+%7C+Deploying+Systems+%7C+Solving+Problems" alt="Typing SVG" />
+**AI Engineer • Full-Stack Developer • ML Researcher**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ojas-srivastava05&color=00ff00&style=flat-square&label=SYSTEM+ACCESS)](https://github.com/ojas-srivastava05)
-![Build Status](https://img.shields.io/badge/Build-Passing-00ff00?style=flat-square&logo=github-actions)
-![Code Quality](https://img.shields.io/badge/Code%20Quality-A+-00ff00?style=flat-square&logo=codacy)
-![Uptime](https://img.shields.io/badge/Uptime-99.9%25-00ff00?style=flat-square&logo=uptimerobot)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Building+Intelligent+Systems;Solving+Complex+Problems;Architecting+Scalable+Solutions)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ojas-srivastava05)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ojas-srivastava.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavaojas454@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/oju_srivastava)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ojas-srivastava05&color=blue&style=flat-square)
 
 </div>
 
 ---
 
-## `$ whoami`
+## 👨‍💻 About Me
 
 ```python
-class AIEngineer:
+class Developer:
     def __init__(self):
         self.name = "Ojas Srivastava"
-        self.role = "AI/ML Engineer & Full-Stack Developer"
-        self.education = "B.Tech in Artificial Intelligence @ NIT Surat"
+        self.role = "AI Engineer & Full-Stack Developer"
+        self.education = "B.Tech in AI @ NIT Surat"
         self.location = "Surat, Gujarat, India"
-        self.languages = ["Python", "JavaScript", "C++", "C", "SQL"]
-        self.current_focus = [
-            "Building production-grade AI systems",
-            "Architecting scalable web applications",
-            "Research in AGI and Neural Networks"
-        ]
         
-    def get_tech_stack(self):
+    def current_work(self):
         return {
-            "frontend": ["React", "HTML5", "CSS3", "Tailwind", "Bootstrap", "jQuery"],
-            "backend": ["Django", "Node.js", "Express", "PostgreSQL", "MongoDB"],
-            "ai_ml": ["TensorFlow", "PyTorch", "scikit-learn", "Pandas", "NumPy"],
-            "tools": ["Git", "Postman", "Figma", "Docker"],
-            "apis": ["OpenAI GPT", "Cohere", "RESTful APIs"]
+            "focus": ["Production AI Systems", "Scalable Web Apps", "ML Research"],
+            "learning": ["React Advanced Patterns", "Microservices", "Transformers"],
+            "status": "Building the future, one commit at a time"
         }
-    
-    def current_objective(self):
-        return "Transform complex problems into elegant AI-powered solutions"
-
-# Initialize instance
-developer = AIEngineer()
-print(f"[SYSTEM] {developer.name} is online and ready to build.")
 ```
 
-```bash
-> Status: ✅ OPERATIONAL
-> Mission: Building intelligent systems that matter
-> Availability: Open for collaboration on cutting-edge projects
-```
+I specialize in developing intelligent systems that combine machine learning with full-stack engineering. Currently focused on building production-grade AI applications and researching neural network architectures.
 
 ---
 
-## `$ cat technical_arsenal.yml`
-
-<details open>
-<summary><b>🎯 CORE TECHNOLOGIES</b></summary>
-
-<br>
-
-### **Languages & Frameworks**
-
-```yaml
-expert_level:
-  - Python       # AI/ML Development, Backend Engineering
-  - JavaScript   # Full-Stack Web Development
-  - C++/C        # System Programming, Competitive Coding
-  
-frameworks:
-  web:
-    - Django     # Robust backend architecture
-    - Express.js # Lightweight, scalable APIs
-    - React      # Modern UI/UX development
-  
-  ai_ml:
-    - TensorFlow # Deep Learning models
-    - PyTorch    # Neural Network research
-    - scikit-learn # Classical ML algorithms
-```
-
-### **Data & Databases**
-
-| Technology | Proficiency | Use Case |
-|-----------|-------------|----------|
-| PostgreSQL | ████████░░ 80% | Production relational databases |
-| MongoDB | ███████░░░ 70% | NoSQL document storage |
-| MySQL | ████████░░ 80% | Traditional RDBMS |
-| Pandas/NumPy | █████████░ 90% | Data manipulation & analysis |
-
-### **DevOps & Tools**
+## 🛠️ Tech Stack
 
 <div align="center">
 
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend & Databases
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Tools & APIs
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
-</details>
-
-<details>
-<summary><b>🤖 AI/ML SPECIALIZATIONS</b></summary>
-
-<br>
-
-```mermaid
-mindmap
-  root((AI/ML Arsenal))
-    Deep Learning
-      Neural Networks
-      CNNs
-      RNNs/LSTMs
-      Transformers
-    Computer Vision
-      Image Classification
-      Object Detection
-      Semantic Segmentation
-    Natural Language Processing
-      Text Generation
-      Sentiment Analysis
-      Named Entity Recognition
-    Classical ML
-      Regression
-      Classification
-      Clustering
-      Ensemble Methods
-```
-
-**Current Research Interests:**
-- Large Language Models (LLMs) integration
-- Reinforcement Learning applications
-- Edge AI deployment
-- AGI foundational research
-
-</details>
-
----
-
-## `$ git log --stat --performance`
-
-<div align="center">
-
-### **📊 Development Metrics**
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ojas-Srivastava05&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFE1&icon_color=00FF00&text_color=C9D1D9&rank_icon=github"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ojas-Srivastava05&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FFE1&fire=FF6B6B&currStreakLabel=00FFE1"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ojas-Srivastava05&layout=compact&langs_count=10&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFE1&text_color=C9D1D9"/>
-
-### **🏆 Achievement Showcase**
-
-<img src="https://github-profile-trophy.vercel.app/?username=ojas-srivastava05&theme=matrix&no-frame=true&no-bg=false&margin-w=4&row=1&column=8" alt="trophy" />
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
 ---
 
-## `$ ./competitive_coding --status`
+## 📊 GitHub Analytics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ojas-Srivastava05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ojas-Srivastava05&theme=tokyonight&hide_border=true"/>
+</div>
 
-### **⚔️ Problem Solving Arsenal**
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ojas-Srivastava05&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ojas-srivastava05&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="trophy" />
+</div>
+
+---
+
+## 💻 Competitive Programming
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-#### **LeetCode**
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Oju_Srivastava?theme=dark&font=Outfit&ext=contest)](https://leetcode.com/oju_srivastava)
+### LeetCode
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Oju_Srivastava?theme=dark&font=Baloo%202&ext=contest)](https://leetcode.com/oju_srivastava)
 
-**Focus Areas:**
-- Dynamic Programming
-- Graph Theory
-- System Design
+**300+ Problems Solved**
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-#### **CodeForces**
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Oju&theme=github_dark&force_username=true&border_color=00ff00)
+### CodeForces
+![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=Oju&theme=github_dark)
 
-**Strengths:**
-- Algorithmic Optimization
-- Mathematical Programming
-- Data Structures
+**Active Competitor**
 
 </td>
 </tr>
 </table>
 
-```python
-class CompetitiveCoder:
-    platforms = {
-        "LeetCode": {"solved": "300+", "rating": "Rising"},
-        "CodeForces": {"contests": "Active", "problems": "500+"},
-        "Kaggle": {"competitions": "Participating", "notebooks": "15+"}
-    }
-    
-    philosophy = "Every problem is an opportunity to optimize"
-```
+**Focus Areas:** Dynamic Programming • Graph Theory • Data Structures • Algorithm Optimization
 
 </div>
 
 ---
 
-## `$ docker ps --projects`
+## 🚀 What I'm Working On
 
-<div align="center">
+```javascript
+const currentProjects = {
+    ai_ml: [
+        "Neural network architectures for computer vision",
+        "NLP-based sentiment analysis systems",
+        "Recommendation engines with deep learning"
+    ],
+    fullstack: [
+        "E-commerce platform with React & Node.js",
+        "Real-time analytics dashboard",
+        "Task management system with Django"
+    ],
+    research: [
+        "Transformer models and attention mechanisms",
+        "Edge AI deployment strategies",
+        "AGI foundational concepts"
+    ]
+};
+```
 
-### **🚀 Featured Projects**
+---
 
-</div>
+## 🎯 Areas of Expertise
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-### **🧠 AI-Powered Applications**
-```yaml
-projects:
-  - name: "Neural Style Transfer Engine"
-    tech: [TensorFlow, Flask, React]
-    status: "Production Ready"
-    
-  - name: "Real-time Sentiment Analyzer"
-    tech: [PyTorch, FastAPI, WebSockets]
-    status: "Active Development"
-    
-  - name: "Intelligent Chatbot Framework"
-    tech: [OpenAI API, Django, PostgreSQL]
-    status: "Deployed"
-```
+### 🤖 Machine Learning
+- Deep Neural Networks
+- Computer Vision (CNNs)
+- Natural Language Processing
+- Reinforcement Learning
+- Model Optimization
 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
 
-### **🌐 Full-Stack Solutions**
-```yaml
-projects:
-  - name: "E-Commerce Platform"
-    tech: [React, Node.js, MongoDB]
-    status: "Live"
-    
-  - name: "Social Media Analytics Dashboard"
-    tech: [Django, Pandas, Chart.js]
-    status: "Beta Testing"
-    
-  - name: "Task Management System"
-    tech: [Express, PostgreSQL, React]
-    status: "Production"
-```
+### 🌐 Web Development
+- RESTful API Design
+- Database Architecture
+- Responsive UI/UX
+- Real-time Applications
+- Cloud Deployment
+
+</td>
+<td width="33%" valign="top">
+
+### 📊 Data Science
+- Statistical Analysis
+- Data Visualization
+- Feature Engineering
+- Model Evaluation
+- Big Data Processing
 
 </td>
 </tr>
@@ -281,201 +193,61 @@ projects:
 
 ---
 
-## `$ curl -X GET /api/v1/skills --format=visual`
+## 📈 Contribution Activity
 
 <div align="center">
 
-### **💻 Technology Stack Visualization**
-
-#### **Frontend Development**
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,jquery,figma&theme=dark" />
-
-#### **Backend & Databases**
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,express,postgres,mongodb,mysql&theme=dark" />
-
-#### **AI/ML & Data Science**
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" />
-
-#### **Tools & Version Control**
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark" />
-
-#### **Programming Languages**
-<img src="https://skillicons.dev/icons?i=python,js,cpp,c&theme=dark" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ojas-srivastava05&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ojas-srivastava05)
 
 </div>
 
 ---
 
-## `$ ./connect --professional-network`
+## 🎓 Continuous Learning
+
+Currently exploring and mastering:
+
+- **Advanced React:** State management patterns, performance optimization, server-side rendering
+- **Microservices:** Distributed systems architecture, API gateways, service mesh
+- **ML Research:** Latest papers on transformers, attention mechanisms, and model compression
+- **Cloud Technologies:** AWS, GCP, containerization, and orchestration
+
+---
+
+## 💼 Open For
+
+- Full-time AI/ML Engineering positions (2026+)
+- Software development internships
+- Research collaborations in ML/AI
+- Open source project contributions
+- Technical consulting opportunities
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
 
-### **🌐 Professional Networks**
-
-<table>
-<tr>
-<td align="center" width="20%">
-<a href="https://linkedin.com/in/ojas-srivastava05">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><br>
-<sub><b>Professional Profile</b></sub>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/ojas-srivastava05">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><br>
-<sub><b>Code Repository</b></sub>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://ojas-srivastava.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /><br>
-<sub><b>Personal Website</b></sub>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="mailto:srivastavaojas454@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><br>
-<sub><b>Direct Contact</b></sub>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://www.kaggle.com/ojassrivastava05">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /><br>
-<sub><b>ML Competitions</b></sub>
-</a>
-</td>
-</tr>
-<tr>
-<td align="center" width="20%">
-<a href="https://leetcode.com/oju_srivastava">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /><br>
-<sub><b>Coding Practice</b></sub>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://codeforces.com/profile/oju">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /><br>
-<sub><b>Competitive Coding</b></sub>
-</a>
-</td>
-<td colspan="3" align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ojas-srivastava05)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ojas-srivastava05)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ojas-srivastava.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavaojas454@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ojassrivastava05)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/oju_srivastava)
+[![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/oju)
 
 **📧 Business Inquiries:** srivastavaojas454@gmail.com
 
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## `$ cat philosophy.txt`
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║     "Code is poetry written for machines to execute              ║
-║      and humans to understand."                                  ║
-║                                                                  ║
-║     • Every bug is a lesson in disguise                          ║
-║     • Optimization is an art, not just science                   ║
-║     • AI will augment, not replace, human creativity             ║
-║     • Clean code > Clever code                                   ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## `$ ./current_status --json`
-
-```json
-{
-  "status": "ACTIVELY DEVELOPING",
-  "current_projects": [
-    "AI-powered recommendation system",
-    "Full-stack e-learning platform",
-    "Computer vision research project"
-  ],
-  "learning": [
-    "Advanced React patterns",
-    "Microservices architecture",
-    "Transformer models & attention mechanisms",
-    "Cloud deployment (AWS/GCP)"
-  ],
-  "open_to": [
-    "Collaborative AI/ML projects",
-    "Full-stack development opportunities",
-    "Open source contributions",
-    "Research collaborations"
-  ],
-  "availability": {
-    "freelance": true,
-    "internships": true,
-    "full_time": "2026",
-    "remote": true
-  }
-}
-```
-
----
-
-<div align="center">
-
-### **📈 Contribution Graph**
-
-[![Ojas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ojas-srivastava05&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FFE1&line=00FF00&point=FF6B6B)](https://github.com/ojas-srivastava05)
-
 </div>
 
 ---
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│  💡 "The best way to predict the future is to build it."          │
-│                                                                     │
-│  🚀 Currently training neural networks and deploying systems       │
-│  🧠 Building AI that matters, one model at a time                  │
-│  🌍 Open to collaborating on innovative projects worldwide         │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+### "Building intelligent systems that solve real-world problems"
 
-### **⚡ Quick Stats**
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-100K+-00ff00?style=flat-square&logo=git)
-![Projects Deployed](https://img.shields.io/badge/Projects%20Deployed-25+-00ff00?style=flat-square&logo=rocket)
-![Models Trained](https://img.shields.io/badge/Models%20Trained-50+-00ff00?style=flat-square&logo=tensorflow)
-![Coffee Consumed](https://img.shields.io/badge/Coffee%20Consumed-∞-00ff00?style=flat-square&logo=buy-me-a-coffee)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Build%20Something%20Amazing&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=70" />
-
-**⭐ If you find my work interesting, consider starring some repositories!**
-
-![Footer](https://img.shields.io/badge/Made%20with-💚%20%26%20☕-00ff00?style=for-the-badge)
+⭐ **If you find my work interesting, feel free to star my repositories!**
 
 </div>
-
-<!-- Easter Egg for fellow developers -->
-<!--
-    ████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗███████╗
-    ╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝██╔════╝
-       ██║   ███████║███████║██╔██╗ ██║█████╔╝ ███████╗
-       ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗ ╚════██║
-       ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗███████║
-       ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
-    
-    for visiting! Let's connect and build the future together.
--->
