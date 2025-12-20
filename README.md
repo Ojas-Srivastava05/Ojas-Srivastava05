@@ -1,253 +1,158 @@
+<!-- README.md for GitHub profile - Ojas Srivastava -->
+<!-- Save this in the README.md of your repository named 'ojassrivastava' -->
+
+<!-- 🚀 Welcome Section -->
 <div align="center">
 
-# OJAS SRIVASTAVA
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:001100,100:00FF00&height=180&section=header&text=OJAS%20SRIVASTAVA&fontSize=65&fontColor=00FF00&animation=twinkling&fontAlignY=50&desc=ARTIFICIAL%20INTELLIGENCE%20•%20MACHINE%20LEARNING%20•%20WEB%20DEVELOPMENT&descAlignY=75&descSize=16&descColor=FFFFFF"/>
 
-**AI Engineer • Full-Stack Developer • ML Researcher**
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="500" alt="GitHub Snake"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Building+Intelligent+Systems;Solving+Complex+Problems;Architecting+Scalable+Solutions)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ojas-srivastava05)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ojas-srivastava.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavaojas454@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/oju_srivastava)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ojas-srivastava05&color=blue&style=flat-square)
 
 </div>
 
----
+<!-- Trophy 1: Single Row - Radical Theme -->
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ojas-srivastava05&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="trophy" />
+</div>
+<!-- 🎯 About Me -->
 
-## 👨‍💻 About Me
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Ojas Srivastava"
-        self.role = "AI Engineer & Full-Stack Developer"
-        self.education = "B.Tech in AI @ NIT Surat"
-        self.location = "Surat, Gujarat, India"
-        
-    def current_work(self):
-        return {
-            "focus": ["Production AI Systems", "Scalable Web Apps", "ML Research"],
-            "learning": ["React Advanced Patterns", "Microservices", "Transformers"],
-            "status": "Building the future, one commit at a time"
-        }
-```
-
-I specialize in developing intelligent systems that combine machine learning with full-stack engineering. Currently focused on building production-grade AI applications and researching neural network architectures.
-
----
-
-## 🛠️ Tech Stack
-
+<br>
+<br>
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend & Databases
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<b>👤 Name:</b> Ojas Srivastava<br>
+<b>🎓 Role:</b> B.Tech in AI, NIT Surat<br>
+<b>📍 Location:</b> Surat, Gujarat, India<br>
 
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Tools & APIs
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+<b>🧠 Core Stack:</b> HTML5 • CSS3 • JavaScript • Django • jQuery<br>
+<b>⚙️ Currently Training:</b> React • Node.js • Express • PostgreSQL<br><br>
+
+<b>🤖 Intelligence Domains:</b><br>
+ Machine Learning<br>
+ Neural Networks<br>
+ Deep Learning<br>
+ Computer Vision<br>
+ NLP<br>
+ AGI Research<br><br>
+
+<b>🚀 Current Mission:</b><br>
+Build intelligent web applications with AI at the core.<br><br>
+
+ "<i>AI will revolutionize everything — starting with my code.</i>"<br>
+ <b>[SYSTEM STATUS: ✅ ONLINE]</b>
 
 </div>
 
----
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ojas-Srivastava05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ojas-Srivastava05&theme=tokyonight&hide_border=true"/>
-</div>
+<!-- 🧠 Skills -->
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ojas-Srivastava05&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ojas-srivastava05&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="trophy" />
-</div>
-
----
-
-## 💻 Competitive Programming
+## 🧠 AI , ML & Web Development Learning Progress 
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
+<h3>🚀 Current Skills</h3>
 
-### LeetCode
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Oju_Srivastava?theme=dark&font=Baloo%202&ext=contest)](https://leetcode.com/oju_srivastava)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" style="margin:10px; filter: invert(100%);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg" height="50" style="margin:10px; filter: invert(17%) sepia(89%) saturate(431%) hue-rotate(145deg) brightness(93%) contrast(40%);" />
 
-**300+ Problems Solved**
 
-</td>
-<td width="50%" align="center">
 
-### CodeForces
-![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=Oju&theme=github_dark)
+<h3>📚 Currently Learning</h3>
 
-**Active Competitor**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" style="margin:10px;" />
 
-</td>
-</tr>
-</table>
 
-**Focus Areas:** Dynamic Programming • Graph Theory • Data Structures • Algorithm Optimization
+<h3>🤖 AI/ML Tools</h3>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" style="margin:10px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50" style="margin:10px;" />
+
+### 🌐 API Tools
+
+<!-- Postman -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" style="margin:10px;" />
+
+<!-- Cohere -->
+![Cohere](https://img.shields.io/badge/Cohere_API-000?style=for-the-badge&logo=cohere&logoColor=white)
+
+
+
+
+
+<!-- OpenAI -->
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="50" style="margin:10px;" />
+
+
+
+
 
 </div>
 
----
 
-## 🚀 What I'm Working On
 
-```javascript
-const currentProjects = {
-    ai_ml: [
-        "Neural network architectures for computer vision",
-        "NLP-based sentiment analysis systems",
-        "Recommendation engines with deep learning"
-    ],
-    fullstack: [
-        "E-commerce platform with React & Node.js",
-        "Real-time analytics dashboard",
-        "Task management system with Django"
-    ],
-    research: [
-        "Transformer models and attention mechanisms",
-        "Edge AI deployment strategies",
-        "AGI foundational concepts"
-    ]
-};
-```
+<!-- 📊 Stats -->
 
----
-
-## 🎯 Areas of Expertise
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🤖 Machine Learning
-- Deep Neural Networks
-- Computer Vision (CNNs)
-- Natural Language Processing
-- Reinforcement Learning
-- Model Optimization
-
-</td>
-<td width="33%" valign="top">
-
-### 🌐 Web Development
-- RESTful API Design
-- Database Architecture
-- Responsive UI/UX
-- Real-time Applications
-- Cloud Deployment
-
-</td>
-<td width="33%" valign="top">
-
-### 📊 Data Science
-- Statistical Analysis
-- Data Visualization
-- Feature Engineering
-- Model Evaluation
-- Big Data Processing
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 Contribution Activity
+## 📊 Coding Analytics
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ojas-srivastava05&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ojas-srivastava05)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ojas-Srivastava05&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFE1&icon_color=FF6B6B&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ojas-Srivastava05&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FFE1&text_color=FFFFFF"/>
+
+<!-- Leetcode -->
+<br><br>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Oju_Srivastava?theme=dark&font=Outfit)
+
+<!-- Codeforces -->
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Oju)
+
+
 
 </div>
 
----
+<!-- 🔗 Links -->
 
-## 🎓 Continuous Learning
-
-Currently exploring and mastering:
-
-- **Advanced React:** State management patterns, performance optimization, server-side rendering
-- **Microservices:** Distributed systems architecture, API gateways, service mesh
-- **ML Research:** Latest papers on transformers, attention mechanisms, and model compression
-- **Cloud Technologies:** AWS, GCP, containerization, and orchestration
-
----
-
-## 💼 Open For
-
-- Full-time AI/ML Engineering positions (2026+)
-- Software development internships
-- Research collaborations in ML/AI
-- Open source project contributions
-- Technical consulting opportunities
-
----
-
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ojas-srivastava05)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ojas-srivastava05)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ojas-srivastava.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavaojas454@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ojassrivastava05)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/oju_srivastava)
 [![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/oju)
-
-**📧 Business Inquiries:** srivastavaojas454@gmail.com
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ojassrivastava05)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ojas-srivastava.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavaojas454@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ojas-srivastava05)
 
 </div>
 
 ---
 
 <div align="center">
-
-### "Building intelligent systems that solve real-world problems"
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
-⭐ **If you find my work interesting, feel free to star my repositories!**
-
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:001100,100:00FF00&height=180&section=footer&text=THANKS%20FOR%20VISITING!&fontSize=60&fontColor=00FF00&animation=twinkling&fontAlignY=50&desc=CONNECT%20•%20COLLABORATE%20•%20CREATE%20THE%20FUTURE&descAlignY=75&descSize=16&descColor=FFFFFF"/>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=ojas-srivastava05&color=blueviolet&style=for-the-badge&label=AI+Enthusiasts+Visited)
 </div>
