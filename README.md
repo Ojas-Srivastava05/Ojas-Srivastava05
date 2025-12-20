@@ -133,16 +133,16 @@ Build intelligent web applications with AI at the core.<br><br>
 📊 Coding Analytics & Performance Metrics
 <div align="center">
 <!-- Detailed GitHub Stats - RADICAL THEME -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ojas-Srivastava05&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&line_height=27&custom_title=GitHub%20Statistics"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ojas-Srivastava05&layout=compact&langs_count=10&theme=radical&hide_border=true&exclude_repo=repo1,repo2"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ojas-Srivastava05&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&line_height=27&custom_title=GitHub%20Statistics"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ojas-Srivastava05&layout=compact&langs_count=10&theme=dark&hide_border=true&exclude_repo=repo1,repo2"/>
 <!-- GitHub Streak Stats with More Details -->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ojas-Srivastava05&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ojas-Srivastava05&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 <!-- Detailed Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ojas-Srivastava05&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ojas-Srivastava05&theme=dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="100%"/>
 <!-- Additional Detailed GitHub Metrics -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ojas-Srivastava05&theme=radical" width="100%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ojas-Srivastava05&theme=radical&utcOffset=5.5" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ojas-Srivastava05&theme=radical" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ojas-Srivastava05&theme=dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ojas-Srivastava05&theme=dark&utcOffset=5.5" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ojas-Srivastava05&theme=dark" width="49%"/>
 </div>
 
 <!-- 🔗 Links -->
