@@ -96,15 +96,15 @@ Build intelligent web applications with AI at the core.<br><br>
 
 <div align="center">
 
-<!-- GitHub Stats Row 1 -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ojas-Srivastava05&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFE1&icon_color=FF6B6B&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ojas-Srivastava05&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FFE1&text_color=FFFFFF"/>
+<!-- GitHub Stats Row 1 - RADICAL THEME -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ojas-Srivastava05&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ojas-Srivastava05&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 
-<!-- GitHub Streak Stats -->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ojas-Srivastava05&theme=synthwave&hide_border=true&background=0D1117&stroke=00FFE1&ring=FF6B6B&fire=00FF00&currStreakLabel=00FFE1"/>
+<!-- GitHub Streak Stats - RADICAL THEME -->
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ojas-Srivastava05&theme=radical&hide_border=true"/>
 
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ojas-Srivastava05&theme=synthwave&hide_border=true&area=true&bg_color=0D1117&color=00FFE1&line=FF6B6B&point=00FF00" width="100%"/>
+<!-- Contribution Graph - RADICAL THEME -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ojas-Srivastava05&theme=radical&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -116,10 +116,10 @@ Build intelligent web applications with AI at the core.<br><br>
 <div align="center">
 
 ### LeetCode Performance
-![LeetCode Stats](https://leetcard.jacoblin.cool/Oju_Srivastava?theme=dark&font=Outfit&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Oju_Srivastava?theme=radical&font=Outfit&ext=contest)
 
 ### CodeForces Rating
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Oju&theme=github_dark&force_username=true&border_color=00ff00)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Oju&theme=radical&force_username=true)
 
 <br>
 
@@ -139,25 +139,25 @@ Build intelligent web applications with AI at the core.<br><br>
 <td width="50%">
 
 ### 💻 Development Activity
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ojas-Srivastava05&theme=synthwave" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ojas-Srivastava05&theme=radical" width="100%"/>
 
 </td>
 <td width="50%">
 
 ### ⏰ Productive Time
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ojas-Srivastava05&theme=synthwave&utcOffset=5.5" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ojas-Srivastava05&theme=radical&utcOffset=5.5" width="100%"/>
 
 </td>
 </tr>
 </table>
 
 ### 📊 Language Distribution Over Time
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ojas-Srivastava05&theme=synthwave" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ojas-Srivastava05&theme=synthwave" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ojas-Srivastava05&theme=radical" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ojas-Srivastava05&theme=radical" width="48%"/>
 
 ### 🔥 Contribution Stats
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ojas-Srivastava05&theme=synthwave" width="48%"/>
-<img src="https://github-contributor-stats.vercel.app/api?username=Ojas-Srivastava05&limit=5&theme=synthwave&combine_all_yearly_contributions=true" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ojas-Srivastava05&theme=radical" width="48%"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=Ojas-Srivastava05&limit=5&theme=radical&combine_all_yearly_contributions=true" width="48%"/>
 
 </div>
 
