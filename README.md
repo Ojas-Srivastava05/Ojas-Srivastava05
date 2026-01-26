@@ -6,8 +6,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:001100,100:00FF00&height=180&section=header&text=OJAS%20SRIVASTAVA&fontSize=65&fontColor=00FF00&animation=twinkling&fontAlignY=50&desc=ARTIFICIAL%20INTELLIGENCE%20•%20MACHINE%20LEARNING%20•%20WEB%20DEVELOPMENT&descAlignY=75&descSize=16&descColor=FFFFFF"/>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="500" alt="GitHub Snake"/>
+<!-- ⌨️ Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F72C5B&center=true&vCenter=true&width=500&lines=System+Update:+Maximum+Overdrive;AI+Engineer+%7C+Full+Stack+Developer;Building+The+Future+of+Tech;Welcome+to+the+Mainframe." alt="Typing SVG" />
+</a>
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Snake"/>
 
 </div>
 
@@ -15,18 +19,15 @@
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ojas-srivastava05&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="trophy" />
 </div>
-<!-- 🎯 About Me -->
 
+<!-- 🎯 About Me -->
 <br>
 <br>
 <div align="center">
 
-
-
 <b>👤 Name:</b> Ojas Srivastava<br>
 <b>🎓 Role:</b> B.Tech in AI, NIT Surat<br>
 <b>📍 Location:</b> Surat, Gujarat, India<br>
-
 
 <b>🧠 Core Stack:</b> HTML5 • CSS3 • JavaScript • Django • jQuery<br>
 <b>⚙️ Currently Training:</b> React • Node.js • Express • PostgreSQL<br><br>
@@ -47,10 +48,7 @@ Build intelligent web applications with AI at the core.<br><br>
 
 </div>
 
-
-
 <!-- 🧠 Skills -->
-
 ## 🧠 AI , ML & Web Development Learning Progress 
 
 <div align="center">
@@ -72,15 +70,12 @@ Build intelligent web applications with AI at the core.<br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" style="margin:10px;" />
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg" height="50" style="margin:10px; filter: invert(17%) sepia(89%) saturate(431%) hue-rotate(145deg) brightness(93%) contrast(40%);" />
 
-
-
 <h3>📚 Currently Learning</h3>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" style="margin:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" style="margin:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" style="margin:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" style="margin:10px;" />
-
 
 <h3>🤖 AI/ML Tools</h3>
 
@@ -89,66 +84,77 @@ Build intelligent web applications with AI at the core.<br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" style="margin:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" style="margin:10px;" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50" style="margin:10px;" />
+</div>
 
-### 🌐 API Tools
-
+<div align="center">
+<h3>🌐 API Tools</h3>
 <!-- Postman -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" style="margin:10px;" />
-
 <!-- Cohere -->
 ![Cohere](https://img.shields.io/badge/Cohere_API-000?style=for-the-badge&logo=cohere&logoColor=white)
-
-
-
-
-
 <!-- OpenAI -->
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="50" style="margin:10px;" />
-
-
-
-
-
 </div>
+
+<br>
+<br>
+
+<!-- Coding Analytics Section (Enhanced Dashboard) -->
+<h2 align="center">📊 Coding Analytics & Performance Metrics</h2>
+
 <div align="center">
+<table align="center" width="100%" style="border: none;">
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <!-- GitHub Stats - Radical Theme -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Ojas-Srivastava05&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&line_height=27&custom_title=GitHub%20Statistics"/>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <!-- Top Langs - Radical Theme -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ojas-Srivastava05&layout=compact&langs_count=10&theme=radical&hide_border=true&exclude_repo=repo1,repo2"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+       <!-- LeetCode - Radical Theme -->
+       <a href="https://leetcode.com/oju_srivastava">
+        <img src="https://leetcard.jacoblin.cool/Oju_Srivastava?theme=radical&font=Fira%20Code&ext=heatmap" height="180" alt="LeetCode Stats" />
+       </a>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+       <!-- Codeforces - Radical Theme -->
+      <a href="https://codeforces.com/profile/Oju">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Oju&theme=radical&font=Fira%20Code&no_bg=false" height="180" alt="Codeforces Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
 
+<!-- Full Width Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ojas-Srivastava05&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="90%"/>
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ojas-Srivastava05&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="100%"/>
+<br>
 
-
-<!-- 📊 Stats -->
-
-<!-- Leetcode -->
-<br><br>
-![CodeChef Stats](https://img.shields.io/badge/CodeChef-ojassrivastava-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Oju_Srivastava?theme=dark&font=Outfit)
-
-<!-- Codeforces -->
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Oju)
-
-
-
-</div>
-
-<!-- Coding Analytics Section -->
-📊 Coding Analytics & Performance Metrics
+<!-- Summary Cards (Radical/Dark Theme) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ojas-Srivastava05&theme=radical" width="100%"/>
 <div align="center">
-<!-- Detailed GitHub Stats - DARK THEME -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ojas-Srivastava05&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&line_height=27&custom_title=GitHub%20Statistics"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ojas-Srivastava05&layout=compact&langs_count=10&theme=dark&hide_border=true&exclude_repo=repo1,repo2"/>
-<!-- GitHub Streak Stats with More Details -->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ojas-Srivastava05&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-<!-- Detailed Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ojas-Srivastava05&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="100%"/>
-<!-- Additional Detailed GitHub Metrics -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ojas-Srivastava05&theme=github_dark" width="100%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ojas-Srivastava05&theme=github_dark&utcOffset=5.5" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ojas-Srivastava05&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ojas-Srivastava05&theme=radical&utcOffset=5.5" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ojas-Srivastava05&theme=radical" width="48%"/>
 </div>
+
+<br>
+<!-- Badges (CodeChef etc.) -->
+<a href="https://www.codechef.com/users/ojassrivastava">
+    <img src="https://img.shields.io/badge/CodeChef-ojassrivastava-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="40" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=ojas-srivastava05&color=blueviolet&style=for-the-badge&label=AI+Enthusiasts+Visited" height="40" />
+
 </div>
+
 
 <!-- 🔗 Links -->
-
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
 
@@ -166,6 +172,4 @@ Build intelligent web applications with AI at the core.<br><br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:001100,100:00FF00&height=180&section=footer&text=THANKS%20FOR%20VISITING!&fontSize=60&fontColor=00FF00&animation=twinkling&fontAlignY=50&desc=CONNECT%20•%20COLLABORATE%20•%20CREATE%20THE%20FUTURE&descAlignY=75&descSize=16&descColor=FFFFFF"/>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=ojas-srivastava05&color=blueviolet&style=for-the-badge&label=AI+Enthusiasts+Visited)
 </div>
