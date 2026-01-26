@@ -4,7 +4,7 @@
 <!-- 🚀 Welcome Section -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:001100,100:00FF00&height=180&section=header&text=OJAS%20SRIVASTAVA&fontSize=65&fontColor=00FF00&animation=twinkling&fontAlignY=50&desc=ARTIFICIAL%20INTELLIGENCE%20•%20MACHINE%20LEARNING%20•%20WEB%20DEVELOPMENT&descAlignY=75&descSize=16&descColor=FFFFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:330011,100:F72C5B&height=180&section=header&text=OJAS%20SRIVASTAVA&fontSize=65&fontColor=F72C5B&animation=twinkling&fontAlignY=50&desc=ARTIFICIAL%20INTELLIGENCE%20•%20MACHINE%20LEARNING%20•%20WEB%20DEVELOPMENT&descAlignY=75&descSize=16&descColor=FFFFFF"/>
 
 <!-- ⌨️ Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -91,7 +91,7 @@ Build intelligent web applications with AI at the core.<br><br>
 <!-- Postman -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" style="margin:10px;" />
 <!-- Cohere -->
-![Cohere](https://img.shields.io/badge/Cohere_API-000?style=for-the-badge&logo=cohere&logoColor=white)
+<img src="https://img.shields.io/badge/Cohere-000?style=for-the-badge&logo=cohere&logoColor=white" height="30" />
 <!-- OpenAI -->
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="50" style="margin:10px;" />
 </div>
@@ -171,5 +171,5 @@ Build intelligent web applications with AI at the core.<br><br>
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:001100,100:00FF00&height=180&section=footer&text=THANKS%20FOR%20VISITING!&fontSize=60&fontColor=00FF00&animation=twinkling&fontAlignY=50&desc=CONNECT%20•%20COLLABORATE%20•%20CREATE%20THE%20FUTURE&descAlignY=75&descSize=16&descColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:330011,100:F72C5B&height=180&section=footer&text=THANKS%20FOR%20VISITING!&fontSize=60&fontColor=F72C5B&animation=twinkling&fontAlignY=50&desc=CONNECT%20•%20COLLABORATE%20•%20CREATE%20THE%20FUTURE&descAlignY=75&descSize=16&descColor=FFFFFF"/>
 </div>
