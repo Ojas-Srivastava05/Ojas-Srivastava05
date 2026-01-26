@@ -84,12 +84,62 @@
 <h2 align="center">📊 SYSTEM TELEMETRY</h2>
 
 <div align="center">
+  
+  <!-- Row 1: Competitive Programming -->
   <a href="https://leetcode.com/oju_srivastava">
     <img src="https://leetcard.jacoblin.cool/Oju_Srivastava?theme=radical&font=Fira%20Code&ext=heatmap" height="150" alt="LeetCode Stats" />
   </a>
-  <br><br>
+  <a href="https://codeforces.com/profile/Oju">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Oju&theme=radical&font=Fira%20Code&no_bg=false" height="150" alt="Codeforces Stats" />
+  </a>
+  <br>
+  
+  <!-- Row 2: GitHub & Activity -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ojas-Srivastava05&theme=radical&hide_border=true" height="150" alt="Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ojas-Srivastava05&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="Top Langs" />
+  <br>
+  
+  <!-- Row 3: Other Badges -->
+  <a href="https://www.codechef.com/users/ojassrivastava">
+    <img src="https://img.shields.io/badge/CodeChef-ojassrivastava-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="40" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ojas-srivastava05&color=blueviolet&style=for-the-badge&label=System+Access+Logs" height="40" />
+
+</div>
+
+<br>
+<br>
+
+<!-- 📁 Featured Protocols (Projects) -->
+<!-- Replace 'link-to-repo' with actual repository links -->
+<h2 align="center">📁 FEATURED PROTOCOLS</h2>
+
+<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=100&text=PROJECT%20ALPHA&fontSize=25&fontColor=ffffff&fontAlign=50&stroke=00FF00&strokeWidth=2" width="100%" />
+      </a>
+      <br><b>[AI AGENT FRAMEWORK]</b><br>
+      <i>Autonomous Reasoning Engine</i>
+    </td>
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:DE00FF&height=100&text=PROJECT%20BETA&fontSize=25&fontColor=ffffff&fontAlign=50&stroke=DE00FF&strokeWidth=2" width="100%" />
+      </a>
+      <br><b>[NEURAL INTERFACE]</b><br>
+      <i>Visual Data Processor</i>
+    </td>
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00E1FF&height=100&text=PROJECT%20GAMMA&fontSize=25&fontColor=ffffff&fontAlign=50&stroke=00E1FF&strokeWidth=2" width="100%" />
+      </a>
+      <br><b>[SYSTEM CORE]</b><br>
+      <i>Full Stack Infrastructure</i>
+    </td>
+  </tr>
+</table>
 </div>
 
 <br>
