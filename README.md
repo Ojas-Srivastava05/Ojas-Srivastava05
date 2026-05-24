@@ -8,7 +8,7 @@
 <!-- o5ws-block:header:7f3a9e2b1c4d -->
 
 <p align="center">
-  <img src="./assets/readme-hero.svg" alt="Ojas Srivastava — Competitive Programmer, AI Engineer, Full-Stack Developer" width="100%" />
+  <img src="./assets/readme-hero.svg?v=3" alt="Ojas Srivastava — Competitive Programmer, AI Engineer, Full-Stack Developer" width="100%" />
 </p>
 
 <p align="center">
