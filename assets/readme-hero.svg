@@ -1,0 +1,114 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ojas Srivastava profile hero</title>
+  <desc id="desc">Animated dark editorial GitHub profile banner for Ojas Srivastava.</desc>
+  <defs>
+    <linearGradient id="heroText" x1="125" y1="95" x2="860" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="0.52" stop-color="#A7F3D0"/>
+      <stop offset="1" stop-color="#FDE68A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#34D399"/>
+      <stop offset="0.55" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#FDE68A"/>
+    </linearGradient>
+    <radialGradient id="wash" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(910 120) rotate(135) scale(560 330)">
+      <stop stop-color="#34D399" stop-opacity="0.34"/>
+      <stop offset="0.5" stop-color="#0EA5E9" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#08090C" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#FFFFFF" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.203 0 0 0 0 0.827 0 0 0 0 0.6 0 0 0 0.55 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .bg { fill: #08090C; }
+      .mono { font-family: "JetBrains Mono", "SFMono-Regular", Consolas, monospace; }
+      .sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+      .display { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-weight: 850; letter-spacing: -0.02em; }
+      .muted { fill: #71717A; }
+      .soft { fill: #D4D4D8; }
+      .white { fill: #FFFFFF; }
+      .emerald { fill: #34D399; }
+      .amber { fill: #FDE68A; }
+      .dash { stroke-dasharray: 12 18; animation: dash 9s linear infinite; }
+      .float { animation: float 5.5s ease-in-out infinite; transform-origin: center; }
+      .pulse { animation: pulse 2.4s ease-in-out infinite; transform-origin: center; }
+      .scan { animation: scan 4.6s ease-in-out infinite; }
+      .blink { animation: blink 1s steps(2, start) infinite; }
+      .ticker { animation: ticker 18s linear infinite; }
+      @keyframes dash { to { stroke-dashoffset: -240; } }
+      @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-9px); } }
+      @keyframes pulse { 0%,100% { opacity: .46; transform: scale(1); } 50% { opacity: 1; transform: scale(1.08); } }
+      @keyframes scan { 0% { transform: translateX(-260px); opacity: 0; } 18%,70% { opacity: .7; } 100% { transform: translateX(980px); opacity: 0; } }
+      @keyframes blink { 50% { opacity: 0; } }
+      @keyframes ticker { from { transform: translateX(0); } to { transform: translateX(-520px); } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="420" rx="34" class="bg"/>
+  <rect width="1200" height="420" rx="34" fill="url(#grid)"/>
+  <rect width="1200" height="420" rx="34" fill="url(#wash)"/>
+
+  <path class="dash" d="M65 340C235 265 330 360 510 285C690 210 760 60 1110 102" stroke="url(#accent)" stroke-opacity="0.45" stroke-width="2"/>
+  <path class="dash" d="M91 94C218 158 348 104 470 148C640 210 744 342 1090 278" stroke="#34D399" stroke-opacity="0.19" stroke-width="2"/>
+  <rect class="scan" x="65" y="45" width="180" height="330" rx="90" fill="url(#accent)" opacity="0.12"/>
+
+  <g transform="translate(70 48)">
+    <rect x="0" y="0" width="354" height="34" rx="10" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <circle class="pulse" cx="18" cy="17" r="5" fill="#34D399"/>
+    <text x="34" y="22" class="mono emerald" font-size="11" font-weight="700">CURRENTLY AVAILABLE</text>
+    <text x="182" y="22" class="mono muted" font-size="11">/ SUMMER 2026 / SURAT, IN</text>
+  </g>
+
+  <g transform="translate(70 112)">
+    <text x="0" y="0" class="mono muted" font-size="13" font-weight="700">// BUILDER OS</text>
+    <text x="0" y="72" class="display" font-size="76" fill="url(#heroText)">Ojas Srivastava</text>
+    <text x="2" y="112" class="sans soft" font-size="23" font-weight="550">AI engineer + full-stack builder who ships backend-heavy product systems.</text>
+    <text x="2" y="152" class="mono emerald" font-size="16" font-weight="700">ship clean systems</text>
+    <text x="184" y="152" class="mono muted" font-size="16">/ route intelligence / RAG / OCR / CP reps</text>
+    <rect x="0" y="183" width="600" height="2" fill="url(#accent)" opacity="0.75"/>
+    <text x="0" y="230" class="mono soft" font-size="18">I do not just code. I ship</text>
+    <rect class="blink" x="306" y="213" width="11" height="24" fill="#34D399"/>
+  </g>
+
+  <g class="float" transform="translate(770 72)">
+    <rect x="0" y="0" width="350" height="250" rx="24" fill="#0D1117" fill-opacity="0.92" stroke="#FFFFFF" stroke-opacity="0.09"/>
+    <rect x="18" y="18" width="314" height="36" rx="12" fill="#FFFFFF" fill-opacity="0.035"/>
+    <circle cx="38" cy="36" r="5" fill="#EF4444"/>
+    <circle cx="56" cy="36" r="5" fill="#F59E0B"/>
+    <circle cx="74" cy="36" r="5" fill="#34D399"/>
+    <text x="96" y="41" class="mono muted" font-size="11">engineer.config.ts</text>
+    <text x="28" y="88" class="mono muted" font-size="14">const ojas = {</text>
+    <text x="46" y="116" class="mono soft" font-size="14">rank: <tspan class="amber">"Knight"</tspan>,</text>
+    <text x="46" y="144" class="mono soft" font-size="14">leetcode: <tspan class="emerald">592</tspan>,</text>
+    <text x="46" y="172" class="mono soft" font-size="14">rating: <tspan class="emerald">1982</tspan>,</text>
+    <text x="46" y="200" class="mono soft" font-size="14">focus: <tspan class="amber">"AI systems"</tspan></text>
+    <text x="28" y="228" class="mono muted" font-size="14">}</text>
+  </g>
+
+  <g transform="translate(70 365)">
+    <rect x="0" y="-22" width="1060" height="44" rx="14" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.07"/>
+    <g class="ticker">
+      <text x="24" y="6" class="mono soft" font-size="13" font-weight="700">LOGIFLOW</text>
+      <text x="130" y="6" class="mono muted" font-size="13">multi-modal routing</text>
+      <text x="318" y="6" class="mono soft" font-size="13" font-weight="700">AIRHELP</text>
+      <text x="416" y="6" class="mono muted" font-size="13">offline airport AI</text>
+      <text x="596" y="6" class="mono soft" font-size="13" font-weight="700">RANGRITI</text>
+      <text x="710" y="6" class="mono muted" font-size="13">culture-tech product</text>
+      <text x="920" y="6" class="mono soft" font-size="13" font-weight="700">INK'D</text>
+      <text x="1000" y="6" class="mono muted" font-size="13">AI summariser</text>
+      <text x="1160" y="6" class="mono soft" font-size="13" font-weight="700">LOGIFLOW</text>
+      <text x="1266" y="6" class="mono muted" font-size="13">multi-modal routing</text>
+      <text x="1454" y="6" class="mono soft" font-size="13" font-weight="700">AIRHELP</text>
+      <text x="1552" y="6" class="mono muted" font-size="13">offline airport AI</text>
+    </g>
+  </g>
+</svg>

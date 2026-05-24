@@ -1,0 +1,20 @@
+<svg width="680" height="360" viewBox="0 0 680 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ink'd project card">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="680" y2="360"><stop stop-color="#C084FC"/><stop offset="0.55" stop-color="#34D399"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" stroke="#fff" stroke-opacity=".055"/></pattern>
+    <style>.mono{font-family:"JetBrains Mono",Consolas,monospace}.sans{font-family:Inter,Segoe UI,Arial,sans-serif}.write{stroke-dasharray:450;stroke-dashoffset:450;animation:w 4s ease-in-out infinite}@keyframes w{45%,65%{stroke-dashoffset:0}100%{stroke-dashoffset:-450}}</style>
+  </defs>
+  <rect width="680" height="360" rx="26" fill="#08090C"/>
+  <rect width="680" height="360" rx="26" fill="url(#grid)"/>
+  <rect x="18" y="18" width="644" height="324" rx="22" fill="#fff" fill-opacity=".025" stroke="#fff" stroke-opacity=".09"/>
+  <path class="write" d="M404 217C438 148 499 244 530 161C545 121 583 121 608 144" stroke="url(#g)" stroke-width="6" stroke-linecap="round"/>
+  <text x="42" y="70" fill="#C4B5FD" class="mono" font-size="13" font-weight="700">AI TOOLS / NLP</text>
+  <text x="42" y="128" fill="#fff" class="sans" font-size="54" font-weight="850">Ink'd</text>
+  <text x="44" y="166" fill="#D4D4D8" class="sans" font-size="21">Summaries that keep the idea.</text>
+  <text x="44" y="217" fill="#A1A1AA" class="mono" font-size="15">Cohere summaries / export flow / clean API</text>
+  <g transform="translate(42 282)">
+    <rect width="72" height="30" rx="9" fill="#C084FC" fill-opacity=".13" stroke="#C084FC" stroke-opacity=".35"/><text x="18" y="20" fill="#DDD6FE" class="mono" font-size="11">Node</text>
+    <rect x="84" width="88" height="30" rx="9" fill="#fff" fill-opacity=".045" stroke="#fff" stroke-opacity=".1"/><text x="101" y="20" fill="#E4E4E7" class="mono" font-size="11">Cohere</text>
+    <rect x="184" width="64" height="30" rx="9" fill="#fff" fill-opacity=".045" stroke="#fff" stroke-opacity=".1"/><text x="204" y="20" fill="#E4E4E7" class="mono" font-size="11">NLP</text>
+  </g>
+</svg>
