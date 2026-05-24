@@ -1,0 +1,27 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Experience and education">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1200" y2="320"><stop stop-color="#34D399"/><stop offset=".55" stop-color="#22D3EE"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" stroke="#fff" stroke-opacity=".05"/></pattern>
+    <style>.mono{font-family:"JetBrains Mono",Consolas,monospace}.sans{font-family:Inter,Segoe UI,Arial,sans-serif}.dot{fill:#34D399}</style>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="#08090C"/>
+  <rect width="1200" height="320" rx="28" fill="url(#grid)"/>
+  <rect x="22" y="22" width="1156" height="276" rx="22" fill="#fff" fill-opacity=".025" stroke="#fff" stroke-opacity=".08"/>
+  <text x="52" y="62" class="mono" fill="#34D399" font-size="13" font-weight="700">// EXPERIENCE &amp; EDUCATION</text>
+
+  <circle class="dot" cx="58" cy="108" r="5"/>
+  <text x="78" y="104" class="sans" fill="#fff" font-size="18" font-weight="700">Technical Lead · Inspectonly.devs</text>
+  <text x="78" y="128" class="mono" fill="#71717A" font-size="12">Web Wonders 2025 · Surat, India</text>
+  <text x="78" y="152" class="sans" fill="#A1A1AA" font-size="14">Led a four-member team  backend integration, feature delivery, PR review.</text>
+
+  <circle class="dot" cx="58" cy="188" r="5"/>
+  <text x="78" y="184" class="sans" fill="#fff" font-size="18" font-weight="700">B.Tech, Artificial Intelligence · SVNIT Surat</text>
+  <text x="78" y="208" class="mono" fill="#71717A" font-size="12">2024  2028 · CGPA 9.19 / 10</text>
+  <text x="78" y="232" class="sans" fill="#A1A1AA" font-size="14">AI, algorithms, systems, DBMS, software engineering.</text>
+
+  <circle class="dot" cx="58" cy="268" r="5"/>
+  <text x="78" y="264" class="sans" fill="#fff" font-size="18" font-weight="700">ACM SVNIT Executive · Nexus SVNIT Mentor</text>
+  <text x="78" y="288" class="mono" fill="#71717A" font-size="12">Workshops · Events · Campus Mentorship</text>
+
+  <rect x="52" y="302" width="1096" height="3" rx="2" fill="url(#g)" opacity=".75"/>
+</svg>

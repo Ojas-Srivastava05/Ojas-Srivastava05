@@ -1,6 +1,6 @@
 <svg width="1200" height="560" viewBox="0 0 1200 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Ojas Srivastava profile hero</title>
-  <desc id="desc">Animated dark editorial GitHub profile banner for Ojas Srivastava.</desc>
+  <desc id="desc">Animated dark editorial GitHub profile banner for Ojas Srivastava, AI Engineer and Full-Stack Developer.</desc>
   <defs>
     <linearGradient id="heroText" x1="125" y1="95" x2="860" y2="280" gradientUnits="userSpaceOnUse">
       <stop stop-color="#FFFFFF"/>
@@ -60,22 +60,22 @@
   <rect class="scan" x="65" y="55" width="180" height="430" rx="90" fill="url(#accent)" opacity="0.10"/>
 
   <g transform="translate(70 48)">
-    <rect x="0" y="0" width="354" height="34" rx="10" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <rect x="0" y="0" width="430" height="34" rx="10" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.08"/>
     <circle class="pulse" cx="18" cy="17" r="5" fill="#34D399"/>
-    <text x="34" y="22" class="mono emerald" font-size="11" font-weight="700">CURRENTLY AVAILABLE</text>
-    <text x="182" y="22" class="mono muted" font-size="11">/ SUMMER 2026 / SURAT, IN</text>
+    <text x="34" y="22" class="mono emerald" font-size="11" font-weight="700">OPEN TO INTERNSHIPS</text>
+    <text x="208" y="22" class="mono muted" font-size="11">/ SUMMER 2026 / SURAT, INDIA</text>
   </g>
 
   <g transform="translate(70 124)">
-    <text x="0" y="0" class="mono muted" font-size="13" font-weight="700">// BUILDER OS</text>
+    <text x="0" y="0" class="mono muted" font-size="13" font-weight="700">// AI ENGINEER &amp; FULL-STACK DEVELOPER</text>
     <text x="0" y="72" class="display" font-size="66" fill="url(#heroText)">Ojas Srivastava</text>
-    <text x="2" y="116" class="sans soft" font-size="23" font-weight="550">AI engineer + full-stack builder.</text>
-    <text x="2" y="148" class="sans soft" font-size="23" font-weight="550">Backend-heavy product systems, shipped clean.</text>
-    <text x="2" y="198" class="mono emerald" font-size="16" font-weight="700">ship clean systems</text>
-    <text x="184" y="198" class="mono muted" font-size="16">/ route intelligence / RAG / OCR / CP reps</text>
+    <text x="2" y="116" class="sans soft" font-size="23" font-weight="550">B.Tech AI at SVNIT Surat · CGPA 9.19</text>
+    <text x="2" y="148" class="sans soft" font-size="23" font-weight="550">Backend systems, full-stack products, algorithm grind.</text>
+    <text x="2" y="198" class="mono emerald" font-size="16" font-weight="700">Ship Clean Systems</text>
+    <text x="178" y="198" class="mono muted" font-size="16">/ RAG / OCR / Route Intelligence / ML</text>
     <rect x="0" y="234" width="620" height="2" fill="url(#accent)" opacity="0.75"/>
-    <text x="0" y="286" class="mono soft" font-size="18">I do not just code. I ship</text>
-    <rect class="blink" x="306" y="269" width="11" height="24" fill="#34D399"/>
+    <text x="0" y="286" class="mono soft" font-size="18">Design Backend. Ship Product. Grind Algorithms.</text>
+    <rect class="blink" x="478" y="269" width="11" height="24" fill="#34D399"/>
   </g>
 
   <g transform="translate(760 106)">
@@ -87,9 +87,9 @@
     <text x="96" y="42" class="mono muted" font-size="11">engineer.config.ts</text>
     <text x="28" y="94" class="mono muted" font-size="14">const ojas = {</text>
     <text x="46" y="124" class="mono soft" font-size="14">rank: <tspan class="amber">"Knight"</tspan>,</text>
-    <text x="46" y="154" class="mono soft" font-size="14">leetcode: <tspan class="emerald">592</tspan>,</text>
-    <text x="46" y="184" class="mono soft" font-size="14">rating: <tspan class="emerald">1982</tspan>,</text>
-    <text x="46" y="214" class="mono soft" font-size="14">focus: <tspan class="amber">"AI systems"</tspan>,</text>
+    <text x="46" y="154" class="mono soft" font-size="14">leetcode: <tspan class="emerald">548</tspan>,</text>
+    <text x="46" y="184" class="mono soft" font-size="14">peak: <tspan class="emerald">1952</tspan>,</text>
+    <text x="46" y="214" class="mono soft" font-size="14">aggregate: <tspan class="emerald">810+</tspan>,</text>
     <text x="46" y="244" class="mono soft" font-size="14">status: <tspan class="emerald">"available"</tspan></text>
     <text x="28" y="270" class="mono muted" font-size="14">}</text>
   </g>
@@ -98,17 +98,17 @@
     <rect x="0" y="-22" width="1060" height="44" rx="14" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.07"/>
     <g class="ticker">
       <text x="24" y="6" class="mono soft" font-size="13" font-weight="700">LOGIFLOW</text>
-      <text x="130" y="6" class="mono muted" font-size="13">multi-modal routing</text>
-      <text x="318" y="6" class="mono soft" font-size="13" font-weight="700">AIRHELP</text>
-      <text x="416" y="6" class="mono muted" font-size="13">offline airport AI</text>
-      <text x="596" y="6" class="mono soft" font-size="13" font-weight="700">RANGRITI</text>
-      <text x="710" y="6" class="mono muted" font-size="13">culture-tech product</text>
-      <text x="920" y="6" class="mono soft" font-size="13" font-weight="700">INK'D</text>
-      <text x="1000" y="6" class="mono muted" font-size="13">AI summariser</text>
+      <text x="130" y="6" class="mono muted" font-size="13">Multi-Modal Logistics</text>
+      <text x="338" y="6" class="mono soft" font-size="13" font-weight="700">AIRHELP</text>
+      <text x="436" y="6" class="mono muted" font-size="13">Offline Airport AI</text>
+      <text x="616" y="6" class="mono soft" font-size="13" font-weight="700">RANGRITI</text>
+      <text x="730" y="6" class="mono muted" font-size="13">Cultural-Tech Platform</text>
+      <text x="940" y="6" class="mono soft" font-size="13" font-weight="700">INK'D</text>
+      <text x="1020" y="6" class="mono muted" font-size="13">AI Summariser</text>
       <text x="1160" y="6" class="mono soft" font-size="13" font-weight="700">LOGIFLOW</text>
-      <text x="1266" y="6" class="mono muted" font-size="13">multi-modal routing</text>
-      <text x="1454" y="6" class="mono soft" font-size="13" font-weight="700">AIRHELP</text>
-      <text x="1552" y="6" class="mono muted" font-size="13">offline airport AI</text>
+      <text x="1266" y="6" class="mono muted" font-size="13">Multi-Modal Logistics</text>
+      <text x="1474" y="6" class="mono soft" font-size="13" font-weight="700">AIRHELP</text>
+      <text x="1572" y="6" class="mono muted" font-size="13">Offline Airport AI</text>
     </g>
   </g>
 </svg>

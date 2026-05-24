@@ -11,10 +11,10 @@
     <path d="M520 87L550 138L609 151L569 196L575 256L520 232L465 256L471 196L431 151L490 138Z" stroke="url(#g)" stroke-width="3"/>
     <circle cx="520" cy="168" r="38" stroke="#FDE68A" stroke-opacity=".45"/>
   </g>
-  <text x="42" y="70" fill="#FDE68A" class="mono" font-size="13" font-weight="700">FULL STACK / CULTURE TECH</text>
+  <text x="42" y="70" fill="#FDE68A" class="mono" font-size="13" font-weight="700">FULL STACK · CULTURAL TECH</text>
   <text x="42" y="128" fill="#fff" class="sans" font-size="54" font-weight="850">RangRiti</text>
-  <text x="44" y="166" fill="#D4D4D8" class="sans" font-size="21">Indian arts, commerce, AI stories.</text>
-  <text x="44" y="217" fill="#A1A1AA" class="mono" font-size="15">40+ pages / marketplace / VR / Hugging Face</text>
+  <text x="44" y="166" fill="#D4D4D8" class="sans" font-size="21">Cultural-Tech Experience Platform</text>
+  <text x="44" y="217" fill="#A1A1AA" class="mono" font-size="15">VR · AI Storytelling · Marketplace · 40+ Pages</text>
   <g transform="translate(42 282)">
     <rect width="72" height="30" rx="9" fill="#FDE68A" fill-opacity=".13" stroke="#FDE68A" stroke-opacity=".35"/><text x="18" y="20" fill="#FEF3C7" class="mono" font-size="11">Node</text>
     <rect x="84" width="86" height="30" rx="9" fill="#fff" fill-opacity=".045" stroke="#fff" stroke-opacity=".1"/><text x="101" y="20" fill="#E4E4E7" class="mono" font-size="11">MongoDB</text>

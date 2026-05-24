@@ -1,0 +1,15 @@
+<svg width="1200" height="240" viewBox="0 0 1200 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="About Ojas Srivastava">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1200" y2="240"><stop stop-color="#34D399"/><stop offset=".55" stop-color="#22D3EE"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" stroke="#fff" stroke-opacity=".05"/></pattern>
+    <style>.mono{font-family:"JetBrains Mono",Consolas,monospace}.sans{font-family:Inter,Segoe UI,Arial,sans-serif}</style>
+  </defs>
+  <rect width="1200" height="240" rx="28" fill="#08090C"/>
+  <rect width="1200" height="240" rx="28" fill="url(#grid)"/>
+  <rect x="22" y="22" width="1156" height="196" rx="22" fill="#fff" fill-opacity=".025" stroke="#fff" stroke-opacity=".08"/>
+  <text x="52" y="62" class="mono" fill="#34D399" font-size="13" font-weight="700">// ABOUT</text>
+  <text x="52" y="108" class="sans" fill="#FFFFFF" font-size="28" font-weight="700">AI Engineer &amp; Full-Stack Developer</text>
+  <text x="52" y="148" class="sans" fill="#D4D4D8" font-size="17">B.Tech AI at SVNIT Surat. I design backend systems, ship full-stack products, and grind algorithms.</text>
+  <text x="52" y="178" class="sans" fill="#A1A1AA" font-size="16">548 on LeetCode · 810+ across CP · Knight · Top ~3.7% Contests · 8+ Deployed Builds</text>
+  <rect x="52" y="200" width="1096" height="3" rx="2" fill="url(#g)" opacity=".85"/>
+</svg>
