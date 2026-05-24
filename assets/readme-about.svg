@@ -15,7 +15,7 @@
   <text x="52" y="62" font-family="Consolas, Monaco, monospace" fill="#34D399" font-size="14" font-weight="700">// ABOUT</text>
   <text x="52" y="108" font-family="Segoe UI, Arial, sans-serif" fill="#FFFFFF" font-size="30" font-weight="700">AI Engineer and Full-Stack Developer</text>
   <text x="52" y="148" font-family="Segoe UI, Arial, sans-serif" fill="#E4E4E7" font-size="18">B.Tech AI at SVNIT Surat. I design backend systems, ship full-stack products, and grind algorithms.</text>
-  <text x="52" y="182" font-family="Segoe UI, Arial, sans-serif" fill="#A1A1AA" font-size="17">548 LeetCode | 161 Codeforces | 118 CodeChef | 827+ Aggregate | Knight | 8+ Deployed Builds</text>
+  <text x="52" y="182" font-family="Segoe UI, Arial, sans-serif" fill="#A1A1AA" font-size="17">Knight on LeetCode | Live CP stats auto-update below | 8+ Deployed Builds</text>
   <text x="52" y="216" font-family="Consolas, Monaco, monospace" fill="#FDE68A" font-size="15" font-weight="700">AVAILABLE FOR SUMMER 2027 INTERNSHIP</text>
   <rect x="52" y="232" width="1096" height="4" rx="2" fill="url(#aboutAccent)"/>
 </svg>
