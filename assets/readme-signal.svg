@@ -1,20 +1,33 @@
 <svg width="1200" height="210" viewBox="0 0 1200 210" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Competitive programming signal">
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1200" y2="210"><stop stop-color="#34D399"/><stop offset=".55" stop-color="#22D3EE"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
-    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" stroke="#fff" stroke-opacity=".05"/></pattern>
-    <style>.mono{font-family:"JetBrains Mono",Consolas,monospace}.sans{font-family:Inter,Segoe UI,Arial,sans-serif}.bar{animation:p 2.5s ease-in-out infinite}@keyframes p{50%{opacity:.55}}</style>
+    <linearGradient id="signalAccent" x1="0" y1="0" x2="1200" y2="210">
+      <stop stop-color="#34D399"/>
+      <stop offset="0.55" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#FDE68A"/>
+    </linearGradient>
+    <pattern id="signalGrid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    </pattern>
   </defs>
   <rect width="1200" height="210" rx="28" fill="#08090C"/>
-  <rect width="1200" height="210" rx="28" fill="url(#grid)"/>
-  <rect x="22" y="22" width="1156" height="166" rx="22" fill="#fff" fill-opacity=".025" stroke="#fff" stroke-opacity=".08"/>
-  <text x="52" y="65" class="mono" fill="#34D399" font-size="13" font-weight="700">// COMPETITIVE PROGRAMMING SIGNAL</text>
-  <text x="52" y="122" class="sans" fill="#fff" font-size="46" font-weight="850">LeetCode Knight · Peak 1952</text>
-  <text x="52" y="155" class="sans" fill="#D4D4D8" font-size="18">548 LC · 144 CF · 118 CC · 810+ Aggregate · Top 3.67% Contests</text>
+  <rect width="1200" height="210" rx="28" fill="url(#signalGrid)"/>
+  <rect x="22" y="22" width="1156" height="166" rx="22" fill="#FFFFFF" fill-opacity="0.06" stroke="#34D399" stroke-opacity="0.35" stroke-width="1.5"/>
+  <text x="52" y="65" font-family="Consolas, Monaco, monospace" fill="#34D399" font-size="14" font-weight="700">// COMPETITIVE PROGRAMMING SIGNAL</text>
+  <text x="52" y="122" font-family="Segoe UI, Arial, sans-serif" fill="#FFFFFF" font-size="44" font-weight="700">LeetCode Knight | CF Pupil 1346</text>
+  <text x="52" y="155" font-family="Segoe UI, Arial, sans-serif" fill="#D4D4D8" font-size="18">548 LC | 161 CF | 118 CC | 827+ Aggregate | Top 3.67% Contests</text>
   <g transform="translate(650 50)">
-    <rect width="105" height="110" rx="18" fill="#34D399" fill-opacity=".1" stroke="#34D399" stroke-opacity=".35"/><text x="24" y="46" class="sans" fill="#fff" font-size="32" font-weight="850">548</text><text x="24" y="76" class="mono" fill="#A7F3D0" font-size="11">LC SOLVED</text>
-    <rect x="122" width="135" height="110" rx="18" fill="#22D3EE" fill-opacity=".09" stroke="#22D3EE" stroke-opacity=".32"/><text x="146" y="46" class="sans" fill="#fff" font-size="32" font-weight="850">1952</text><text x="146" y="76" class="mono" fill="#BAE6FD" font-size="11">LC PEAK</text>
-    <rect x="274" width="116" height="110" rx="18" fill="#FDE68A" fill-opacity=".1" stroke="#FDE68A" stroke-opacity=".35"/><text x="300" y="46" class="sans" fill="#fff" font-size="32" font-weight="850">9.19</text><text x="300" y="76" class="mono" fill="#FEF3C7" font-size="11">CGPA</text>
-    <rect x="407" width="98" height="110" rx="18" fill="#fff" fill-opacity=".04" stroke="#fff" stroke-opacity=".1"/><text x="428" y="46" class="sans" fill="#fff" font-size="32" font-weight="850">810+</text><text x="424" y="76" class="mono" fill="#D4D4D8" font-size="11">AGGREGATE</text>
+    <rect width="105" height="110" rx="18" fill="#34D399" fill-opacity="0.14" stroke="#34D399" stroke-opacity="0.45"/>
+    <text x="24" y="46" font-family="Segoe UI, Arial, sans-serif" fill="#FFFFFF" font-size="32" font-weight="700">548</text>
+    <text x="24" y="76" font-family="Consolas, Monaco, monospace" fill="#A7F3D0" font-size="11">LC SOLVED</text>
+    <rect x="122" width="135" height="110" rx="18" fill="#1F8ACB" fill-opacity="0.14" stroke="#1F8ACB" stroke-opacity="0.45"/>
+    <text x="146" y="46" font-family="Segoe UI, Arial, sans-serif" fill="#FFFFFF" font-size="32" font-weight="700">1346</text>
+    <text x="146" y="76" font-family="Consolas, Monaco, monospace" fill="#BAE6FD" font-size="11">CF RATING</text>
+    <rect x="274" width="116" height="110" rx="18" fill="#FDE68A" fill-opacity="0.14" stroke="#FDE68A" stroke-opacity="0.45"/>
+    <text x="300" y="46" font-family="Segoe UI, Arial, sans-serif" fill="#FFFFFF" font-size="32" font-weight="700">9.19</text>
+    <text x="300" y="76" font-family="Consolas, Monaco, monospace" fill="#FEF3C7" font-size="11">CGPA</text>
+    <rect x="407" width="98" height="110" rx="18" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.18"/>
+    <text x="428" y="46" font-family="Segoe UI, Arial, sans-serif" fill="#FFFFFF" font-size="32" font-weight="700">827+</text>
+    <text x="424" y="76" font-family="Consolas, Monaco, monospace" fill="#D4D4D8" font-size="11">AGGREGATE</text>
   </g>
-  <rect class="bar" x="52" y="177" width="1096" height="3" rx="2" fill="url(#g)"/>
+  <rect x="52" y="177" width="1096" height="4" rx="2" fill="url(#signalAccent)"/>
 </svg>

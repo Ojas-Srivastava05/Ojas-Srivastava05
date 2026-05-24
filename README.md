@@ -3,27 +3,43 @@
 </p>
 
 <p align="center">
+  <img src="./assets/readme-internship.svg" alt="Open for Summer 2027 Internship — SDE, AI, Full-Stack" width="100%" />
+</p>
+
+<p align="center">
   <a href="https://ojas-srivastava.vercel.app/" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-08090C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=08090C" alt="Portfolio" /></a>
   <a href="https://github.com/Ojas-Srivastava05" title="GitHub"><img src="https://img.shields.io/badge/GitHub-08090C?style=for-the-badge&logo=github&logoColor=white&labelColor=08090C" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/ojas-srivastava05" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-08090C?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=08090C" alt="LinkedIn" /></a>
   <a href="mailto:srivastavaojas454@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-08090C?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=08090C" alt="Email" /></a>
   <a href="https://leetcode.com/Oju_Srivastava" title="LeetCode"><img src="https://img.shields.io/badge/LeetCode-Knight-08090C?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=08090C" alt="LeetCode" /></a>
-  <a href="https://codeforces.com/profile/oju" title="Codeforces"><img src="https://img.shields.io/badge/Codeforces-1179-08090C?style=for-the-badge&logo=codeforces&logoColor=1F8ACB&labelColor=08090C" alt="Codeforces" /></a>
+  <a href="https://codeforces.com/profile/oju" title="Codeforces"><img src="https://img.shields.io/badge/Codeforces-Pupil_1346-08090C?style=for-the-badge&logo=codeforces&logoColor=1F8ACB&labelColor=08090C" alt="Codeforces Pupil 1346" /></a>
   <a href="https://www.codechef.com/users/ojassrivastava" title="CodeChef"><img src="https://img.shields.io/badge/CodeChef-2★-08090C?style=for-the-badge&logo=codechef&logoColor=5B4638&labelColor=08090C" alt="CodeChef" /></a>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1900&pause=650&color=34D399&center=true&vCenter=true&width=860&lines=Backend+Systems+%C2%B7+Full-Stack+Products+%C2%B7+AI+Pipelines;LeetCode+Knight+%C2%B7+CGPA+9.19+%C2%B7+810%2B+Problems;RAG+%C2%B7+OCR+%C2%B7+Route+Intelligence+%C2%B7+ML;Open+to+Internships+%C2%B7+Summer+2026" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1900&pause=650&color=34D399&center=true&vCenter=true&width=900&lines=Open+for+Summer+2027+Internship+%C2%B7+SDE+%2F+AI+%2F+Full-Stack;Backend+Systems+%C2%B7+Full-Stack+Products+%C2%B7+AI+Pipelines;LeetCode+Knight+%C2%B7+CGPA+9.19+%C2%B7+827%2B+Problems;RAG+%C2%B7+OCR+%C2%B7+Route+Intelligence+%C2%B7+ML" alt="Typing animation" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open_for_Summer_2027_Internship-08090C?style=for-the-badge&logo=statuspage&logoColor=34D399&labelColor=08090C" alt="Open for Summer 2027 Internship" />
+</p>
+
+## About
 
 <p align="center">
   <img src="./assets/readme-about.svg" alt="About — AI Engineer and Full-Stack Developer at SVNIT Surat" width="100%" />
 </p>
 
+**AI Engineer and Full-Stack Developer** · B.Tech AI at **SVNIT Surat** (CGPA **9.19**)
+
+I design backend systems, ship full-stack products, and grind algorithms — **548** on LeetCode, **161** on Codeforces, **118** on CodeChef, **827+** aggregate, **Knight**, top **~3.7%** contests, and **8+** deployed builds.
+
+> **Available for Summer 2027 internship** — SDE, AI, and full-stack roles.
+
 <p align="center">
-  <img src="./assets/readme-signal.svg" alt="Competitive programming signal: LeetCode Knight, peak 1952, 548 solved, 810+ aggregate" width="100%" />
+  <img src="./assets/readme-signal.svg" alt="Competitive programming signal: LeetCode Knight, Codeforces Pupil 1346, 827+ aggregate" width="100%" />
 </p>
 
 ## Selected Work
@@ -68,9 +84,18 @@
   <a href="https://github.com/Ojas-Srivastava05/inkd-diary" title="Ink'd — Source Code"><img src="https://img.shields.io/badge/-08090C?style=for-the-badge&logo=github&logoColor=white&labelColor=08090C" alt="Ink'd Source" /></a>
 </p>
 
+## Experience and Education
+
 <p align="center">
   <img src="./assets/readme-experience.svg" alt="Experience and education — SVNIT, Inspectonly.devs, ACM, Nexus" width="100%" />
 </p>
+
+| Role | Organization | Period | Details |
+| :--- | :--- | :--- | :--- |
+| **Technical Lead** | Inspectonly.devs · Web Wonders 2025 | Jun — Aug 2025 | Led a four-member team — backend integration, feature delivery, PR review. |
+| **B.Tech, Artificial Intelligence** | SVNIT Surat | 2024 — 2028 | CGPA **9.19 / 10** · AI, algorithms, systems, DBMS, software engineering. |
+| **Executive Member** | ACM SVNIT Surat | 2024 — Present | Coding workshops and technical events across campus. |
+| **Mentor and Representative** | Nexus SVNIT | 2024 — Present | Mentoring juniors in programming fundamentals and technical onboarding. |
 
 ## Tech Stack
 
@@ -107,10 +132,10 @@
   <a href="https://www.linkedin.com/in/ojas-srivastava05" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-08090C?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=08090C" alt="LinkedIn" /></a>
   <a href="mailto:srivastavaojas454@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-08090C?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=08090C" alt="Email" /></a>
   <a href="https://leetcode.com/Oju_Srivastava" title="LeetCode"><img src="https://img.shields.io/badge/LeetCode-Knight-08090C?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=08090C" alt="LeetCode" /></a>
-  <a href="https://codeforces.com/profile/oju" title="Codeforces"><img src="https://img.shields.io/badge/Codeforces-08090C?style=for-the-badge&logo=codeforces&logoColor=1F8ACB&labelColor=08090C" alt="Codeforces" /></a>
+  <a href="https://codeforces.com/profile/oju" title="Codeforces"><img src="https://img.shields.io/badge/Codeforces-Pupil_1346-08090C?style=for-the-badge&logo=codeforces&logoColor=1F8ACB&labelColor=08090C" alt="Codeforces Pupil 1346" /></a>
   <a href="https://www.codechef.com/users/ojassrivastava" title="CodeChef"><img src="https://img.shields.io/badge/CodeChef-08090C?style=for-the-badge&logo=codechef&logoColor=5B4638&labelColor=08090C" alt="CodeChef" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Available_for_Summer_2026-08090C?style=for-the-badge&logo=statuspage&logoColor=34D399&labelColor=08090C" alt="Open to internships Summer 2026" />
+  <img src="https://img.shields.io/badge/Status-Open_for_Summer_2027_Internship-08090C?style=for-the-badge&logo=statuspage&logoColor=34D399&labelColor=08090C" alt="Open for Summer 2027 Internship" />
 </p>

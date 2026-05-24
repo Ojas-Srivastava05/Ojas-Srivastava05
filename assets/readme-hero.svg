@@ -62,8 +62,8 @@
   <g transform="translate(70 48)">
     <rect x="0" y="0" width="430" height="34" rx="10" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.08"/>
     <circle class="pulse" cx="18" cy="17" r="5" fill="#34D399"/>
-    <text x="34" y="22" class="mono emerald" font-size="11" font-weight="700">OPEN TO INTERNSHIPS</text>
-    <text x="208" y="22" class="mono muted" font-size="11">/ SUMMER 2026 / SURAT, INDIA</text>
+    <text x="34" y="22" class="mono emerald" font-size="11" font-weight="700">OPEN FOR SUMMER 2027 INTERNSHIP</text>
+    <text x="268" y="22" class="mono muted" font-size="11">/ SDE / AI / FULL-STACK / SURAT, INDIA</text>
   </g>
 
   <g transform="translate(70 124)">
