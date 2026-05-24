@@ -1,175 +1,80 @@
-<!-- README.md for GitHub profile - Ojas Srivastava -->
-<!-- Save this in the README.md of your repository named 'ojassrivastava' -->
+# Ojas Srivastava
 
-<!-- 🚀 Welcome Section -->
-<div align="center">
+**B.Tech Artificial Intelligence student at SVNIT Surat**  
+Full-stack developer focused on practical AI systems, product-minded web applications, and competitive programming.
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:330011,100:F72C5B&height=180&section=header&text=OJAS%20SRIVASTAVA&fontSize=65&fontColor=F72C5B&animation=twinkling&fontAlignY=50&desc=ARTIFICIAL%20INTELLIGENCE%20•%20MACHINE%20LEARNING%20•%20WEB%20DEVELOPMENT&descAlignY=75&descSize=16&descColor=FFFFFF"/>
-
-<!-- ⌨️ Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F72C5B&center=true&vCenter=true&width=500&lines=System+Update:+Maximum+Overdrive;AI+Engineer+%7C+Full+Stack+Developer;Building+The+Future+of+Tech;Welcome+to+the+Mainframe." alt="Typing SVG" />
-</a>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Snake"/>
-
-</div>
-
-<!-- Trophy 1: Single Row - Radical Theme -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ojas-srivastava05&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="trophy" />
-</div>
-
-<!-- 🎯 About Me -->
-<br>
-<br>
-<div align="center">
-
-<b>👤 Name:</b> Ojas Srivastava<br>
-<b>🎓 Role:</b> B.Tech in AI, NIT Surat<br>
-<b>📍 Location:</b> Surat, Gujarat, India<br>
-
-<b>🧠 Core Stack:</b> HTML5 • CSS3 • JavaScript • Django • jQuery<br>
-<b>⚙️ Currently Training:</b> React • Node.js • Express • PostgreSQL<br><br>
-
-<b>🤖 Intelligence Domains:</b><br>
- Machine Learning<br>
- Neural Networks<br>
- Deep Learning<br>
- Computer Vision<br>
- NLP<br>
- AGI Research<br><br>
-
-<b>🚀 Current Mission:</b><br>
-Build intelligent web applications with AI at the core.<br><br>
-
- "<i>AI will revolutionize everything — starting with my code.</i>"<br>
- <b>[SYSTEM STATUS: ✅ ONLINE]</b>
-
-</div>
-
-<!-- 🧠 Skills -->
-## 🧠 AI , ML & Web Development Learning Progress 
-
-<div align="center">
-
-<h3>🚀 Current Skills</h3>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" style="margin:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" style="margin:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" style="margin:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" style="margin:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" style="margin:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" style="margin:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" style="margin:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" style="margin:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" style="margin:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" style="margin:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" style="margin:10px; filter: invert(100%);" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" style="margin:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" style="margin:10px;" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg" height="50" style="margin:10px; filter: invert(17%) sepia(89%) saturate(431%) hue-rotate(145deg) brightness(93%) contrast(40%);" />
-
-<h3>📚 Currently Learning</h3>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" style="margin:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" style="margin:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" style="margin:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" style="margin:10px;" />
-
-<h3>🤖 AI/ML Tools</h3>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" style="margin:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" style="margin:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" style="margin:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" style="margin:10px;" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50" style="margin:10px;" />
-</div>
-
-<div align="center">
-<h3>🌐 API Tools</h3>
-<!-- Postman -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" style="margin:10px;" />
-<!-- Cohere -->
-<img src="https://img.shields.io/badge/Cohere-000?style=for-the-badge&logo=cohere&logoColor=white" height="30" />
-<!-- OpenAI -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="50" style="margin:10px;" />
-</div>
-
-<br>
-<br>
-
-<!-- Coding Analytics Section (Enhanced Dashboard) -->
-<h2 align="center">📊 Coding Analytics & Performance Metrics</h2>
-
-<div align="center">
-<table align="center" width="100%" style="border: none;">
-  <tr>
-    <td width="50%" align="center" style="border: none;">
-      <!-- GitHub Stats - Radical Theme -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Ojas-Srivastava05&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&line_height=27&custom_title=GitHub%20Statistics"/>
-    </td>
-    <td width="50%" align="center" style="border: none;">
-      <!-- Top Langs - Radical Theme -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ojas-Srivastava05&layout=compact&langs_count=10&theme=radical&hide_border=true&exclude_repo=repo1,repo2"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" style="border: none;">
-       <!-- LeetCode - Radical Theme -->
-       <a href="https://leetcode.com/oju_srivastava">
-        <img src="https://leetcard.jacoblin.cool/Oju_Srivastava?theme=radical&font=Fira%20Code&ext=heatmap" height="180" alt="LeetCode Stats" />
-       </a>
-    </td>
-    <td width="50%" align="center" style="border: none;">
-       <!-- Codeforces - Radical Theme -->
-      <a href="https://codeforces.com/profile/Oju">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Oju&theme=radical&font=Fira%20Code&no_bg=false" height="180" alt="Codeforces Stats" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<!-- Full Width Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ojas-Srivastava05&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="90%"/>
-<br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ojas-Srivastava05&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="100%"/>
-<br>
-
-<!-- Summary Cards (Radical/Dark Theme) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ojas-Srivastava05&theme=radical" width="100%"/>
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ojas-Srivastava05&theme=radical&utcOffset=5.5" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ojas-Srivastava05&theme=radical" width="48%"/>
-</div>
-
-<br>
-<!-- Badges (CodeChef etc.) -->
-<a href="https://www.codechef.com/users/ojassrivastava">
-    <img src="https://img.shields.io/badge/CodeChef-ojassrivastava-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="40" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=ojas-srivastava05&color=blueviolet&style=for-the-badge&label=AI+Enthusiasts+Visited" height="40" />
-
-</div>
-
-
-<!-- 🔗 Links -->
-<h2 align="center">🌐 Connect With Me</h2>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ojas-srivastava05)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/oju_srivastava)
-[![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/oju)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ojassrivastava05)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ojas-srivastava.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavaojas454@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ojas-srivastava05)
-
-</div>
+[Portfolio](https://ojas-srivastava.vercel.app/) | [LinkedIn](https://linkedin.com/in/ojas-srivastava05) | [LeetCode](https://leetcode.com/u/Oju_Srivastava/) | [Codeforces](https://codeforces.com/profile/Oju) | [Kaggle](https://www.kaggle.com/ojassrivastava05) | [Email](mailto:srivastavaojas454@gmail.com)
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:330011,100:F72C5B&height=180&section=footer&text=THANKS%20FOR%20VISITING!&fontSize=60&fontColor=F72C5B&animation=twinkling&fontAlignY=50&desc=CONNECT%20•%20COLLABORATE%20•%20CREATE%20THE%20FUTURE&descAlignY=75&descSize=16&descColor=FFFFFF"/>
-</div>
+## About
+
+I am pursuing a B.Tech in Artificial Intelligence at Sardar Vallabhbhai National Institute of Technology, Surat. My work sits at the intersection of full-stack engineering, machine learning, and algorithmic problem solving.
+
+I like building systems that are useful beyond the demo: authenticated dashboards, role-aware experiences, structured backends, clean interfaces, and AI-assisted workflows that solve real problems. I am especially interested in web products where strong engineering fundamentals and intelligent features work together.
+
+## Current Focus
+
+- Building full-stack applications with Django, Python, JavaScript, HTML, CSS, and modern frontend tooling.
+- Strengthening backend fundamentals across authentication, database design, APIs, and deployment-ready architecture.
+- Learning applied machine learning across neural networks, computer vision, NLP, and model evaluation.
+- Practicing competitive programming with an emphasis on data structures, dynamic programming, graph algorithms, and problem decomposition.
+
+## Selected Work
+
+### Clubify
+
+A college club management system for SVNIT, built as a full-stack web application for club operations, member-specific dashboards, notifications, and event access.
+
+- Led full-stack development and feature integration.
+- Built a modular Django backend with dedicated apps for dashboards and notifications.
+- Implemented authentication using Django's built-in auth system.
+- Developed club-specific livestream access restricted to logged-in club members.
+- Designed responsive frontend flows with HTML, CSS, and JavaScript.
+
+**Stack:** Django, Python, HTML, CSS, JavaScript
+
+### Portfolio Website
+
+A professional portfolio site for presenting projects, technical profiles, and contact information with a clean visual system and direct navigation.
+
+**Live:** [ojas-srivastava.vercel.app](https://ojas-srivastava.vercel.app/)
+
+### Competitive Programming
+
+I actively practice algorithmic problem solving across LeetCode and Codeforces. My competitive programming work is centered on writing clear, efficient C++ solutions and building reliable intuition for hard problem patterns.
+
+- LeetCode Knight with a contest rating of 1,889.
+- Strongest areas include dynamic programming, backtracking, union-find, math, hash tables, DFS, arrays, strings, and sorting.
+- Primary language: C++.
+
+## Technical Toolkit
+
+| Area | Tools |
+| --- | --- |
+| Languages | C, C++, Python, JavaScript |
+| Web | Django, HTML, CSS, Bootstrap, Tailwind CSS, jQuery |
+| Backend | Node.js, Express.js, REST APIs, authentication |
+| Databases | PostgreSQL, MySQL, MongoDB |
+| AI/ML | NumPy, Pandas, scikit-learn, TensorFlow, PyTorch |
+| Tools | Git, GitHub, Figma, Postman |
+
+## Academic & Community
+
+- B.Tech in Artificial Intelligence, SVNIT Surat.
+- Current CGPA: 9.19.
+- JEE Main: 99.21 percentile.
+- Involved with campus technical communities including Nexus - NIT Surat and ACM.
+
+## What I Am Looking For
+
+I am interested in internships, open-source work, and engineering collaborations around:
+
+- AI-enabled web applications.
+- Backend-heavy products with clean architecture.
+- Applied machine learning projects.
+- Developer tools, productivity systems, and campus-scale software.
+
+## Contact
+
+The best place to see my work is my [portfolio](https://ojas-srivastava.vercel.app/). For professional conversations, reach me on [LinkedIn](https://linkedin.com/in/ojas-srivastava05) or by [email](mailto:srivastavaojas454@gmail.com).
