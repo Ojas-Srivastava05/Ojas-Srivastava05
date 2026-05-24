@@ -50,6 +50,14 @@
       @keyframes ticker { from { transform: translateX(0); } to { transform: translateX(-520px); } }
     </style>
   </defs>
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description dc:creator="Ojas Srivastava" dc:identifier="O5WS-7F3A9E2B1C4D" dc:source="https://github.com/Ojas-Srivastava05" dc:rights="Copyright 2027 Ojas Srivastava. Unauthorized copying prohibited."/>
+    </rdf:RDF>
+  </metadata>
+  <!-- o5ws-integrity:readme-hero:7f3a9e2b1c4d -->
+  <text x="600" y="280" text-anchor="middle" fill="#FFFFFF" fill-opacity="0.018" font-size="11" font-family="Consolas, monospace" transform="rotate(-18 600 280)">O5WS-7F3A9E2B1C4D · OJAS-SRIVASTAVA05</text>
+  <text x="-9999" y="-9999" opacity="0" font-size="1" aria-hidden="true">o5ws7f3a9e2b1c4d</text>
 
   <rect width="1200" height="560" rx="34" class="bg"/>
   <rect width="1200" height="560" rx="34" fill="url(#grid)"/>
@@ -79,7 +87,7 @@
   </g>
 
   <g transform="translate(760 106)">
-    <rect x="0" y="0" width="360" height="286" rx="24" fill="#0D1117" fill-opacity="0.94" stroke="#FFFFFF" stroke-opacity="0.10"/>
+    <rect x="0" y="0" width="360" height="318" rx="24" fill="#0D1117" fill-opacity="0.94" stroke="#FFFFFF" stroke-opacity="0.10"/>
     <rect x="18" y="18" width="324" height="38" rx="12" fill="#FFFFFF" fill-opacity="0.035"/>
     <circle cx="38" cy="37" r="5" fill="#EF4444"/>
     <circle cx="56" cy="37" r="5" fill="#F59E0B"/>
@@ -90,8 +98,9 @@
     <text x="46" y="154" font-family="Consolas, Monaco, monospace" fill="#D4D4D8" font-size="14">focus: <tspan fill="#FDE68A">"AI Systems"</tspan>,</text>
     <text x="46" y="184" font-family="Consolas, Monaco, monospace" fill="#D4D4D8" font-size="14">cgpa: <tspan fill="#34D399">9.19</tspan>,</text>
     <text x="46" y="214" font-family="Consolas, Monaco, monospace" fill="#D4D4D8" font-size="14">stats: <tspan fill="#34D399">"live"</tspan>,</text>
-    <text x="46" y="244" font-family="Consolas, Monaco, monospace" fill="#D4D4D8" font-size="14">status: <tspan fill="#34D399">"available"</tspan></text>
-    <text x="28" y="270" class="mono muted" font-size="14">}</text>
+    <text x="46" y="244" font-family="Consolas, Monaco, monospace" fill="#D4D4D8" font-size="14">sig: <tspan fill="#71717A">"O5WS-7F3A9E2B1C4D"</tspan>,</text>
+    <text x="46" y="274" font-family="Consolas, Monaco, monospace" fill="#D4D4D8" font-size="14">status: <tspan fill="#34D399">"available"</tspan></text>
+    <text x="28" y="300" class="mono muted" font-size="14">}</text>
   </g>
 
   <g transform="translate(70 500)">

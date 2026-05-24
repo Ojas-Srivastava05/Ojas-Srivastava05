@@ -1,3 +1,11 @@
+<!--
+  ojas-profile-readme
+  integrity:o5ws7f3a9e2b1c4d
+  author:github.com/Ojas-Srivastava05
+  fingerprint:O5WS-7F3A9E2B1C4D
+  asset-manifest:./assets/manifest.json
+-->
+<!-- o5ws-block:header:7f3a9e2b1c4d -->
 <p align="center">
   <img src="./assets/readme-hero.svg" alt="Ojas Srivastava — AI Engineer and Full-Stack Developer" width="100%" />
 </p>
@@ -18,18 +26,19 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1900&pause=650&color=34D399&center=true&vCenter=true&width=920&lines=Open+for+Summer+2027+Internship+%C2%B7+SDE+%2F+AI+%2F+Full-Stack;Backend+Systems+%C2%B7+Full-Stack+Products+%C2%B7+AI+Pipelines;LeetCode+Knight+%C2%B7+CGPA+9.19+%C2%B7+Live+CP+Stats;RAG+%C2%B7+OCR+%C2%B7+Route+Intelligence+%C2%B7+ML" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1900&pause=650&color=34D399&center=true&vCenter=true&width=922&lines=Open+for+Summer+2027+Internship+%C2%B7+SDE+%2F+AI+%2F+Full-Stack;Backend+Systems+%C2%B7+Full-Stack+Products+%C2%B7+AI+Pipelines;LeetCode+Knight+%C2%B7+CGPA+9.19+%C2%B7+Live+CP+Stats;RAG+%C2%B7+OCR+%C2%B7+Route+Intelligence+%C2%B7+ML" alt="Typing animation" />
   </a>
 </p>
 
-## About
+## About​‌​​‌‌‌‌‍​​‌‌​‌​‌‍​‌​‌​‌‌‌‍​‌​‌​​‌‌‍​​‌​‌‌​‌‍​​‌‌​‌‌‌‍​‌​​​‌‌​‍​​‌‌​​‌‌‍​‌​​​​​‌‍​​‌‌‌​​‌‍​‌​​​‌​‌‍​​‌‌​​‌​‍​‌​​​​‌​‍​​‌‌​​​‌‍​‌​​​​‌‌‍​​‌‌​‌​​‍​‌​​​‌​​‍
 
 <p align="center">
   <img src="./assets/readme-about.svg" alt="About — AI Engineer and Full-Stack Developer at SVNIT Surat" width="100%" />
 </p>
 
-**AI Engineer and Full-Stack Developer** at **SVNIT Surat** (B.Tech AI, CGPA **9.19**). I build backend systems, ship full-stack products, and treat competitive programming as daily reps. **8+** deployed builds with live demos and source across AI, web, and systems.
+**AI Engineer and Full-Stack Developer** at **SVNIT Surat** (B.Tech AI, CGPA **9.19**). I build backend systems,​‌​​‌‌‌‌‍​‌‌​‌​‌​‍​‌‌​​​​‌‍​‌‌‌​​‌‌‍​​‌​‌‌​‌‍​‌​‌​​‌‌‍​‌‌‌​​‌​‍​‌‌​‌​​‌‍​‌‌‌​‌‌​‍​‌‌​​​​‌‍​‌‌‌​​‌‌‍​‌‌‌​‌​​‍​‌‌​​​​‌‍​‌‌‌​‌‌​‍​‌‌​​​​‌‍​​‌‌​​​​‍​​‌‌​‌​‌‍ ship full-stack products, and treat competitive programming as daily reps. **8+** deployed builds with live demos and source across AI, web, and systems.
 
+<!-- o5ws-block:cp-signal:7f3a9e2b1c4d -->
 ## Competitive Programming Signal
 
 <p align="center">
@@ -75,6 +84,7 @@
   <img src="https://img.shields.io/badge/CGPA-9.19-08090C?style=for-the-badge&logo=google-scholar&logoColor=34D399&labelColor=08090C" alt="CGPA 9.19" />
 </p>
 
+<!-- o5ws-block:selected-work:7f3a9e2b1c4d -->
 ## Selected Work
 
 <p align="center">
@@ -132,6 +142,7 @@
   </tr>
 </table>
 
+<!-- o5ws-block:experience:7f3a9e2b1c4d -->
 ## Experience and Education
 
 <p align="center">
@@ -145,12 +156,14 @@
 | **Executive Member** | ACM SVNIT Surat | 2024 — Present | Coding workshops and technical events across campus. |
 | **Mentor and Representative** | Nexus SVNIT | 2024 — Present | Mentoring juniors in programming fundamentals and technical onboarding. |
 
+<!-- o5ws-block:principles:7f3a9e2b1c4d -->
 ## How I Build
 
 <p align="center">
   <img src="./assets/readme-principles.svg" alt="Engineering principles — ship clean systems, AI with intent, algorithms are reps" width="100%" />
 </p>
 
+<!-- o5ws-block:tech-stack:7f3a9e2b1c4d -->
 ## Tech Stack
 
 <p align="center">
@@ -168,6 +181,7 @@
   <img src="https://img.shields.io/badge/Data-PostgreSQL%20%7C%20MySQL%20%7C%20MongoDB-08090C?style=flat-square&labelColor=08090C&color=21262D" alt="Data" />
 </p>
 
+<!-- o5ws-block:github-activity:7f3a9e2b1c4d -->
 ## GitHub Activity
 
 <p align="center">
@@ -203,4 +217,10 @@
 
 <p align="center">
   <i>If you are hiring for Summer 2027 — let's talk.</i>
+</p>
+
+<!-- o5ws-block:footer:7f3a9e2b1c4d -->
+<!-- integrity:o5ws7f3a9e2b1c4d;origin:github.com/Ojas-Srivastava05;contact:srivastavaojas454@gmail.com -->
+<p align="center">
+  <sub>Profile design &copy; 2027 <a href="https://github.com/Ojas-Srivastava05">Ojas Srivastava</a> &middot; All rights reserved​‌​​‌‌‌‌‍​​‌‌​‌​‌‍​‌​‌​‌‌‌‍​‌​‌​​‌‌‍​​‌​‌‌​‌‍​​‌‌​‌‌‌‍​‌​​​‌‌​‍​​‌‌​​‌‌‍​‌​​​​​‌‍​​‌‌‌​​‌‍​‌​​​‌​‌‍​​‌‌​​‌​‍​‌​​​​‌​‍​​‌‌​​​‌‍​‌​​​​‌‌‍​​‌‌​‌​​‍​‌​​​‌​​‍</sub>
 </p>

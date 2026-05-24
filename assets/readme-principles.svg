@@ -1,6 +1,6 @@
-<svg width="1200" height="200" viewBox="0 0 1200 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Engineering principles">
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Engineering principles">
   <defs>
-    <linearGradient id="prAccent" x1="0" y1="0" x2="1200" y2="200">
+    <linearGradient id="prAccent" x1="0" y1="0" x2="1200" y2="340">
       <stop stop-color="#34D399"/>
       <stop offset="0.55" stop-color="#22D3EE"/>
       <stop offset="1" stop-color="#FDE68A"/>
@@ -9,15 +9,38 @@
       <path d="M38 0H0V38" stroke="#FFFFFF" stroke-opacity="0.08"/>
     </pattern>
   </defs>
-  <rect width="1200" height="200" rx="28" fill="#08090C"/>
-  <rect width="1200" height="200" rx="28" fill="url(#prGrid)"/>
-  <rect x="22" y="22" width="1156" height="156" rx="22" fill="#FFFFFF" fill-opacity="0.06" stroke="#34D399" stroke-opacity="0.35" stroke-width="1.5"/>
-  <text x="52" y="58" font-family="Consolas, Monaco, monospace" fill="#34D399" font-size="14" font-weight="700">// HOW I BUILD</text>
-  <text x="52" y="100" font-family="Segoe UI, Arial, sans-serif" fill="#FFFFFF" font-size="17" font-weight="600">Ship clean systems</text>
-  <text x="52" y="128" font-family="Segoe UI, Arial, sans-serif" fill="#A1A1AA" font-size="15">Backend-first architecture with product surfaces that stay fast.</text>
-  <text x="420" y="100" font-family="Segoe UI, Arial, sans-serif" fill="#FFFFFF" font-size="17" font-weight="600">AI with intent</text>
-  <text x="420" y="128" font-family="Segoe UI, Arial, sans-serif" fill="#A1A1AA" font-size="15">RAG, OCR, routing intelligence, and ML where they earn their place.</text>
-  <text x="790" y="100" font-family="Segoe UI, Arial, sans-serif" fill="#FFFFFF" font-size="17" font-weight="600">Algorithms are reps</text>
-  <text x="790" y="128" font-family="Segoe UI, Arial, sans-serif" fill="#A1A1AA" font-size="15">Daily CP discipline that sharpens debugging and system thinking.</text>
-  <rect x="52" y="168" width="1096" height="4" rx="2" fill="url(#prAccent)"/>
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description dc:creator="Ojas Srivastava" dc:identifier="O5WS-7F3A9E2B1C4D" dc:source="https://github.com/Ojas-Srivastava05" dc:rights="Copyright 2027 Ojas Srivastava. Unauthorized copying prohibited."/>
+    </rdf:RDF>
+  </metadata>
+  <!-- o5ws-integrity:readme-principles:7f3a9e2b1c4d -->
+  <text x="600" y="160" text-anchor="middle" fill="#FFFFFF" fill-opacity="0.018" font-size="11" font-family="Consolas, monospace" transform="rotate(-18 600 160)">O5WS-7F3A9E2B1C4D · OJAS-SRIVASTAVA05</text>
+  <text x="-9999" y="-9999" opacity="0" font-size="1" aria-hidden="true">o5ws7f3a9e2b1c4d</text>
+
+  <rect width="1200" height="340" rx="28" fill="#08090C"/>
+  <rect width="1200" height="340" rx="28" fill="url(#prGrid)"/>
+  <rect x="22" y="22" width="1156" height="296" rx="22" fill="#FFFFFF" fill-opacity="0.06" stroke="#34D399" stroke-opacity="0.35" stroke-width="1.5"/>
+
+  <text x="600" y="62" text-anchor="middle" font-family="Consolas, Monaco, monospace" fill="#34D399" font-size="14" font-weight="700">// HOW I BUILD</text>
+
+  <rect x="52" y="82" width="1096" height="1" fill="#FFFFFF" fill-opacity="0.08"/>
+
+  <circle cx="68" cy="118" r="6" fill="#34D399"/>
+  <text x="92" y="114" font-family="Segoe UI, Arial, sans-serif" fill="#FFFFFF" font-size="20" font-weight="700">Ship Clean Systems</text>
+  <text x="92" y="142" font-family="Segoe UI, Arial, sans-serif" fill="#A1A1AA" font-size="16">Backend-first architecture with product surfaces that stay fast, reliable, and maintainable.</text>
+
+  <rect x="52" y="162" width="1096" height="1" fill="#FFFFFF" fill-opacity="0.08"/>
+
+  <circle cx="68" cy="198" r="6" fill="#22D3EE"/>
+  <text x="92" y="194" font-family="Segoe UI, Arial, sans-serif" fill="#FFFFFF" font-size="20" font-weight="700">AI With Intent</text>
+  <text x="92" y="222" font-family="Segoe UI, Arial, sans-serif" fill="#A1A1AA" font-size="16">RAG, OCR, route intelligence, and ML pipelines only where they earn their place in the product.</text>
+
+  <rect x="52" y="242" width="1096" height="1" fill="#FFFFFF" fill-opacity="0.08"/>
+
+  <circle cx="68" cy="278" r="6" fill="#FDE68A"/>
+  <text x="92" y="274" font-family="Segoe UI, Arial, sans-serif" fill="#FFFFFF" font-size="20" font-weight="700">Algorithms Are Reps</text>
+  <text x="92" y="302" font-family="Segoe UI, Arial, sans-serif" fill="#A1A1AA" font-size="16">Daily competitive programming discipline that sharpens debugging, speed, and systems thinking.</text>
+
+  <rect x="52" y="326" width="1096" height="4" rx="2" fill="url(#prAccent)"/>
 </svg>
