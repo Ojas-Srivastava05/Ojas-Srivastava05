@@ -1,0 +1,23 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Engineering principles">
+  <defs>
+    <linearGradient id="prAccent" x1="0" y1="0" x2="1200" y2="200">
+      <stop stop-color="#34D399"/>
+      <stop offset="0.55" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#FDE68A"/>
+    </linearGradient>
+    <pattern id="prGrid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="200" rx="28" fill="#08090C"/>
+  <rect width="1200" height="200" rx="28" fill="url(#prGrid)"/>
+  <rect x="22" y="22" width="1156" height="156" rx="22" fill="#FFFFFF" fill-opacity="0.06" stroke="#34D399" stroke-opacity="0.35" stroke-width="1.5"/>
+  <text x="52" y="58" font-family="Consolas, Monaco, monospace" fill="#34D399" font-size="14" font-weight="700">// HOW I BUILD</text>
+  <text x="52" y="100" font-family="Segoe UI, Arial, sans-serif" fill="#FFFFFF" font-size="17" font-weight="600">Ship clean systems</text>
+  <text x="52" y="128" font-family="Segoe UI, Arial, sans-serif" fill="#A1A1AA" font-size="15">Backend-first architecture with product surfaces that stay fast.</text>
+  <text x="420" y="100" font-family="Segoe UI, Arial, sans-serif" fill="#FFFFFF" font-size="17" font-weight="600">AI with intent</text>
+  <text x="420" y="128" font-family="Segoe UI, Arial, sans-serif" fill="#A1A1AA" font-size="15">RAG, OCR, routing intelligence, and ML where they earn their place.</text>
+  <text x="790" y="100" font-family="Segoe UI, Arial, sans-serif" fill="#FFFFFF" font-size="17" font-weight="600">Algorithms are reps</text>
+  <text x="790" y="128" font-family="Segoe UI, Arial, sans-serif" fill="#A1A1AA" font-size="15">Daily CP discipline that sharpens debugging and system thinking.</text>
+  <rect x="52" y="168" width="1096" height="4" rx="2" fill="url(#prAccent)"/>
+</svg>

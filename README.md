@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="./assets/readme-internship.svg" alt="Open for Summer 2027 Internship — SDE, AI, Full-Stack" width="100%" />
+  <img src="./assets/readme-internship.svg" alt="Open for Summer 2027 Internship" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://ojas-srivastava.vercel.app/" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-08090C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=08090C" alt="Portfolio" /></a>
-  <a href="https://github.com/Ojas-Srivastava05" title="GitHub"><img src="https://img.shields.io/badge/GitHub-08090C?style=for-the-badge&logo=github&logoColor=white&labelColor=08090C" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/ojas-srivastava05" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-08090C?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=08090C" alt="LinkedIn" /></a>
-  <a href="mailto:srivastavaojas454@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-08090C?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=08090C" alt="Email" /></a>
+  <a href="https://ojas-srivastava.vercel.app/" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-34D399?style=for-the-badge&logo=vercel&logoColor=white&labelColor=08090C" alt="Portfolio" /></a>
+  <a href="https://github.com/Ojas-Srivastava05" title="GitHub"><img src="https://img.shields.io/badge/GitHub-08090C?style=for-the-badge&logo=github&logoColor=white&labelColor=21262D" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/ojas-srivastava05" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=08090C" alt="LinkedIn" /></a>
+  <a href="mailto:srivastavaojas454@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=08090C" alt="Email" /></a>
   <a href="https://leetcode.com/Oju_Srivastava" title="LeetCode"><img src="https://cp-logo.vercel.app/leetcode/Oju_Srivastava?logo=true" height="28" alt="LeetCode" /></a>
   <a href="https://codeforces.com/profile/oju" title="Codeforces"><img src="https://cp-logo.vercel.app/codeforces/oju?logo=true" height="28" alt="Codeforces" /></a>
   <a href="https://www.codechef.com/users/ojassrivastava" title="CodeChef"><img src="https://cp-logo.vercel.app/codechef/ojassrivastava?logo=true" height="28" alt="CodeChef" /></a>
@@ -18,12 +18,8 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1900&pause=650&color=34D399&center=true&vCenter=true&width=900&lines=Open+for+Summer+2027+Internship+%C2%B7+SDE+%2F+AI+%2F+Full-Stack;Backend+Systems+%C2%B7+Full-Stack+Products+%C2%B7+AI+Pipelines;LeetCode+Knight+%C2%B7+CGPA+9.19+%C2%B7+827%2B+Problems;RAG+%C2%B7+OCR+%C2%B7+Route+Intelligence+%C2%B7+ML" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1900&pause=650&color=34D399&center=true&vCenter=true&width=920&lines=Open+for+Summer+2027+Internship+%C2%B7+SDE+%2F+AI+%2F+Full-Stack;Backend+Systems+%C2%B7+Full-Stack+Products+%C2%B7+AI+Pipelines;LeetCode+Knight+%C2%B7+CGPA+9.19+%C2%B7+Live+CP+Stats;RAG+%C2%B7+OCR+%C2%B7+Route+Intelligence+%C2%B7+ML" alt="Typing animation" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open_for_Summer_2027_Internship-08090C?style=for-the-badge&logo=statuspage&logoColor=34D399&labelColor=08090C" alt="Open for Summer 2027 Internship" />
 </p>
 
 ## About
@@ -32,16 +28,18 @@
   <img src="./assets/readme-about.svg" alt="About — AI Engineer and Full-Stack Developer at SVNIT Surat" width="100%" />
 </p>
 
-**AI Engineer and Full-Stack Developer** · B.Tech AI at **SVNIT Surat** (CGPA **9.19**)
-
-I design backend systems, ship full-stack products, and grind algorithms — **Knight** on LeetCode, active on Codeforces and CodeChef, CGPA **9.19**, and **8+** deployed builds. Competitive programming stats below update automatically.
-
-> **Available for Summer 2027 internship** — SDE, AI, and full-stack roles.
+**AI Engineer and Full-Stack Developer** at **SVNIT Surat** (B.Tech AI, CGPA **9.19**). I build backend systems, ship full-stack products, and treat competitive programming as daily reps. **8+** deployed builds with live demos and source across AI, web, and systems.
 
 ## Competitive Programming Signal
 
 <p align="center">
-  <img src="./assets/readme-signal.svg" alt="Competitive programming signal — live auto-updated stats" width="100%" />
+  <img src="./assets/readme-signal.svg" alt="Competitive programming signal header" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/Oju_Srivastava">
+    <img src="https://leetcard.jacoblin.cool/Oju_Srivastava?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=16&size=320" alt="LeetCode stats card" />
+  </a>
 </p>
 
 <table align="center">
@@ -78,6 +76,10 @@ I design backend systems, ship full-stack products, and grind algorithms — **K
 </p>
 
 ## Selected Work
+
+<p align="center">
+  <img src="./assets/readme-work-header.svg" alt="Selected work — deployed builds" width="100%" />
+</p>
 
 <table>
   <tr>
@@ -138,45 +140,58 @@ I design backend systems, ship full-stack products, and grind algorithms — **K
 
 | Role | Organization | Period | Details |
 | :--- | :--- | :--- | :--- |
-| **Technical Lead** | Inspectonly.devs · Web Wonders 2025 | Jun — Aug 2025 | Led a four-member team — backend integration, feature delivery, PR review. |
+| **Technical Lead** | Inspectonly.devs · Web Wonders 2025 | Jun — Aug 2025 | Led a four-member team: backend integration, feature delivery, PR review. |
 | **B.Tech, Artificial Intelligence** | SVNIT Surat | 2024 — 2028 | CGPA **9.19 / 10** · AI, algorithms, systems, DBMS, software engineering. |
 | **Executive Member** | ACM SVNIT Surat | 2024 — Present | Coding workshops and technical events across campus. |
 | **Mentor and Representative** | Nexus SVNIT | 2024 — Present | Mentoring juniors in programming fundamentals and technical onboarding. |
 
+## How I Build
+
+<p align="center">
+  <img src="./assets/readme-principles.svg" alt="Engineering principles — ship clean systems, AI with intent, algorithms are reps" width="100%" />
+</p>
+
 ## Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Languages-C%20%7C%20C%2B%2B%20%7C%20Python%20%7C%20JS-08090C?style=for-the-badge&labelColor=08090C&color=34D399" alt="Languages" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,fastapi,django,nodejs,express,nextjs,react,tailwind,bootstrap,postgres,mysql,mongodb,git,github,figma,postman,tensorflow,pytorch" alt="Tech stack icons" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-08090C?style=flat-square&logo=fastapi&logoColor=009688&labelColor=08090C" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/React-08090C?style=flat-square&logo=react&logoColor=61DAFB&labelColor=08090C" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-08090C?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=08090C" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-08090C?style=flat-square&logo=nodedotjs&logoColor=339933&labelColor=08090C" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-08090C?style=flat-square&logo=mongodb&logoColor=47A248&labelColor=08090C" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/RAG-08090C?style=flat-square&logo=openai&logoColor=412991&labelColor=08090C" alt="RAG" />
-  <img src="https://img.shields.io/badge/OCR-08090C?style=flat-square&logo=googlecloud&logoColor=4285F4&labelColor=08090C" alt="OCR" />
-  <img src="https://img.shields.io/badge/ML_Pipelines-08090C?style=flat-square&logo=scikitlearn&logoColor=F7931E&labelColor=08090C" alt="ML Pipelines" />
-  <img src="https://img.shields.io/badge/C++_DSA-08090C?style=flat-square&logo=cplusplus&logoColor=00599C&labelColor=08090C" alt="C++ DSA" />
+  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Django%20%7C%20Node%20%7C%20Express-08090C?style=flat-square&labelColor=08090C&color=21262D" alt="Backend" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-08090C?style=flat-square&labelColor=08090C&color=21262D" alt="Frontend" />
+  <img src="https://img.shields.io/badge/AI-RAG%20%7C%20OCR%20%7C%20ML%20%7C%20PyTorch%20%7C%20TF-08090C?style=flat-square&labelColor=08090C&color=21262D" alt="AI and ML" />
+  <img src="https://img.shields.io/badge/Data-PostgreSQL%20%7C%20MySQL%20%7C%20MongoDB-08090C?style=flat-square&labelColor=08090C&color=21262D" alt="Data" />
 </p>
 
 ## GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ojas-Srivastava05&show_icons=true&theme=github_dark&hide_border=true&title_color=34D399&icon_color=FDE68A&text_color=D4D4D8&bg_color=08090C" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ojas-Srivastava05&layout=compact&theme=github_dark&hide_border=true&title_color=34D399&text_color=D4D4D8&bg_color=08090C" alt="Top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ojas-Srivastava05&theme=dark&hide_border=true&background=08090C&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=D4D4D8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=71717A" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ojas-Srivastava05&theme=github-dark&hide_border=true&area=true&color=34D399&line=34D399&point=FDE68A&custom_title=Contribution%20Graph" alt="Contribution graph" width="98%" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ojas-Srivastava05&show_icons=true&theme=github_dark&hide_border=true&title_color=34D399&icon_color=FDE68A&text_color=D4D4D8&bg_color=08090C&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ojas-Srivastava05&layout=compact&theme=github_dark&hide_border=true&title_color=34D399&text_color=D4D4D8&bg_color=08090C&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <a href="https://ojas-srivastava.vercel.app/" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-08090C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=08090C" alt="Portfolio" /></a>
-  <a href="https://github.com/Ojas-Srivastava05/Portfolio-Ojas" title="Portfolio Source"><img src="https://img.shields.io/badge/Portfolio-Source-08090C?style=for-the-badge&logo=github&logoColor=white&labelColor=08090C" alt="Portfolio Source" /></a>
-  <a href="https://www.linkedin.com/in/ojas-srivastava05" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-08090C?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=08090C" alt="LinkedIn" /></a>
-  <a href="mailto:srivastavaojas454@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-08090C?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=08090C" alt="Email" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ojas-Srivastava05&theme=github-dark&hide_border=true&area=true&color=34D399&line=34D399&point=FDE68A&custom_title=Contribution%20Graph&bg_color=08090C" alt="Contribution graph" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ojas-Srivastava05&label=Profile%20Views&color=34D399&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="https://ojas-srivastava.vercel.app/" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-34D399?style=for-the-badge&logo=vercel&logoColor=white&labelColor=08090C" alt="Portfolio" /></a>
+  <a href="https://github.com/Ojas-Srivastava05/Portfolio-Ojas" title="Portfolio Source"><img src="https://img.shields.io/badge/Source-08090C?style=for-the-badge&logo=github&logoColor=white&labelColor=21262D" alt="Portfolio Source" /></a>
+  <a href="https://www.linkedin.com/in/ojas-srivastava05" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=08090C" alt="LinkedIn" /></a>
+  <a href="mailto:srivastavaojas454@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=08090C" alt="Email" /></a>
   <a href="https://leetcode.com/Oju_Srivastava" title="LeetCode"><img src="https://cp-logo.vercel.app/leetcode/Oju_Srivastava?logo=true" height="28" alt="LeetCode" /></a>
   <a href="https://codeforces.com/profile/oju" title="Codeforces"><img src="https://cp-logo.vercel.app/codeforces/oju?logo=true" height="28" alt="Codeforces" /></a>
   <a href="https://www.codechef.com/users/ojassrivastava" title="CodeChef"><img src="https://cp-logo.vercel.app/codechef/ojassrivastava?logo=true" height="28" alt="CodeChef" /></a>
@@ -184,4 +199,8 @@ I design backend systems, ship full-stack products, and grind algorithms — **K
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open_for_Summer_2027_Internship-08090C?style=for-the-badge&logo=statuspage&logoColor=34D399&labelColor=08090C" alt="Open for Summer 2027 Internship" />
+</p>
+
+<p align="center">
+  <i>If you are hiring for Summer 2027 — let's talk.</i>
 </p>

@@ -60,10 +60,10 @@
   <rect class="scan" x="65" y="55" width="180" height="430" rx="90" fill="url(#accent)" opacity="0.10"/>
 
   <g transform="translate(70 48)">
-    <rect x="0" y="0" width="430" height="34" rx="10" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <rect x="0" y="0" width="520" height="34" rx="10" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.08"/>
     <circle class="pulse" cx="18" cy="17" r="5" fill="#34D399"/>
-    <text x="34" y="22" class="mono emerald" font-size="11" font-weight="700">OPEN FOR SUMMER 2027 INTERNSHIP</text>
-    <text x="268" y="22" class="mono muted" font-size="11">/ SDE / AI / FULL-STACK / SURAT, INDIA</text>
+    <text x="34" y="22" font-family="Consolas, Monaco, monospace" fill="#34D399" font-size="11" font-weight="700">OPEN FOR SUMMER 2027 INTERNSHIP</text>
+    <text x="318" y="22" font-family="Consolas, Monaco, monospace" fill="#71717A" font-size="11">SDE / AI / FULL-STACK / SURAT</text>
   </g>
 
   <g transform="translate(70 124)">
@@ -86,11 +86,11 @@
     <circle cx="74" cy="37" r="5" fill="#34D399"/>
     <text x="96" y="42" class="mono muted" font-size="11">engineer.config.ts</text>
     <text x="28" y="94" class="mono muted" font-size="14">const ojas = {</text>
-    <text x="46" y="124" class="mono soft" font-size="14">rank: <tspan class="amber">"Knight"</tspan>,</text>
-    <text x="46" y="154" class="mono soft" font-size="14">leetcode: <tspan class="emerald">548</tspan>,</text>
-    <text x="46" y="184" class="mono soft" font-size="14">peak: <tspan class="emerald">1952</tspan>,</text>
-    <text x="46" y="214" class="mono soft" font-size="14">aggregate: <tspan class="emerald">810+</tspan>,</text>
-    <text x="46" y="244" class="mono soft" font-size="14">status: <tspan class="emerald">"available"</tspan></text>
+    <text x="46" y="124" font-family="Consolas, Monaco, monospace" fill="#D4D4D8" font-size="14">rank: <tspan fill="#FDE68A">"Knight"</tspan>,</text>
+    <text x="46" y="154" font-family="Consolas, Monaco, monospace" fill="#D4D4D8" font-size="14">focus: <tspan fill="#FDE68A">"AI Systems"</tspan>,</text>
+    <text x="46" y="184" font-family="Consolas, Monaco, monospace" fill="#D4D4D8" font-size="14">cgpa: <tspan fill="#34D399">9.19</tspan>,</text>
+    <text x="46" y="214" font-family="Consolas, Monaco, monospace" fill="#D4D4D8" font-size="14">stats: <tspan fill="#34D399">"live"</tspan>,</text>
+    <text x="46" y="244" font-family="Consolas, Monaco, monospace" fill="#D4D4D8" font-size="14">status: <tspan fill="#34D399">"available"</tspan></text>
     <text x="28" y="270" class="mono muted" font-size="14">}</text>
   </g>
 

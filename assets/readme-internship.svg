@@ -1,14 +1,20 @@
-<svg width="1200" height="88" viewBox="0 0 1200 88" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Available for Summer 2027 internship">
+<svg width="1200" height="96" viewBox="0 0 1200 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Available for Summer 2027 internship">
   <defs>
-    <linearGradient id="internGrad" x1="0" y1="0" x2="1200" y2="88">
+    <linearGradient id="internGrad" x1="0" y1="0" x2="1200" y2="96">
       <stop stop-color="#34D399"/>
       <stop offset="0.5" stop-color="#22D3EE"/>
       <stop offset="1" stop-color="#FDE68A"/>
     </linearGradient>
+    <pattern id="internGrid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    </pattern>
   </defs>
-  <rect width="1200" height="88" rx="20" fill="#08090C" stroke="url(#internGrad)" stroke-width="2"/>
-  <circle cx="44" cy="44" r="8" fill="#34D399"/>
-  <text x="68" y="38" font-family="Consolas, Monaco, monospace" fill="#34D399" font-size="13" font-weight="700">// STATUS</text>
-  <text x="68" y="62" font-family="Segoe UI, Arial, sans-serif" fill="#FFFFFF" font-size="24" font-weight="700">Open for Summer 2027 Internship</text>
-  <text x="820" y="52" font-family="Consolas, Monaco, monospace" fill="#FDE68A" font-size="16" font-weight="700">SDE / AI / Full-Stack</text>
+  <rect width="1200" height="96" rx="22" fill="#08090C"/>
+  <rect width="1200" height="96" rx="22" fill="url(#internGrid)"/>
+  <rect x="2" y="2" width="1196" height="92" rx="20" stroke="url(#internGrad)" stroke-width="2" fill="none"/>
+  <circle cx="48" cy="48" r="9" fill="#34D399"/>
+  <circle cx="48" cy="48" r="16" stroke="#34D399" stroke-opacity="0.35" fill="none"/>
+  <text x="76" y="40" font-family="Consolas, Monaco, monospace" fill="#34D399" font-size="13" font-weight="700">// STATUS</text>
+  <text x="76" y="66" font-family="Segoe UI, Arial, sans-serif" fill="#FFFFFF" font-size="26" font-weight="700">Open for Summer 2027 Internship</text>
+  <text x="900" y="56" font-family="Consolas, Monaco, monospace" fill="#FDE68A" font-size="15" font-weight="700">SDE / AI / FULL-STACK</text>
 </svg>
