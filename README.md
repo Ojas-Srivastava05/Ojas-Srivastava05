@@ -6,8 +6,9 @@
   asset-manifest:./assets/manifest.json
 -->
 <!-- o5ws-block:header:7f3a9e2b1c4d -->
+
 <p align="center">
-  <img src="./assets/readme-hero.svg" alt="Ojas Srivastava — AI Engineer and Full-Stack Developer" width="100%" />
+  <img src="./assets/readme-hero.svg" alt="Ojas Srivastava — Competitive Programmer, AI Engineer, Full-Stack Developer" width="100%" />
 </p>
 
 <p align="center">
@@ -15,28 +16,28 @@
 </p>
 
 <p align="center">
-  <a href="https://ojas-srivastava.vercel.app/" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-34D399?style=for-the-badge&logo=vercel&logoColor=white&labelColor=08090C" alt="Portfolio" /></a>
-  <a href="https://github.com/Ojas-Srivastava05" title="GitHub"><img src="https://img.shields.io/badge/GitHub-08090C?style=for-the-badge&logo=github&logoColor=white&labelColor=21262D" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/ojas-srivastava05" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=08090C" alt="LinkedIn" /></a>
-  <a href="mailto:srivastavaojas454@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=08090C" alt="Email" /></a>
-  <a href="https://leetcode.com/Oju_Srivastava" title="LeetCode"><img src="https://cp-logo.vercel.app/leetcode/Oju_Srivastava?logo=true" height="28" alt="LeetCode" /></a>
-  <a href="https://codeforces.com/profile/oju" title="Codeforces"><img src="https://cp-logo.vercel.app/codeforces/oju?logo=true" height="28" alt="Codeforces" /></a>
-  <a href="https://www.codechef.com/users/ojassrivastava" title="CodeChef"><img src="https://cp-logo.vercel.app/codechef/ojassrivastava?logo=true" height="28" alt="CodeChef" /></a>
+  <a href="https://ojas-srivastava.vercel.app/" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=34D399&labelColor=08090C" alt="Portfolio" /></a>
+  <a href="https://github.com/Ojas-Srivastava05" title="GitHub"><img src="https://img.shields.io/badge/GitHub-21262D?style=for-the-badge&logo=github&logoColor=white&labelColor=08090C" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/ojas-srivastava05" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-21262D?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=08090C" alt="LinkedIn" /></a>
+  <a href="mailto:srivastavaojas454@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-21262D?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=08090C" alt="Email" /></a>
+  <a href="https://leetcode.com/Oju_Srivastava" title="LeetCode"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=leetcode&label=LeetCode&color=21262D&labelColor=08090C&logoColor=FFA116&query=solvedProblem&suffix=%20Solved&url=https://alfa-leetcode-api.onrender.com/Oju_Srivastava/solved&cacheSeconds=3600" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/oju" title="Codeforces"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=codeforces&label=Codeforces&color=21262D&labelColor=08090C&logoColor=1F8ACB&query=%24.result%5B0%5D.rating&url=https://codeforces.com/api/user.info?handles=Oju&cacheSeconds=3600" alt="Codeforces" /></a>
+  <a href="https://www.codechef.com/users/ojassrivastava" title="CodeChef"><img src="https://img.shields.io/badge/CodeChef-2%E2%98%85-21262D?style=for-the-badge&logo=codechef&logoColor=5B4638&labelColor=08090C" alt="CodeChef" /></a>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1900&pause=650&color=34D399&center=true&vCenter=true&width=922&lines=Open+for+Summer+2027+Internship+%C2%B7+SDE+%2F+AI+%2F+Full-Stack;Backend+Systems+%C2%B7+Full-Stack+Products+%C2%B7+AI+Pipelines;LeetCode+Knight+%C2%B7+CGPA+9.19+%C2%B7+Live+CP+Stats;RAG+%C2%B7+OCR+%C2%B7+Route+Intelligence+%C2%B7+ML" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1900&pause=650&color=34D399&center=true&vCenter=true&width=922&lines=Open+for+Summer+2027+Internship+%C2%B7+SDE+%2F+AI+%2F+Full-Stack;LeetCode+Knight+%C2%B7+Graphs+%C2%B7+DP+%C2%B7+Greedy+%C2%B7+Binary+Search;LC+%2B+CF+%2B+CC+%C2%B7+Live+Stats+%C2%B7+CGPA+9.19;Backend+%2B+AI+Systems+%C2%B7+8%2B+Shipped+Builds" alt="Typing animation" />
   </a>
 </p>
 
 ## About​‌​​‌‌‌‌‍​​‌‌​‌​‌‍​‌​‌​‌‌‌‍​‌​‌​​‌‌‍​​‌​‌‌​‌‍​​‌‌​‌‌‌‍​‌​​​‌‌​‍​​‌‌​​‌‌‍​‌​​​​​‌‍​​‌‌‌​​‌‍​‌​​​‌​‌‍​​‌‌​​‌​‍​‌​​​​‌​‍​​‌‌​​​‌‍​‌​​​​‌‌‍​​‌‌​‌​​‍​‌​​​‌​​‍
 
 <p align="center">
-  <img src="./assets/readme-about.svg" alt="About — AI Engineer and Full-Stack Developer at SVNIT Surat" width="100%" />
+  <img src="./assets/readme-about.svg" alt="About — Competitive Programmer and AI Engineer at SVNIT Surat" width="100%" />
 </p>
 
-**AI Engineer and Full-Stack Developer** at **SVNIT Surat** (B.Tech AI, CGPA **9.19**). I build backend systems,​‌​​‌‌‌‌‍​‌‌​‌​‌​‍​‌‌​​​​‌‍​‌‌‌​​‌‌‍​​‌​‌‌​‌‍​‌​‌​​‌‌‍​‌‌‌​​‌​‍​‌‌​‌​​‌‍​‌‌‌​‌‌​‍​‌‌​​​​‌‍​‌‌‌​​‌‌‍​‌‌‌​‌​​‍​‌‌​​​​‌‍​‌‌‌​‌‌​‍​‌‌​​​​‌‍​​‌‌​​​​‍​​‌‌​‌​‌‍ ship full-stack products, and treat competitive programming as daily reps. **8+** deployed builds with live demos and source across AI, web, and systems.
+**Competitive Programmer and AI Engineer** at **SVNIT Surat** (B.Tech AI, CGPA **9.19**). I grind **LeetCode, Codeforces, and CodeChef** daily, then ship backend and AI systems with **8+** deployed builds.
 
 <!-- o5ws-block:cp-signal:7f3a9e2b1c4d -->
 ## Competitive Programming Signal
@@ -55,33 +56,33 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://leetcode.com/Oju_Srivastava" title="LeetCode Profile">
-        <img src="https://cp-logo.vercel.app/leetcode/Oju_Srivastava?logo=true" height="56" alt="LeetCode live rating" />
+        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=leetcode&label=LeetCode&color=21262D&labelColor=08090C&logoColor=FFA116&query=contestRating&prefix=Rating%20&url=https://alfa-leetcode-api.onrender.com/Oju_Srivastava/contest&cacheSeconds=3600" height="56" alt="LeetCode live rating" />
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://codeforces.com/profile/oju" title="Codeforces Profile">
-        <img src="https://cp-logo.vercel.app/codeforces/oju?logo=true" height="56" alt="Codeforces live rating" />
+        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=codeforces&label=Codeforces&color=21262D&labelColor=08090C&logoColor=1F8ACB&query=%24.result%5B0%5D.rating&url=https://codeforces.com/api/user.info?handles=Oju&cacheSeconds=3600" height="56" alt="Codeforces live rating" />
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://www.codechef.com/users/ojassrivastava" title="CodeChef Profile">
-        <img src="https://cp-logo.vercel.app/codechef/ojassrivastava?logo=true" height="56" alt="CodeChef live rating" />
+        <img src="https://img.shields.io/badge/CodeChef-2%E2%98%85-21262D?style=for-the-badge&logo=codechef&logoColor=5B4638&labelColor=08090C" height="56" alt="CodeChef rating" />
       </a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=leetcode&label=LC%20Solved&color=08090C&labelColor=08090C&logoColor=FFA116&query=solvedProblem&url=https://alfa-leetcode-api.onrender.com/Oju_Srivastava/solved&cacheSeconds=3600" alt="LeetCode problems solved" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=leetcode&label=LC%20Contests&color=08090C&labelColor=08090C&logoColor=FFA116&query=contestAttend&url=https://alfa-leetcode-api.onrender.com/Oju_Srivastava/contest&cacheSeconds=3600" alt="LeetCode contests attended" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=leetcode&label=LC%20Top%25&color=08090C&labelColor=08090C&logoColor=FFA116&query=contestTopPercentage&suffix=%25&url=https://alfa-leetcode-api.onrender.com/Oju_Srivastava/contest&cacheSeconds=3600" alt="LeetCode contest top percentage" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=leetcode&label=LC%20Solved&color=21262D&labelColor=08090C&logoColor=FFA116&query=solvedProblem&url=https://alfa-leetcode-api.onrender.com/Oju_Srivastava/solved&cacheSeconds=3600" alt="LeetCode problems solved" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=leetcode&label=LC%20Contests&color=21262D&labelColor=08090C&logoColor=FFA116&query=contestAttend&url=https://alfa-leetcode-api.onrender.com/Oju_Srivastava/contest&cacheSeconds=3600" alt="LeetCode contests attended" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=leetcode&label=LC%20Top%25&color=21262D&labelColor=08090C&logoColor=FFA116&query=contestTopPercentage&suffix=%25&url=https://alfa-leetcode-api.onrender.com/Oju_Srivastava/contest&cacheSeconds=3600" alt="LeetCode contest top percentage" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=codeforces&label=CF%20Rating&color=08090C&labelColor=08090C&logoColor=1F8ACB&query=%24.result%5B0%5D.rating&url=https://codeforces.com/api/user.info?handles=Oju&cacheSeconds=3600" alt="Codeforces current rating" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=codeforces&label=CF%20Max&color=08090C&labelColor=08090C&logoColor=1F8ACB&query=%24.result%5B0%5D.maxRating&url=https://codeforces.com/api/user.info?handles=Oju&cacheSeconds=3600" alt="Codeforces max rating" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=codeforces&label=CF%20Rank&color=08090C&labelColor=08090C&logoColor=1F8ACB&query=%24.result%5B0%5D.rank&url=https://codeforces.com/api/user.info?handles=Oju&cacheSeconds=3600" alt="Codeforces rank" />
-  <img src="https://img.shields.io/badge/CGPA-9.19-08090C?style=for-the-badge&logo=google-scholar&logoColor=34D399&labelColor=08090C" alt="CGPA 9.19" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=codeforces&label=CF%20Rating&color=21262D&labelColor=08090C&logoColor=1F8ACB&query=%24.result%5B0%5D.rating&url=https://codeforces.com/api/user.info?handles=Oju&cacheSeconds=3600" alt="Codeforces current rating" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=codeforces&label=CF%20Max&color=21262D&labelColor=08090C&logoColor=1F8ACB&query=%24.result%5B0%5D.maxRating&url=https://codeforces.com/api/user.info?handles=Oju&cacheSeconds=3600" alt="Codeforces max rating" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=codeforces&label=CF%20Rank&color=21262D&labelColor=08090C&logoColor=1F8ACB&query=%24.result%5B0%5D.rank&url=https://codeforces.com/api/user.info?handles=Oju&cacheSeconds=3600" alt="Codeforces rank" />
+  <img src="https://img.shields.io/badge/CGPA-9.19-21262D?style=for-the-badge&logo=google-scholar&logoColor=34D399&labelColor=08090C" alt="CGPA 9.19" />
 </p>
 
 <!-- o5ws-block:selected-work:7f3a9e2b1c4d -->
@@ -123,21 +124,21 @@
     <td align="center" width="25%">
       <strong>LogiFlow</strong><br/><br/>
       <a href="https://logi-flow-solution-challenge-2026.vercel.app/" title="LogiFlow Live Demo"><img src="https://img.shields.io/badge/Live-34D399?style=for-the-badge&logo=vercel&logoColor=white&labelColor=08090C" alt="LogiFlow Live" /></a><br/><br/>
-      <a href="https://github.com/Ojas-Srivastava05/LogiFlow-Solution-Challenge-2026" title="LogiFlow Source Code"><img src="https://img.shields.io/badge/Code-08090C?style=for-the-badge&logo=github&logoColor=white&labelColor=21262D" alt="LogiFlow Source" /></a>
+      <a href="https://github.com/Ojas-Srivastava05/LogiFlow-Solution-Challenge-2026" title="LogiFlow Source Code"><img src="https://img.shields.io/badge/Code-21262D?style=for-the-badge&logo=github&logoColor=white&labelColor=08090C" alt="LogiFlow Source" /></a>
     </td>
     <td align="center" width="25%">
       <strong>AirHelp</strong><br/><br/>
-      <a href="https://github.com/Ojas-Srivastava05/AirHelp-AI-Airport-Assistant" title="AirHelp Source Code"><img src="https://img.shields.io/badge/Code-08090C?style=for-the-badge&logo=github&logoColor=white&labelColor=21262D" alt="AirHelp Source" /></a>
+      <a href="https://github.com/Ojas-Srivastava05/AirHelp-AI-Airport-Assistant" title="AirHelp Source Code"><img src="https://img.shields.io/badge/Code-21262D?style=for-the-badge&logo=github&logoColor=white&labelColor=08090C" alt="AirHelp Source" /></a>
     </td>
     <td align="center" width="25%">
       <strong>RangRiti</strong><br/><br/>
       <a href="https://rangriti.onrender.com" title="RangRiti Live Demo"><img src="https://img.shields.io/badge/Live-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=08090C" alt="RangRiti Live" /></a><br/><br/>
-      <a href="https://github.com/Ojas-Srivastava05/RangRiti" title="RangRiti Source Code"><img src="https://img.shields.io/badge/Code-08090C?style=for-the-badge&logo=github&logoColor=white&labelColor=21262D" alt="RangRiti Source" /></a>
+      <a href="https://github.com/Ojas-Srivastava05/RangRiti" title="RangRiti Source Code"><img src="https://img.shields.io/badge/Code-21262D?style=for-the-badge&logo=github&logoColor=white&labelColor=08090C" alt="RangRiti Source" /></a>
     </td>
     <td align="center" width="25%">
       <strong>Ink'd</strong><br/><br/>
       <a href="https://inkd-diary.onrender.com" title="Ink'd Live Demo"><img src="https://img.shields.io/badge/Live-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=08090C" alt="Ink'd Live" /></a><br/><br/>
-      <a href="https://github.com/Ojas-Srivastava05/inkd-diary" title="Ink'd Source Code"><img src="https://img.shields.io/badge/Code-08090C?style=for-the-badge&logo=github&logoColor=white&labelColor=21262D" alt="Ink'd Source" /></a>
+      <a href="https://github.com/Ojas-Srivastava05/inkd-diary" title="Ink'd Source Code"><img src="https://img.shields.io/badge/Code-21262D?style=for-the-badge&logo=github&logoColor=white&labelColor=08090C" alt="Ink'd Source" /></a>
     </td>
   </tr>
 </table>
@@ -167,7 +168,8 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Languages-C%20%7C%20C%2B%2B%20%7C%20Python%20%7C%20JS-08090C?style=for-the-badge&labelColor=08090C&color=34D399" alt="Languages" />
+  <img src="https://img.shields.io/badge/Languages-C%20%7C%20C%2B%2B%20%7C%20Python%20%7C%20JS-21262D?style=for-the-badge&labelColor=08090C&color=34D399" alt="Languages" />
+  <img src="https://img.shields.io/badge/DSA-Graphs%20%7C%20DP%20%7C%20Greedy%20%7C%20BS-21262D?style=for-the-badge&labelColor=08090C&color=34D399" alt="DSA" />
 </p>
 
 <p align="center">
@@ -175,10 +177,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Django%20%7C%20Node%20%7C%20Express-08090C?style=flat-square&labelColor=08090C&color=21262D" alt="Backend" />
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-08090C?style=flat-square&labelColor=08090C&color=21262D" alt="Frontend" />
-  <img src="https://img.shields.io/badge/AI-RAG%20%7C%20OCR%20%7C%20ML%20%7C%20PyTorch%20%7C%20TF-08090C?style=flat-square&labelColor=08090C&color=21262D" alt="AI and ML" />
-  <img src="https://img.shields.io/badge/Data-PostgreSQL%20%7C%20MySQL%20%7C%20MongoDB-08090C?style=flat-square&labelColor=08090C&color=21262D" alt="Data" />
+  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Django%20%7C%20Node%20%7C%20Express-21262D?style=flat-square&labelColor=08090C&color=21262D" alt="Backend" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-21262D?style=flat-square&labelColor=08090C&color=21262D" alt="Frontend" />
+  <img src="https://img.shields.io/badge/AI-RAG%20%7C%20OCR%20%7C%20ML%20%7C%20PyTorch%20%7C%20TF-21262D?style=flat-square&labelColor=08090C&color=21262D" alt="AI and ML" />
+  <img src="https://img.shields.io/badge/Data-PostgreSQL%20%7C%20MySQL%20%7C%20MongoDB-21262D?style=flat-square&labelColor=08090C&color=21262D" alt="Data" />
 </p>
 
 <!-- o5ws-block:github-activity:7f3a9e2b1c4d -->
@@ -202,17 +204,17 @@
 </p>
 
 <p align="center">
-  <a href="https://ojas-srivastava.vercel.app/" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-34D399?style=for-the-badge&logo=vercel&logoColor=white&labelColor=08090C" alt="Portfolio" /></a>
-  <a href="https://github.com/Ojas-Srivastava05/Portfolio-Ojas" title="Portfolio Source"><img src="https://img.shields.io/badge/Source-08090C?style=for-the-badge&logo=github&logoColor=white&labelColor=21262D" alt="Portfolio Source" /></a>
-  <a href="https://www.linkedin.com/in/ojas-srivastava05" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=08090C" alt="LinkedIn" /></a>
-  <a href="mailto:srivastavaojas454@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=08090C" alt="Email" /></a>
-  <a href="https://leetcode.com/Oju_Srivastava" title="LeetCode"><img src="https://cp-logo.vercel.app/leetcode/Oju_Srivastava?logo=true" height="28" alt="LeetCode" /></a>
-  <a href="https://codeforces.com/profile/oju" title="Codeforces"><img src="https://cp-logo.vercel.app/codeforces/oju?logo=true" height="28" alt="Codeforces" /></a>
-  <a href="https://www.codechef.com/users/ojassrivastava" title="CodeChef"><img src="https://cp-logo.vercel.app/codechef/ojassrivastava?logo=true" height="28" alt="CodeChef" /></a>
+  <a href="https://ojas-srivastava.vercel.app/" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=34D399&labelColor=08090C" alt="Portfolio" /></a>
+  <a href="https://github.com/Ojas-Srivastava05" title="GitHub"><img src="https://img.shields.io/badge/GitHub-21262D?style=for-the-badge&logo=github&logoColor=white&labelColor=08090C" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/ojas-srivastava05" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-21262D?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=08090C" alt="LinkedIn" /></a>
+  <a href="mailto:srivastavaojas454@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-21262D?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=08090C" alt="Email" /></a>
+  <a href="https://leetcode.com/Oju_Srivastava" title="LeetCode"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=leetcode&label=LeetCode&color=21262D&labelColor=08090C&logoColor=FFA116&query=solvedProblem&suffix=%20Solved&url=https://alfa-leetcode-api.onrender.com/Oju_Srivastava/solved&cacheSeconds=3600" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/oju" title="Codeforces"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=codeforces&label=Codeforces&color=21262D&labelColor=08090C&logoColor=1F8ACB&query=%24.result%5B0%5D.rating&url=https://codeforces.com/api/user.info?handles=Oju&cacheSeconds=3600" alt="Codeforces" /></a>
+  <a href="https://www.codechef.com/users/ojassrivastava" title="CodeChef"><img src="https://img.shields.io/badge/CodeChef-2%E2%98%85-21262D?style=for-the-badge&logo=codechef&logoColor=5B4638&labelColor=08090C" alt="CodeChef" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open_for_Summer_2027_Internship-08090C?style=for-the-badge&logo=statuspage&logoColor=34D399&labelColor=08090C" alt="Open for Summer 2027 Internship" />
+  <img src="https://img.shields.io/badge/Status-Open_for_Summer_2027_Internship-21262D?style=for-the-badge&logo=statuspage&logoColor=34D399&labelColor=08090C" alt="Open for Summer 2027 Internship" />
 </p>
 
 <p align="center">
