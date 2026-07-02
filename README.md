@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1900&pause=650&color=34D399&center=true&vCenter=true&width=922&lines=Seeking+Summer+2027+Software+Engineering+Internship;LeetCode+Knight+%C2%B7+Codeforces+Specialist+%C2%B7+CGPA+9.20;LogiFlow+GSC+Top+100+%C2%B7+IFFCO+Intern+%C2%B7+9%2B+Shipped+Builds;Backend+%2B+Full-Stack+%2B+Applied+ML+%C2%B7+SVNIT+%2728" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1900&pause=650&color=34D399&center=true&vCenter=true&width=922&lines=Seeking+Summer+2027+Software+Engineering+Internship;LeetCode+Knight+%C2%B7+Codeforces+Specialist+%C2%B7+CGPA+9.20;LogiFlow+GSC+Top+106+%C2%B7+Community+Hero+%C2%B7+Vibe2Ship;Backend+%2B+Full-Stack+%2B+Applied+ML+%C2%B7+SVNIT+%2728" alt="Typing animation" />
   </a>
 </p>
 
@@ -83,7 +83,8 @@
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=codeforces&label=CF%20Max&color=21262D&labelColor=08090C&logoColor=1F8ACB&query=%24.result%5B0%5D.maxRating&url=https://codeforces.com/api/user.info?handles=Oju&cacheSeconds=3600" alt="Codeforces max rating" />
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=codeforces&label=CF%20Rank&color=21262D&labelColor=08090C&logoColor=1F8ACB&query=%24.result%5B0%5D.rank&url=https://codeforces.com/api/user.info?handles=Oju&cacheSeconds=3600" alt="Codeforces rank" />
   <img src="https://img.shields.io/badge/CGPA-9.20-21262D?style=for-the-badge&logo=google-scholar&logoColor=34D399&labelColor=08090C" alt="CGPA 9.20" />
-  <img src="https://img.shields.io/badge/Google_Solution_Challenge-Global_Top_100-21262D?style=for-the-badge&logo=google&logoColor=34D399&labelColor=08090C" alt="GSC Top 100" />
+  <img src="https://img.shields.io/badge/Google_Solution_Challenge-Global_Top_106-21262D?style=for-the-badge&logo=google&logoColor=34D399&labelColor=08090C" alt="GSC Top 106" />
+  <img src="https://img.shields.io/badge/Vibe2Ship-Community_Hero_2026-21262D?style=for-the-badge&logo=googlecloud&logoColor=34D399&labelColor=08090C" alt="Community Hero Vibe2Ship" />
   <img src="https://img.shields.io/badge/McKinsey.org-Forward_Fellow_2026-21262D?style=for-the-badge&logo=mckinsey&logoColor=FFFFFF&labelColor=08090C" alt="McKinsey Forward Fellow" />
   <img src="https://img.shields.io/badge/IFFCO-Software_Intern_2025-21262D?style=for-the-badge&logo=leaflet&logoColor=34D399&labelColor=08090C" alt="IFFCO Intern" />
 </p>
@@ -103,8 +104,8 @@
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/Ojas-Srivastava05/AirHelp-AI-Airport-Assistant">
-        <img src="./assets/project-airhelp.svg" alt="AirHelp — AI Airport Companion, PowerMind Hackathon 2026" width="100%" />
+      <a href="https://community-hero-987477089222.asia-south1.run.app">
+        <img src="./assets/project-community-hero.svg" alt="Community Hero — CIVICPULSE AI civic reporting PWA" width="100%" />
       </a>
     </td>
   </tr>
@@ -130,6 +131,11 @@
       <a href="https://github.com/Ojas-Srivastava05/LogiFlow-Solution-Challenge-2026" title="LogiFlow Source Code"><img src="https://img.shields.io/badge/Code-21262D?style=for-the-badge&logo=github&logoColor=white&labelColor=08090C" alt="LogiFlow Source" /></a>
     </td>
     <td align="center" width="25%">
+      <strong>Community Hero</strong><br/><br/>
+      <a href="https://community-hero-987477089222.asia-south1.run.app" title="Community Hero Live Demo"><img src="https://img.shields.io/badge/Live-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=08090C" alt="Community Hero Live" /></a><br/><br/>
+      <a href="https://github.com/Ojas-Srivastava05/community-hero" title="Community Hero Source Code"><img src="https://img.shields.io/badge/Code-21262D?style=for-the-badge&logo=github&logoColor=white&labelColor=08090C" alt="Community Hero Source" /></a>
+    </td>
+    <td align="center" width="25%">
       <strong>AirHelp</strong><br/><br/>
       <a href="https://github.com/Ojas-Srivastava05/AirHelp-AI-Airport-Assistant" title="AirHelp Source Code"><img src="https://img.shields.io/badge/Code-21262D?style=for-the-badge&logo=github&logoColor=white&labelColor=08090C" alt="AirHelp Source" /></a>
     </td>
@@ -137,10 +143,6 @@
       <strong>RangRiti</strong><br/><br/>
       <a href="https://rangriti.onrender.com" title="RangRiti Live Demo"><img src="https://img.shields.io/badge/Live-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=08090C" alt="RangRiti Live" /></a><br/><br/>
       <a href="https://github.com/Ojas-Srivastava05/RangRiti" title="RangRiti Source Code"><img src="https://img.shields.io/badge/Code-21262D?style=for-the-badge&logo=github&logoColor=white&labelColor=08090C" alt="RangRiti Source" /></a>
-    </td>
-    <td align="center" width="25%">
-      <strong>Career Automation</strong><br/><br/>
-      <a href="https://github.com/Ojas-Srivastava05/resume-optimiser" title="Resume Optimiser Source Code"><img src="https://img.shields.io/badge/Code-21262D?style=for-the-badge&logo=github&logoColor=white&labelColor=08090C" alt="Career Automation Source" /></a>
     </td>
   </tr>
 </table>
