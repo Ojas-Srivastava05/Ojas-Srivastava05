@@ -8,11 +8,11 @@
 <!-- o5ws-block:header:7f3a9e2b1c4d -->
 
 <p align="center">
-  <img src="./assets/readme-hero.svg?v=3" alt="Ojas Srivastava — Competitive Programmer, AI Engineer, Full-Stack Developer" width="100%" />
+  <img src="./assets/readme-hero.svg?v=4" alt="Ojas Srivastava — Software Engineer, Full-Stack & AI" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/readme-internship.svg" alt="Open for Summer 2027 Internship" width="100%" />
+  <img src="./assets/readme-internship.svg?v=4" alt="Seeking Summer 2027 Software Engineering Internship" width="100%" />
 </p>
 
 <p align="center">
@@ -27,17 +27,17 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1900&pause=650&color=34D399&center=true&vCenter=true&width=922&lines=Open+for+Summer+2027+Internship+%C2%B7+SDE+%2F+AI+%2F+Full-Stack;LeetCode+Knight+%C2%B7+Graphs+%C2%B7+DP+%C2%B7+Greedy+%C2%B7+Binary+Search;LC+%2B+CF+%2B+CC+%C2%B7+Live+Stats+%C2%B7+CGPA+9.19;Backend+%2B+AI+Systems+%C2%B7+8%2B+Shipped+Builds" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1900&pause=650&color=34D399&center=true&vCenter=true&width=922&lines=Seeking+Summer+2027+Software+Engineering+Internship;LeetCode+Knight+%C2%B7+Codeforces+Specialist+%C2%B7+CGPA+9.20;LogiFlow+GSC+Top+100+%C2%B7+IFFCO+Intern+%C2%B7+9%2B+Shipped+Builds;Backend+%2B+Full-Stack+%2B+Applied+ML+%C2%B7+SVNIT+%2728" alt="Typing animation" />
   </a>
 </p>
 
 ## About​‌​​‌‌‌‌‍​​‌‌​‌​‌‍​‌​‌​‌‌‌‍​‌​‌​​‌‌‍​​‌​‌‌​‌‍​​‌‌​‌‌‌‍​‌​​​‌‌​‍​​‌‌​​‌‌‍​‌​​​​​‌‍​​‌‌‌​​‌‍​‌​​​‌​‌‍​​‌‌​​‌​‍​‌​​​​‌​‍​​‌‌​​​‌‍​‌​​​​‌‌‍​​‌‌​‌​​‍​‌​​​‌​​‍
 
 <p align="center">
-  <img src="./assets/readme-about.svg" alt="About — Competitive Programmer and AI Engineer at SVNIT Surat" width="100%" />
+  <img src="./assets/readme-about.svg?v=4" alt="About — Software Engineer at SVNIT Surat, seeking Summer 2027 internships" width="100%" />
 </p>
 
-**Competitive Programmer and AI Engineer** at **SVNIT Surat** (B.Tech AI, CGPA **9.19**). I grind **LeetCode, Codeforces, and CodeChef** daily, then ship backend and AI systems with **8+** deployed builds.
+**Penultimate-year Software Engineer** at **SVNIT Surat** (B.Tech AI, CGPA **9.20**, graduating **May 2028**). Last summer I interned at **IFFCO**, shipping production tooling that automated **50+ daily workflows**. I build backend systems, full-stack products, and applied ML — with **9+** deployed builds and daily **LeetCode / Codeforces** practice.
 
 <!-- o5ws-block:cp-signal:7f3a9e2b1c4d -->
 ## Competitive Programming Signal
@@ -82,7 +82,10 @@
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=codeforces&label=CF%20Rating&color=21262D&labelColor=08090C&logoColor=1F8ACB&query=%24.result%5B0%5D.rating&url=https://codeforces.com/api/user.info?handles=Oju&cacheSeconds=3600" alt="Codeforces current rating" />
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=codeforces&label=CF%20Max&color=21262D&labelColor=08090C&logoColor=1F8ACB&query=%24.result%5B0%5D.maxRating&url=https://codeforces.com/api/user.info?handles=Oju&cacheSeconds=3600" alt="Codeforces max rating" />
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=codeforces&label=CF%20Rank&color=21262D&labelColor=08090C&logoColor=1F8ACB&query=%24.result%5B0%5D.rank&url=https://codeforces.com/api/user.info?handles=Oju&cacheSeconds=3600" alt="Codeforces rank" />
-  <img src="https://img.shields.io/badge/CGPA-9.19-21262D?style=for-the-badge&logo=google-scholar&logoColor=34D399&labelColor=08090C" alt="CGPA 9.19" />
+  <img src="https://img.shields.io/badge/CGPA-9.20-21262D?style=for-the-badge&logo=google-scholar&logoColor=34D399&labelColor=08090C" alt="CGPA 9.20" />
+  <img src="https://img.shields.io/badge/Google_Solution_Challenge-Global_Top_100-21262D?style=for-the-badge&logo=google&logoColor=34D399&labelColor=08090C" alt="GSC Top 100" />
+  <img src="https://img.shields.io/badge/McKinsey.org-Forward_Fellow_2026-21262D?style=for-the-badge&logo=mckinsey&logoColor=FFFFFF&labelColor=08090C" alt="McKinsey Forward Fellow" />
+  <img src="https://img.shields.io/badge/IFFCO-Software_Intern_2025-21262D?style=for-the-badge&logo=leaflet&logoColor=34D399&labelColor=08090C" alt="IFFCO Intern" />
 </p>
 
 <!-- o5ws-block:selected-work:7f3a9e2b1c4d -->
@@ -112,8 +115,8 @@
       </a>
     </td>
     <td width="50%">
-      <a href="https://inkd-diary.onrender.com">
-        <img src="./assets/project-inkd.svg" alt="Ink'd — AI Text Summariser" width="100%" />
+      <a href="https://github.com/Ojas-Srivastava05/resume-optimiser">
+        <img src="./assets/project-resume-optimiser.svg" alt="Career Automation Stack — Internship Scout and OA Forge" width="100%" />
       </a>
     </td>
   </tr>
@@ -136,9 +139,8 @@
       <a href="https://github.com/Ojas-Srivastava05/RangRiti" title="RangRiti Source Code"><img src="https://img.shields.io/badge/Code-21262D?style=for-the-badge&logo=github&logoColor=white&labelColor=08090C" alt="RangRiti Source" /></a>
     </td>
     <td align="center" width="25%">
-      <strong>Ink'd</strong><br/><br/>
-      <a href="https://inkd-diary.onrender.com" title="Ink'd Live Demo"><img src="https://img.shields.io/badge/Live-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=08090C" alt="Ink'd Live" /></a><br/><br/>
-      <a href="https://github.com/Ojas-Srivastava05/inkd-diary" title="Ink'd Source Code"><img src="https://img.shields.io/badge/Code-21262D?style=for-the-badge&logo=github&logoColor=white&labelColor=08090C" alt="Ink'd Source" /></a>
+      <strong>Career Automation</strong><br/><br/>
+      <a href="https://github.com/Ojas-Srivastava05/resume-optimiser" title="Resume Optimiser Source Code"><img src="https://img.shields.io/badge/Code-21262D?style=for-the-badge&logo=github&logoColor=white&labelColor=08090C" alt="Career Automation Source" /></a>
     </td>
   </tr>
 </table>
@@ -147,14 +149,15 @@
 ## Experience and Education
 
 <p align="center">
-  <img src="./assets/readme-experience.svg" alt="Experience and education — SVNIT, Inspectonly.devs, ACM, Nexus" width="100%" />
+  <img src="./assets/readme-experience.svg?v=4" alt="Experience and education — IFFCO, RangRiti, SVNIT, ACM, Nexus" width="100%" />
 </p>
 
 | Role | Organization | Period | Details |
 | :--- | :--- | :--- | :--- |
-| **Technical Lead** | Inspectonly.devs · Web Wonders 2025 | Jun — Aug 2025 | Led a four-member team: backend integration, feature delivery, PR review. |
-| **B.Tech, Artificial Intelligence** | SVNIT Surat | 2024 — 2028 | CGPA **9.19 / 10** · AI, algorithms, systems, DBMS, software engineering. |
-| **Executive Member** | ACM SVNIT Surat | 2024 — Present | Coding workshops and technical events across campus. |
+| **Software Intern** | IFFCO — Phulpur Unit | Jun — Jul 2025 | Production full-stack app automating **50+ daily workflows** — Node.js, Express, MySQL, Docker, CI/CD. |
+| **Technical Lead** | RangRiti · Web Wonders 2025 | Jun — Aug 2025 | Led a four-member team building a **40+ page** cultural marketplace — backend integration, PR review, Render deploy. |
+| **B.Tech, Artificial Intelligence** | SVNIT Surat | 2024 — May 2028 | CGPA **9.20 / 10** · AI, algorithms, systems, DBMS, distributed systems, software engineering. |
+| **Executive Member** | ACM SVNIT Surat | 2024 — Present | DSA workshops, coding contests, and technical events across campus. |
 | **Mentor and Representative** | Nexus SVNIT | 2024 — Present | Mentoring juniors in programming fundamentals and technical onboarding. |
 
 <!-- o5ws-block:principles:7f3a9e2b1c4d -->
@@ -168,19 +171,20 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Languages-C%20%7C%20C%2B%2B%20%7C%20Python%20%7C%20JS-21262D?style=for-the-badge&labelColor=08090C&color=34D399" alt="Languages" />
+  <img src="https://img.shields.io/badge/Languages-C%20%7C%20C%2B%2B%20%7C%20Python%20%7C%20TS-21262D?style=for-the-badge&labelColor=08090C&color=34D399" alt="Languages" />
   <img src="https://img.shields.io/badge/DSA-Graphs%20%7C%20DP%20%7C%20Greedy%20%7C%20BS-21262D?style=for-the-badge&labelColor=08090C&color=34D399" alt="DSA" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,fastapi,django,nodejs,express,nextjs,react,tailwind,bootstrap,postgres,mysql,mongodb,git,github,figma,postman,tensorflow,pytorch" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,fastapi,django,nodejs,express,nextjs,react,tailwind,postgres,mysql,mongodb,redis,docker,git,github,supabase,vercel,postman" alt="Tech stack icons" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Django%20%7C%20Node%20%7C%20Express-21262D?style=flat-square&labelColor=08090C&color=21262D" alt="Backend" />
+  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Node%20%7C%20Express%20%7C%20Django-21262D?style=flat-square&labelColor=08090C&color=21262D" alt="Backend" />
   <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-21262D?style=flat-square&labelColor=08090C&color=21262D" alt="Frontend" />
-  <img src="https://img.shields.io/badge/AI-RAG%20%7C%20OCR%20%7C%20ML%20%7C%20PyTorch%20%7C%20TF-21262D?style=flat-square&labelColor=08090C&color=21262D" alt="AI and ML" />
-  <img src="https://img.shields.io/badge/Data-PostgreSQL%20%7C%20MySQL%20%7C%20MongoDB-21262D?style=flat-square&labelColor=08090C&color=21262D" alt="Data" />
+  <img src="https://img.shields.io/badge/AI-RAG%20%7C%20ML%20%7C%20Scikit--learn%20%7C%20Gemini-21262D?style=flat-square&labelColor=08090C&color=21262D" alt="AI and ML" />
+  <img src="https://img.shields.io/badge/Data-PostgreSQL%20%7C%20MySQL%20%7C%20MongoDB%20%7C%20Redis-21262D?style=flat-square&labelColor=08090C&color=21262D" alt="Data" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20GitHub_Actions%20%7C%20GCP-21262D?style=flat-square&labelColor=08090C&color=21262D" alt="DevOps" />
 </p>
 
 <!-- o5ws-block:github-activity:7f3a9e2b1c4d -->
@@ -214,11 +218,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open_for_Summer_2027_Internship-21262D?style=for-the-badge&logo=statuspage&logoColor=34D399&labelColor=08090C" alt="Open for Summer 2027 Internship" />
+  <img src="https://img.shields.io/badge/Status-Seeking_Summer_2027_SWE_Internship-21262D?style=for-the-badge&logo=statuspage&logoColor=34D399&labelColor=08090C" alt="Seeking Summer 2027 SWE Internship" />
 </p>
 
 <p align="center">
-  <i>If you are hiring for Summer 2027 — let's talk.</i>
+  <i>If you are hiring for Summer 2027 software engineering internships — let's talk.</i>
 </p>
 
 <!-- o5ws-block:footer:7f3a9e2b1c4d -->

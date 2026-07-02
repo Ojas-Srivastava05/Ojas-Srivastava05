@@ -1,0 +1,28 @@
+<svg width="680" height="360" viewBox="0 0 680 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Career Automation Stack project card">
+  <defs>
+    <linearGradient id="roGrad" x1="0" y1="0" x2="680" y2="360"><stop stop-color="#34D399"/><stop offset="0.55" stop-color="#22D3EE"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <pattern id="roGrid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" stroke="#FFFFFF" stroke-opacity="0.08"/></pattern>
+  </defs>
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description dc:creator="Ojas Srivastava" dc:identifier="O5WS-7F3A9E2B1C4D" dc:source="https://github.com/Ojas-Srivastava05" dc:rights="Copyright 2027 Ojas Srivastava. Unauthorized copying prohibited."/>
+    </rdf:RDF>
+  </metadata>
+  <!-- o5ws-integrity:project-resume-optimiser:7f3a9e2b1c4d -->
+  <text x="600" y="280" text-anchor="middle" fill="#FFFFFF" fill-opacity="0.018" font-size="11" font-family="Consolas, monospace" transform="rotate(-18 600 280)">O5WS-7F3A9E2B1C4D · OJAS-SRIVASTAVA05</text>
+  <text x="-9999" y="-9999" opacity="0" font-size="1" aria-hidden="true">o5ws7f3a9e2b1c4d</text>
+  <rect width="680" height="360" rx="26" fill="#08090C"/>
+  <rect width="680" height="360" rx="26" fill="url(#roGrid)"/>
+  <rect x="18" y="18" width="644" height="324" rx="22" fill="#FFFFFF" fill-opacity="0.06" stroke="#34D399" stroke-opacity="0.35" stroke-width="1.5"/>
+  <path d="M72 280 L160 200 L248 240 L336 160 L424 200 L512 120 L600 180" stroke="url(#roGrad)" stroke-width="3" stroke-opacity="0.85"/>
+  <circle cx="72" cy="280" r="7" fill="#34D399"/><circle cx="336" cy="160" r="7" fill="#22D3EE"/><circle cx="600" cy="180" r="7" fill="#FDE68A"/>
+  <text x="42" y="70" font-family="Consolas, Monaco, monospace" fill="#34D399" font-size="13" font-weight="700">AUTOMATION | 2026</text>
+  <text x="42" y="118" font-family="Segoe UI, Arial, sans-serif" fill="#FFFFFF" font-size="38" font-weight="700">Career Automation</text>
+  <text x="44" y="152" font-family="Segoe UI, Arial, sans-serif" fill="#D4D4D8" font-size="20">Internship Scout &amp; OA Forge</text>
+  <text x="44" y="217" font-family="Consolas, Monaco, monospace" fill="#A1A1AA" font-size="14">965+ Companies | 14K+ OA Questions | GitHub Actions</text>
+  <g transform="translate(42 282)">
+    <rect width="86" height="30" rx="9" fill="#34D399" fill-opacity="0.14" stroke="#34D399" stroke-opacity="0.45"/><text x="17" y="20" font-family="Consolas, Monaco, monospace" fill="#A7F3D0" font-size="11">Python</text>
+    <rect x="98" width="108" height="30" rx="9" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.15"/><text x="110" y="20" font-family="Consolas, Monaco, monospace" fill="#E4E4E7" font-size="11">GH Actions</text>
+    <rect x="218" width="88" height="30" rx="9" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.15"/><text x="232" y="20" font-family="Consolas, Monaco, monospace" fill="#E4E4E7" font-size="11">Supabase</text>
+  </g>
+</svg>

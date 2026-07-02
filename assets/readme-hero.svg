@@ -74,12 +74,12 @@
   <g transform="translate(70 48)">
     <rect x="0" y="0" width="1060" height="36" rx="10" fill="#FFFFFF" fill-opacity="0.04" stroke="#34D399" stroke-opacity="0.28"/>
     <circle class="pulse" cx="18" cy="18" r="5" fill="#34D399"/>
-    <text x="34" y="23" font-family="Consolas, Monaco, monospace" fill="#34D399" font-size="11" font-weight="700">OPEN FOR SUMMER 2027 INTERNSHIP</text>
-    <text x="370" y="23" font-family="Consolas, Monaco, monospace" fill="#71717A" font-size="11">SDE / AI / FULL-STACK / SURAT</text>
+    <text x="34" y="23" font-family="Consolas, Monaco, monospace" fill="#34D399" font-size="11" font-weight="700">SEEKING SUMMER 2027 SWE INTERNSHIP</text>
+    <text x="400" y="23" font-family="Consolas, Monaco, monospace" fill="#71717A" font-size="11">BENGALURU / HYDERABAD / PUNE / REMOTE</text>
   </g>
 
   <g transform="translate(70 112)">
-    <text x="0" y="0" font-family="Consolas, Monaco, monospace" fill="#71717A" font-size="13" font-weight="700">// COMPETITIVE PROGRAMMER | AI ENGINEER | FULL-STACK</text>
+    <text x="0" y="0" font-family="Consolas, Monaco, monospace" fill="#71717A" font-size="13" font-weight="700">// SOFTWARE ENGINEER | FULL-STACK &amp; AI | SVNIT '28</text>
 
     <g transform="translate(0 44)">
       <rect x="0" y="0" width="64" height="64" rx="16" fill="#FFFFFF" fill-opacity="0.06" stroke="url(#accent)" stroke-width="1.5"/>
@@ -87,20 +87,20 @@
       <text x="84" y="32" dominant-baseline="middle" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" fill="url(#heroText)">Ojas Srivastava</text>
     </g>
 
-    <text x="0" y="138" font-family="Segoe UI, Arial, sans-serif" fill="#D4D4D8" font-size="20">B.Tech AI at SVNIT Surat | LeetCode Knight | CGPA 9.19</text>
-    <text x="0" y="168" font-family="Segoe UI, Arial, sans-serif" fill="#D4D4D8" font-size="20">Grind LC | CF | CC daily. Ship backend and AI systems when it counts.</text>
+    <text x="0" y="138" font-family="Segoe UI, Arial, sans-serif" fill="#D4D4D8" font-size="20">B.Tech AI at SVNIT Surat | LeetCode Knight | CF Specialist | CGPA 9.20</text>
+    <text x="0" y="168" font-family="Segoe UI, Arial, sans-serif" fill="#D4D4D8" font-size="20">IFFCO intern. GSC Top 100. Ship backend systems and full-stack products.</text>
 
     <g transform="translate(0 192)">
       <rect width="128" height="32" rx="9" fill="#34D399" fill-opacity="0.14" stroke="#34D399" stroke-opacity="0.4"/>
       <text x="14" y="21" font-family="Consolas, Monaco, monospace" fill="#34D399" font-size="11" font-weight="700">LeetCode Knight</text>
       <rect x="138" width="96" height="32" rx="9" fill="#1F8ACB" fill-opacity="0.14" stroke="#1F8ACB" stroke-opacity="0.4"/>
-      <text x="152" y="21" font-family="Consolas, Monaco, monospace" fill="#BAE6FD" font-size="11" font-weight="700">Codeforces</text>
+      <text x="152" y="21" font-family="Consolas, Monaco, monospace" fill="#BAE6FD" font-size="11" font-weight="700">CF Specialist</text>
       <rect x="244" width="96" height="32" rx="9" fill="#FDE68A" fill-opacity="0.12" stroke="#FDE68A" stroke-opacity="0.35"/>
       <text x="258" y="21" font-family="Consolas, Monaco, monospace" fill="#FEF3C7" font-size="11" font-weight="700">CodeChef</text>
       <rect x="350" width="108" height="32" rx="9" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.12"/>
       <text x="364" y="21" font-family="Consolas, Monaco, monospace" fill="#D4D4D8" font-size="11">Live CP Stats</text>
       <rect x="468" width="88" height="32" rx="9" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.12"/>
-      <text x="482" y="21" font-family="Consolas, Monaco, monospace" fill="#D4D4D8" font-size="11">8+ Shipped</text>
+      <text x="482" y="21" font-family="Consolas, Monaco, monospace" fill="#D4D4D8" font-size="11">9+ Shipped</text>
     </g>
 
     <text x="0" y="262" font-family="Consolas, Monaco, monospace" fill="#34D399" font-size="15" font-weight="700">Graphs | DP | Greedy | Binary Search | Two Pointers</text>
@@ -148,13 +148,15 @@
       <text x="24" y="6" font-family="Consolas, Monaco, monospace" fill="#D4D4D8" font-size="13" font-weight="700">LEETCODE</text>
       <text x="130" y="6" font-family="Consolas, Monaco, monospace" fill="#71717A" font-size="13">Knight · Live Rating</text>
       <text x="320" y="6" font-family="Consolas, Monaco, monospace" fill="#D4D4D8" font-size="13" font-weight="700">CODEFORCES</text>
-      <text x="450" y="6" font-family="Consolas, Monaco, monospace" fill="#71717A" font-size="13">Oju · Pupil+</text>
+      <text x="450" y="6" font-family="Consolas, Monaco, monospace" fill="#71717A" font-size="13">Oju · Specialist 1457</text>
       <text x="590" y="6" font-family="Consolas, Monaco, monospace" fill="#D4D4D8" font-size="13" font-weight="700">CODECHEF</text>
       <text x="710" y="6" font-family="Consolas, Monaco, monospace" fill="#71717A" font-size="13">2 Star · 118+ Solved</text>
-      <text x="920" y="6" font-family="Consolas, Monaco, monospace" fill="#D4D4D8" font-size="13" font-weight="700">LOGIFLOW</text>
-      <text x="1030" y="6" font-family="Consolas, Monaco, monospace" fill="#71717A" font-size="13">AI Systems</text>
-      <text x="1160" y="6" font-family="Consolas, Monaco, monospace" fill="#D4D4D8" font-size="13" font-weight="700">AIRHELP</text>
-      <text x="1260" y="6" font-family="Consolas, Monaco, monospace" fill="#71717A" font-size="13">Hackathon Build</text>
+      <text x="920" y="6" font-family="Consolas, Monaco, monospace" fill="#D4D4D8" font-size="13" font-weight="700">IFFCO</text>
+      <text x="990" y="6" font-family="Consolas, Monaco, monospace" fill="#71717A" font-size="13">SWE Intern 2025</text>
+      <text x="1160" y="6" font-family="Consolas, Monaco, monospace" fill="#D4D4D8" font-size="13" font-weight="700">LOGIFLOW</text>
+      <text x="1270" y="6" font-family="Consolas, Monaco, monospace" fill="#71717A" font-size="13">GSC Top 100</text>
+      <text x="1420" y="6" font-family="Consolas, Monaco, monospace" fill="#D4D4D8" font-size="13" font-weight="700">AIRHELP</text>
+      <text x="1520" y="6" font-family="Consolas, Monaco, monospace" fill="#71717A" font-size="13">Hackathon 2026</text>
     </g>
   </g>
 </svg>

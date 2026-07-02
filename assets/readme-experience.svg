@@ -23,18 +23,18 @@
   <text x="52" y="62" font-family="Consolas, Monaco, monospace" fill="#34D399" font-size="14" font-weight="700">// EXPERIENCE AND EDUCATION</text>
 
   <circle cx="58" cy="108" r="6" fill="#34D399"/>
-  <text x="78" y="104" font-family="Segoe UI, Arial, sans-serif" fill="#FFFFFF" font-size="19" font-weight="700">Technical Lead - Inspectonly.devs</text>
-  <text x="78" y="128" font-family="Consolas, Monaco, monospace" fill="#71717A" font-size="13">Web Wonders 2025 | Surat, India</text>
-  <text x="78" y="154" font-family="Segoe UI, Arial, sans-serif" fill="#A1A1AA" font-size="15">Led a four-member team: backend integration, feature delivery, and PR review.</text>
+  <text x="78" y="104" font-family="Segoe UI, Arial, sans-serif" fill="#FFFFFF" font-size="19" font-weight="700">Software Intern - IFFCO Phulpur</text>
+  <text x="78" y="128" font-family="Consolas, Monaco, monospace" fill="#71717A" font-size="13">Jun - Jul 2025 | Prayagraj, India</text>
+  <text x="78" y="154" font-family="Segoe UI, Arial, sans-serif" fill="#A1A1AA" font-size="15">Production full-stack app automating 50+ daily enterprise workflows.</text>
 
   <circle cx="58" cy="194" r="6" fill="#34D399"/>
-  <text x="78" y="190" font-family="Segoe UI, Arial, sans-serif" fill="#FFFFFF" font-size="19" font-weight="700">B.Tech, Artificial Intelligence - SVNIT Surat</text>
-  <text x="78" y="214" font-family="Consolas, Monaco, monospace" fill="#71717A" font-size="13">2024 - 2028 | CGPA 9.19 / 10</text>
-  <text x="78" y="240" font-family="Segoe UI, Arial, sans-serif" fill="#A1A1AA" font-size="15">AI, algorithms, systems, DBMS, and software engineering.</text>
+  <text x="78" y="190" font-family="Segoe UI, Arial, sans-serif" fill="#FFFFFF" font-size="19" font-weight="700">Technical Lead - RangRiti</text>
+  <text x="78" y="214" font-family="Consolas, Monaco, monospace" fill="#71717A" font-size="13">Web Wonders 2025 | Surat, India</text>
+  <text x="78" y="240" font-family="Segoe UI, Arial, sans-serif" fill="#A1A1AA" font-size="15">Led a four-member team: 40+ page marketplace, backend integration, PR review.</text>
 
   <circle cx="58" cy="280" r="6" fill="#34D399"/>
-  <text x="78" y="276" font-family="Segoe UI, Arial, sans-serif" fill="#FFFFFF" font-size="19" font-weight="700">ACM SVNIT Executive | Nexus SVNIT Mentor</text>
-  <text x="78" y="300" font-family="Consolas, Monaco, monospace" fill="#71717A" font-size="13">Workshops | Events | Campus Mentorship</text>
+  <text x="78" y="276" font-family="Segoe UI, Arial, sans-serif" fill="#FFFFFF" font-size="19" font-weight="700">B.Tech AI - SVNIT Surat | ACM Executive | Nexus Mentor</text>
+  <text x="78" y="300" font-family="Consolas, Monaco, monospace" fill="#71717A" font-size="13">2024 - May 2028 | CGPA 9.20 / 10</text>
 
   <rect x="52" y="318" width="1096" height="4" rx="2" fill="url(#expAccent)"/>
 </svg>
