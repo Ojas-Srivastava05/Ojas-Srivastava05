@@ -8,6 +8,9 @@
       <rdf:Description dc:creator="Ojas Srivastava" dc:identifier="O5WS-7F3A9E2B1C4D" dc:source="https://github.com/Ojas-Srivastava05" dc:rights="Copyright 2027 Ojas Srivastava. Unauthorized copying prohibited."/>
     </rdf:RDF>
   </metadata>
+  <!-- o5ws-integrity:project-community-hero:7f3a9e2b1c4d -->
+  <text x="600" y="280" text-anchor="middle" fill="#FFFFFF" fill-opacity="0.018" font-size="11" font-family="Consolas, monospace" transform="rotate(-18 600 280)">O5WS-7F3A9E2B1C4D &#183; OJAS-SRIVASTAVA05</text>
+  <text x="-9999" y="-9999" opacity="0" font-size="1" aria-hidden="true">o5ws7f3a9e2b1c4d</text>
   <rect width="680" height="360" rx="26" fill="#08090C"/>
   <rect width="680" height="360" rx="26" fill="url(#chGrid)"/>
   <rect x="18" y="18" width="644" height="324" rx="22" fill="#FFFFFF" fill-opacity="0.06" stroke="#34D399" stroke-opacity="0.35" stroke-width="1.5"/>
@@ -17,7 +20,7 @@
   <path d="M120 250 L340 210 L520 250" stroke="url(#chGrad)" stroke-width="2.5" stroke-opacity="0.8"/>
   <text x="42" y="70" font-family="Consolas, Monaco, monospace" fill="#34D399" font-size="13" font-weight="700">CIVIC TECH | 2026</text>
   <text x="42" y="128" font-family="Segoe UI, Arial, sans-serif" fill="#FFFFFF" font-size="48" font-weight="700">Community Hero</text>
-  <text x="44" y="166" font-family="Segoe UI, Arial, sans-serif" fill="#D4D4D8" font-size="20">CIVICPULSE AI · Vibe2Ship</text>
+  <text x="44" y="166" font-family="Segoe UI, Arial, sans-serif" fill="#D4D4D8" font-size="20">CIVICPULSE AI | Vibe2Ship</text>
   <text x="44" y="217" font-family="Consolas, Monaco, monospace" fill="#A1A1AA" font-size="14">Gemini Vision | 6-Agent Pipeline | Cloud Run</text>
   <g transform="translate(42 282)">
     <rect width="76" height="30" rx="9" fill="#34D399" fill-opacity="0.14" stroke="#34D399" stroke-opacity="0.45"/><text x="14" y="20" font-family="Consolas, Monaco, monospace" fill="#A7F3D0" font-size="11">React</text>
