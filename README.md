@@ -105,7 +105,7 @@
     </td>
     <td width="50%">
       <a href="https://community-hero-987477089222.asia-south1.run.app">
-        <img src="./assets/project-community-hero.svg" alt="Community Hero — CIVICPULSE AI civic reporting PWA" width="100%" />
+        <img src="./assets/project-community-hero.svg?v=2" alt="Community Hero — CIVICPULSE AI civic reporting PWA" width="100%" />
       </a>
     </td>
   </tr>
@@ -117,7 +117,7 @@
     </td>
     <td width="50%">
       <a href="https://github.com/Ojas-Srivastava05/resume-optimiser">
-        <img src="./assets/project-resume-optimiser.svg" alt="Career Automation Stack — Internship Scout and OA Forge" width="100%" />
+        <img src="./assets/project-resume-optimiser.svg?v=2" alt="Career Automation Stack — Internship Scout and OA Forge" width="100%" />
       </a>
     </td>
   </tr>
