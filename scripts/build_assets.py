@@ -147,126 +147,150 @@ def odometer(x, y, value, size, delay, cid):
     return clip, f'<g clip-path="url(#{cid})">{"".join(parts)}</g>'
 
 
-def hero(solved_total):
-    import math
+def hero(solved_total, lc):
     import random
     W, H = 1200, 640
     rnd = random.Random(7)
-    stack = ("C++  ·  PYTHON  ·  TYPESCRIPT  ·  FASTAPI  ·  NODE.JS  ·  EXPRESS  ·  NEXT.JS  ·  REACT  ·  "
-             "POSTGRESQL  ·  MONGODB  ·  REDIS  ·  FIREBASE  ·  DOCKER  ·  GCP  ·  GITHUB ACTIONS  ·  "
-             "GEMINI  ·  RAG  ·  SCIKIT-LEARN  ·  ")
-    L = round(len(stack) * 8.7)
     roles = ["Software Engineer", "Competitive Programmer", "Full-Stack Builder", "Backend Engineer", "Problem Solver"]
-    lh = 36
-    n = len(roles)
-    kf = []
-    for i in range(n):
-        a, b2 = i * 100 / n, i * 100 / n + 100 / n - 4
-        kf.append(f"{a:.1f}%, {b2:.1f}% {{ transform: translateY(-{i * lh}px); }}")
-    kf.append(f"100% {{ transform: translateY(-{n * lh}px); }}")
-    css = (f".marq {{ animation: marq 45s linear infinite; }} @keyframes marq {{ to {{ transform: translateX(-{L}px); }} }}"
-           ".drift1 { animation: drift1 16s ease-in-out infinite alternate; } @keyframes drift1 { to { transform: translate(-140px, 70px); } }"
-           ".drift2 { animation: drift2 19s ease-in-out infinite alternate; } @keyframes drift2 { to { transform: translate(160px, -60px); } }"
-           ".tw { animation: tw 3.2s ease-in-out infinite; } @keyframes tw { 0%, 100% { opacity: .1; } 50% { opacity: .85; } }"
-           ".roll { animation: roll 2.4s cubic-bezier(.16,1,.3,1) both; } @keyframes roll { from { transform: translateY(0); } }"
-           f".words {{ animation: words {n * 2.6:.1f}s cubic-bezier(.76,0,.24,1) infinite; }} @keyframes words {{ {' '.join(kf)} }}"
-           ".gauge { animation: gauge 2.6s cubic-bezier(.16,1,.3,1) both; } @keyframes gauge { from { stroke-dasharray: 0 100; } }"
-           ".pop { transform-box: fill-box; transform-origin: center; animation: pop 1s cubic-bezier(.2,1.5,.4,1) both; } @keyframes pop { from { transform: scale(.4); opacity: 0; } }")
-    defs = (glow("gA", EM, .26) + glow("gB", CY, .18) + glow("gC", AM, .12) + glow("gO", EM, .22)
-            + lin("lcT", OR, AM) + lin("cfG", "#7CC4FF", BL) + lin("ccG", "#F3D9A4", CC) + lin("lcG", AM, OR)
-            + '<clipPath id="mq"><rect x="40" y="578" width="1120" height="40" rx="12"/></clipPath>'
-            + '<clipPath id="slot"><rect x="60" y="364" width="620" height="32"/></clipPath>'
-            + f'<linearGradient id="flow" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="640" y2="0" spreadMethod="repeat">'
-              f'<stop stop-color="#FFFFFF"/><stop offset=".3" stop-color="#A7F3D0"/><stop offset=".55" stop-color="{CY}"/>'
-              f'<stop offset=".8" stop-color="#FDE68A"/><stop offset="1" stop-color="#FFFFFF"/>'
-              '<animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="640 0" dur="7s" repeatCount="indefinite"/></linearGradient>'
-            + '<linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="220" y2="0" gradientTransform="translate(-600 0)">'
-              '<stop stop-color="#FFFFFF" stop-opacity="0"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity="0.9"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>'
-              '<animateTransform attributeName="gradientTransform" type="translate" values="-600 0;-600 0;900 0" keyTimes="0;.55;1" dur="5s" repeatCount="indefinite"/></linearGradient>')
-    b = []
-    b.append('<ellipse class="drift1" cx="1000" cy="160" rx="460" ry="330" fill="url(#gA)"/>')
-    b.append('<ellipse class="drift2" cx="160" cy="560" rx="420" ry="280" fill="url(#gB)"/>')
-    b.append('<ellipse class="drift1" cx="560" cy="300" rx="300" ry="200" fill="url(#gC)"/>')
-    for _ in range(48):
-        x, y = rnd.uniform(20, W - 20), rnd.uniform(90, 570)
-        b.append(f'<circle class="tw" style="animation-delay:-{rnd.uniform(0, 3.2):.2f}s;animation-duration:{rnd.uniform(2.2, 4.6):.2f}s" '
-                 f'cx="{x:.0f}" cy="{y:.0f}" r="{rnd.uniform(.6, 1.6):.1f}" fill="#FFFFFF"/>')
-    b.append(band(W, H))
+    stack = ("TYPESCRIPT  ·  PYTHON  ·  C++  ·  FASTAPI  ·  NODE.JS  ·  NEXT.JS  ·  REACT  ·  POSTGRESQL  ·  "
+             "MONGODB  ·  REDIS  ·  FIREBASE  ·  DOCKER  ·  GEMINI  ·  ")
+    marquee_w = 1660
+    role_h = 34
+    css = ".roll{animation:roll 2.2s cubic-bezier(.16,1,.3,1) both}@keyframes roll{from{transform:translateY(0)}}"
 
-    b.append('<rect x="40" y="34" width="1120" height="46" rx="13" fill="#FFFFFF" fill-opacity="0.04" stroke="#34D399" stroke-opacity="0.3"/>')
-    b.append(f'<circle cx="64" cy="57" r="5" fill="{EM}"/><circle cx="64" cy="57" r="5" fill="none" stroke="{EM}" stroke-width="2">'
-             '<animate attributeName="r" values="5;16" dur="1.8s" repeatCount="indefinite"/>'
-             '<animate attributeName="opacity" values="0.9;0" dur="1.8s" repeatCount="indefinite"/></circle>')
-    b.append(t(84, 62, "OPEN TO SUMMER 2027 SOFTWARE ENGINEERING INTERNSHIPS", 12.5, EM, 700, True, ls=1.6))
-    b.append(f'<rect x="846" y="44" width="302" height="26" rx="13" fill="{CY}" fill-opacity="0.12" stroke="{CY}" stroke-opacity="0.5"/>')
-    b.append(t(997, 61, f"↗  {PORTFOLIO.upper()}", 11.5, CY, 700, True, "middle", 1.1))
+    defs = (
+        glow("heroEmerald", EM, .28) + glow("heroCyan", CY, .18) + glow("heroAmber", AM, .12)
+        + lin("heroName", "#FFFFFF", "#9FF4D3") + lin("ratingText", AM, OR)
+        + f'<linearGradient id="heroName2" x1="0" y1="0" x2="1" y2="0"><stop stop-color="{CY}"/>'
+          f'<stop offset=".48" stop-color="{EM}"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>'
+        + f'<linearGradient id="chartArea" x1="0" y1="0" x2="0" y2="1"><stop stop-color="{OR}" stop-opacity=".3"/>'
+          f'<stop offset="1" stop-color="{OR}" stop-opacity="0"/></linearGradient>'
+        + '<linearGradient id="glassEdge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".28"/>'
+          '<stop offset=".45" stop-color="#FFFFFF" stop-opacity=".04"/><stop offset="1" stop-color="#34D399" stop-opacity=".24"/></linearGradient>'
+        + '<linearGradient id="nameShine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FFFFFF" stop-opacity="0"/>'
+          '<stop offset=".5" stop-color="#FFFFFF" stop-opacity=".75"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>'
+        + '<linearGradient id="scanGlow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22D3EE" stop-opacity="0"/>'
+          '<stop offset=".5" stop-color="#22D3EE" stop-opacity=".12"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></linearGradient>'
+        + '<pattern id="microGrid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" stroke="#FFFFFF" stroke-opacity=".025"/></pattern>'
+        + '<clipPath id="roleSlot"><rect x="84" y="334" width="520" height="34"/></clipPath>'
+        + '<clipPath id="heroMarquee"><rect x="30" y="585" width="1140" height="34" rx="10"/></clipPath>'
+        + '<clipPath id="nameClip"><rect x="48" y="148" width="620" height="168"/></clipPath>'
+        + '<clipPath id="cockpitClip"><rect x="700" y="112" width="452" height="292" rx="22"/></clipPath>'
+    )
 
-    b.append(t(66, 146, "// hello world, i'm", 15, MUTED, 500, True))
-    b.append(t(62, 236, "Ojas", 96, "url(#flow)", 800, ls=-2.5))
-    b.append(t(62, 330, f'Srivastava<tspan fill="{EM}">.</tspan>', 96, "url(#flow)", 800, ls=-2.5, raw=True))
-    b.append(t(62, 236, "Ojas", 96, "url(#shine)", 800, ls=-2.5))
-    b.append(t(62, 330, "Srivastava.", 96, "url(#shine)", 800, ls=-2.5))
-    b.append(t(66, 388, "a", 24, MUTED, 500))
-    words = "".join(t(90, 388 + i * lh, w, 24, TXT, 800, ls=-.3) for i, w in enumerate(roles + roles[:1]))
-    b.append(f'<g clip-path="url(#slot)"><g class="words">{words}</g></g>')
-    b.append(f'<rect x="66" y="402" width="30" height="2" rx="1" fill="{EM}"/>')
-    b.append(t(66, 432, "Backend · full-stack · applied AI — sharpened by daily contests.", 16.5, SOFT))
+    b = [
+        '<g clip-path="url(#clipAll)">',
+        '<ellipse cx="1040" cy="70" rx="520" ry="310" fill="url(#heroEmerald)"/>',
+        '<ellipse cx="90" cy="590" rx="430" ry="260" fill="url(#heroCyan)"/>',
+        '<ellipse cx="610" cy="390" rx="300" ry="210" fill="url(#heroAmber)"/>',
+        '<rect width="1200" height="640" fill="url(#microGrid)"/>',
+        '<path d="M0 520C230 470 410 535 610 488S970 420 1200 480" stroke="#34D399" stroke-opacity=".08" stroke-width="1"/>',
+        '<path d="M0 548C220 498 430 560 630 514S980 450 1200 505" stroke="#22D3EE" stroke-opacity=".06" stroke-width="1"/>',
+    ]
+    for _ in range(28):
+        x, y = rnd.uniform(24, 1176), rnd.uniform(92, 570)
+        b.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="{rnd.uniform(.45, 1.15):.1f}" '
+                 f'fill="#FFFFFF" opacity="{rnd.uniform(.12, .48):.2f}"/>')
+    b.append('</g>')
+    # Availability rail
+    b.append('<rect x="30" y="28" width="1140" height="48" rx="14" fill="#FFFFFF" fill-opacity=".035" stroke="url(#glassEdge)"/>')
+    b.append(f'<circle cx="54" cy="52" r="8" fill="{EM}" fill-opacity=".12" stroke="{EM}" stroke-opacity=".5"/>'
+             f'<circle cx="54" cy="52" r="4" fill="{EM}"/>')
+    b.append(t(1144, 57, f"↗  {PORTFOLIO}", 11.5, CY, 700, True, anchor="end", ls=.7))
 
-    stats = [("2048", "LEETCODE PEAK"), (solved_total, "PROBLEMS SOLVED"), ("9.20", "CGPA · SVNIT")]
-    xs = [66, 222, 408]
-    for i, ((val, lab), x) in enumerate(zip(stats, xs)):
-        clip, g = odometer(x, 508, val, 40, .5 + i * .25, f"od{i}")
-        defs += clip
-        b.append(g)
-        b.append(t(x, 536, lab, 11.5, MUTED, 600, True, ls=1.3))
-        if i:
-            b.append(f'<rect x="{x - 20}" y="470" width="1" height="72" fill="#FFFFFF" fill-opacity="0.1"/>')
-    b.append(f'<rect x="{560 - 20}" y="470" width="1" height="72" fill="#FFFFFF" fill-opacity="0.1"/>')
-    b.append(f'<g class="pop" style="animation-delay:1.3s">' + t(560, 508, "Top 2%", 40, "url(#txt)", 800, ls=-.5)
-             + t(560, 536, "LC GLOBAL", 11.5, MUTED, 600, True, ls=1.3) + '</g>')
+    # Identity and animated role
+    b.append('<g>')
+    b.append(t(50, 132, "01 / ENGINEER · BUILDER · COMPETITOR", 11.5, MUTED, 700, True, ls=1.65))
+    b.append(t(48, 218, "Ojas", 82, "url(#heroName)", 850, ls=-2.8))
+    b.append(t(48, 302, 'Srivastava<tspan fill="#34D399">.</tspan>', 82, "url(#heroName2)", 850, ls=-3.2, raw=True))
+    b.append(t(50, 359, "a", 21, MUTED, 500))
+    role_keytimes = "0;.15;.2;.35;.4;.55;.6;.75;.8;.95;1"
+    role_values = [
+        "1;1;0;0;0;0;0;0;0;0;1",
+        "0;0;1;1;0;0;0;0;0;0;0",
+        "0;0;0;0;1;1;0;0;0;0;0",
+        "0;0;0;0;0;0;1;1;0;0;0",
+        "0;0;0;0;0;0;0;0;1;1;0",
+    ]
+    for i, role in enumerate(roles):
+        b.append(f'<text x="84" y="359" font-family="{SANS}" font-size="21" font-weight="780" fill="{TXT}" '
+                 f'letter-spacing="-.35" opacity="{1 if i == 0 else 0}">{esc(role)}'
+                 f'<animate attributeName="opacity" values="{role_values[i]}" keyTimes="{role_keytimes}" '
+                 f'dur="13s" repeatCount="indefinite"/></text>')
+    b.append(f'<rect x="50" y="379" width="34" height="2" rx="1" fill="{EM}"/>')
+    b.append(t(50, 409, "B.Tech AI @ SVNIT Surat · backend, full-stack & applied AI.", 15.5, SOFT, 500))
+    b.append(t(50, 438, '<tspan fill="#6E7681">const focus = </tspan><tspan fill="#A7F3D0">"build → measure → ship"</tspan><tspan fill="#6E7681">;</tspan>',
+               12.5, MUTED, 500, True, raw=True))
+    b.append('</g>')
 
-    cx, cy, R = 928, 318, 176
-    b.append(f'<circle cx="{cx}" cy="{cy}" r="240" fill="url(#gO)"/>')
-    b.append(f'<circle cx="{cx}" cy="{cy}" r="{R}" stroke="#FFFFFF" stroke-opacity="0.14" stroke-dasharray="2 9">'
-             f'<animateTransform attributeName="transform" type="rotate" from="0 {cx} {cy}" to="360 {cx} {cy}" dur="60s" repeatCount="indefinite"/></circle>')
-    b.append(f'<circle cx="{cx}" cy="{cy}" r="152" stroke="#FFFFFF" stroke-opacity="0.07"/>')
-    b.append(f'<circle cx="{cx}" cy="{cy}" r="60" stroke="{EM}" stroke-width="1.5" fill="none">'
-             '<animate attributeName="r" values="70;176" dur="3.2s" repeatCount="indefinite"/>'
-             '<animate attributeName="opacity" values="0.55;0" dur="3.2s" repeatCount="indefinite"/></circle>')
-    b.append(f'<g><line x1="{cx}" y1="{cy - 94}" x2="{cx}" y2="{cy - 152}" stroke="{EM}" stroke-opacity="0.6" stroke-width="1.5"/>'
-             f'<circle cx="{cx}" cy="{cy - 152}" r="3.5" fill="{EM}"/>'
-             f'<animateTransform attributeName="transform" type="rotate" from="0 {cx} {cy}" to="360 {cx} {cy}" dur="7s" repeatCount="indefinite"/></g>')
-    for r, pct, grad, lab, col, dl in [(134, 82, "lcG", "LC 2048", OR, .6), (114, 68, "cfG", "CF 1421", BL, .85), (94, 29, "ccG", "CC 2★", CC, 1.1)]:
-        b.append(f'<circle cx="{cx}" cy="{cy}" r="{r}" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="10"/>')
-        b.append(f'<circle class="gauge" style="animation-delay:{dl}s" cx="{cx}" cy="{cy}" r="{r}" stroke="url(#{grad})" stroke-width="10" '
-                 f'stroke-linecap="round" pathLength="100" stroke-dasharray="{pct} 100" transform="rotate(-90 {cx} {cy})"/>')
-        b.append(t(cx - 12, cy - r + 4, lab, 10.5, col, 700, True, "end", 1))
-    b.append(f'<g class="pop" style="animation-delay:.9s">'
-             + t(cx, cy + 4, "2048", 50, "url(#lcT)", 800, anchor="middle", ls=-1.5)
-             + t(cx, cy + 28, "LEETCODE PEAK", 10.5, MUTED, 600, True, "middle", 1.6)
-             + f'<rect x="{cx - 62}" y="{cy + 38}" width="124" height="24" rx="12" fill="{OR}" fill-opacity="0.14" stroke="{OR}" stroke-opacity="0.5"/>'
-             + t(cx, cy + 54, "KNIGHT · TOP 2%", 10.5, "#FFD28A", 700, True, "middle", 1) + '</g>')
-    sats = [("GSC · TOP 106", CY), ("VIBE2SHIP · TOP 20", EM), ("CF SPECIALIST", BL), ("MCKINSEY FELLOW", VI), ("CHAIRPERSON", AM)]
-    period = 56
-    orbit = [f'<g><animateTransform attributeName="transform" type="rotate" from="0 {cx} {cy}" to="360 {cx} {cy}" dur="{period}s" repeatCount="indefinite"/>']
-    for i, (lab, col) in enumerate(sats):
-        a = -math.pi / 2 + i * 2 * math.pi / len(sats)
-        px, py = cx + R * math.cos(a), cy + R * math.sin(a)
-        w = len(lab) * 7.4 + 34
-        orbit.append(f'<g transform="translate({px:.1f} {py:.1f})"><g>'
-                     f'<animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="{period}s" repeatCount="indefinite"/>'
-                     f'<rect x="{-w / 2:.1f}" y="-15" width="{w:.1f}" height="30" rx="15" fill="#0B0E14" fill-opacity="0.94" stroke="{col}" stroke-opacity="0.7"/>'
-                     f'<circle cx="{-w / 2 + 15:.1f}" cy="0" r="3.5" fill="{col}"/>'
-                     + t(round(-w / 2 + 25, 1), 4, lab, 11, TXT, 700, True, ls=.8) + '</g></g>')
-    orbit.append('</g>')
-    b.append("".join(orbit))
+    # Four dense, readable proof points
+    stat_data = [("2048", "LC PEAK · KNIGHT", OR), (solved_total, "PROBLEMS SOLVED", EM), ("9.20", "CGPA · SVNIT", CY), ("TOP ~2%", "LEETCODE GLOBAL", AM)]
+    stat_x = [50, 198, 370, 510]
+    stat_w = [128, 152, 120, 148]
+    for i, ((value, label, color), x, width) in enumerate(zip(stat_data, stat_x, stat_w)):
+        b.append(f'<rect x="{x}" y="470" width="{width}" height="82" rx="13" fill="#FFFFFF" fill-opacity=".028" stroke="#FFFFFF" stroke-opacity=".075"/>')
+        b.append(f'<rect x="{x + 1}" y="470" width="36" height="2" rx="1" fill="{color}"/>')
+        b.append(t(x + 14, 511, value, 28 if i != 3 else 25, TXT, 800, ls=-.8))
+        b.append(t(x + 14, 536, label, 9.5, color, 700, True, ls=.85))
 
-    b.append('<rect x="40" y="578" width="1120" height="40" rx="12" fill="#FFFFFF" fill-opacity="0.03" stroke="#FFFFFF" stroke-opacity="0.08"/>')
-    b.append('<g clip-path="url(#mq)"><g class="marq">'
-             + t(60, 603, stack, 12, MUTED, 600, True, ls=1.5, extra=f' textLength="{L}" lengthAdjust="spacing"')
-             + t(60 + L, 603, stack, 12, MUTED, 600, True, ls=1.5, extra=f' textLength="{L}" lengthAdjust="spacing"')
-             + '</g></g>')
-    return doc("hero", W, H, "Ojas Srivastava — Software Engineer, Full-Stack & Applied AI. Open to Summer 2027 SWE internships.",
+    # Competitive-programming cockpit
+    lo, hi = min(lc) - 40, max(lc) + 20
+    ry = lambda r: 348 - (r - lo) / (hi - lo) * 160
+    pts = [(724 + i * 404 / (len(lc) - 1), ry(r)) for i, r in enumerate(lc)]
+    chart_d = "M" + " L".join(f"{x:.1f} {y:.1f}" for x, y in pts)
+    ex, ey = pts[-1]
+    step = 200 if hi - lo > 500 else 100
+    ticks = [v for v in range((lo // step + 1) * step, hi, step) if ry(v) > ey + 28][-3:]
+    b.append('<g>')
+    b.append('<rect x="700" y="112" width="452" height="292" rx="22" fill="#0D131B" fill-opacity=".88" stroke="url(#glassEdge)"/>')
+    b.append('<rect x="700" y="112" width="452" height="292" rx="22" fill="url(#microGrid)" opacity=".8"/>')
+    b.append(f'<circle cx="724" cy="136" r="4" fill="{OR}"/><circle cx="738" cy="136" r="4" fill="{AM}" fill-opacity=".6"/><circle cx="752" cy="136" r="4" fill="{EM}" fill-opacity=".6"/>')
+    b.append(t(774, 141, "RATING / LIVE SIGNAL", 10, MUTED, 700, True, ls=1.4))
+    b.append(f'<circle cx="1125" cy="136" r="3" fill="{EM}"/>' + t(1116, 140, "SYNCED", 9.5, EM, 700, True, anchor="end", ls=1))
+    b.append(t(724, 194, "2048", 48, "url(#ratingText)", 850, ls=-1.6))
+    b.append(t(875, 172, "LEETCODE PEAK", 10, MUTED, 700, True, ls=1.1))
+    b.append(t(875, 195, "KNIGHT · TOP ~2%", 14, "#FFD28A", 750, True, ls=.25))
+    for yy, lab in [(round(ry(v)), str(v)) for v in ticks]:
+        b.append(f'<path d="M724 {yy}H1128" stroke="#FFFFFF" stroke-opacity=".055" stroke-dasharray="3 7"/>')
+        b.append(t(1128, yy - 5, lab, 8.5, DIM, 600, True, anchor="end"))
+    b.append(f'<path d="{chart_d} L1128 357 L724 357 Z" fill="url(#chartArea)" class="fade"/>')
+    b.append(f'<path class="draw" pathLength="1000" d="{chart_d}" stroke="{OR}" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>')
+    b.append(f'<circle r="0" fill="{OR}" fill-opacity=".18"><animate attributeName="r" values="8;8" dur="8s" repeatCount="indefinite"/>'
+             f'<animateMotion dur="8s" repeatCount="indefinite" path="{chart_d}"/></circle>')
+    b.append(f'<circle r="0" fill="{AM}"><animate attributeName="r" values="3.2;3.2" dur="8s" repeatCount="indefinite"/>'
+             f'<animateMotion dur="8s" repeatCount="indefinite" path="{chart_d}"/></circle>')
+    b.append(f'<circle cx="{ex:.1f}" cy="{ey:.1f}" r="5" fill="{AM}"/><circle class="pulse" cx="{ex:.1f}" cy="{ey:.1f}" r="11" fill="{OR}" fill-opacity=".28"/>')
+    b.append(f'<rect x="724" y="368" width="126" height="23" rx="7" fill="{BL}" fill-opacity=".09" stroke="{BL}" stroke-opacity=".24"/>')
+    b.append(t(787, 384, "CF 1421 · SPECIALIST", 9.5, "#7CC4FF", 700, True, anchor="middle", ls=.35))
+    b.append(f'<rect x="860" y="368" width="108" height="23" rx="7" fill="{CC}" fill-opacity=".09" stroke="{CC}" stroke-opacity=".24"/>')
+    b.append(t(914, 384, "CODECHEF · 2★", 9.5, "#E8C78C", 700, True, anchor="middle", ls=.35))
+    b.append(t(1128, 384, "30+ RATED CONTESTS", 9.5, MUTED, 650, True, anchor="end", ls=.65))
+    b.append('</g>')
+
+    # Achievement signal deck
+    b.append(t(700, 435, "SELECTED SIGNALS", 10.5, MUTED, 700, True, ls=1.65))
+    achievements = [
+        (700, 451, 218, CY, "GOOGLE SOLUTION CHALLENGE", "GLOBAL TOP 106 · LOGIFLOW"),
+        (932, 451, 220, EM, "VIBE2SHIP 2026", "GLOBAL TOP 20 · COMMUNITY HERO"),
+        (700, 505, 218, VI, "MCKINSEY.ORG", "FORWARD FELLOW"),
+        (932, 505, 220, AM, "NEXUS SVNIT", "CHAIRPERSON · 2026–27"),
+    ]
+    for i, (x, y, width, color, title, sub) in enumerate(achievements):
+        b.append(f'<g><rect x="{x}" y="{y}" width="{width}" height="44" rx="11" '
+                 f'fill="#FFFFFF" fill-opacity=".025" stroke="{color}" stroke-opacity=".22"/>')
+        b.append(f'<circle cx="{x + 15}" cy="{y + 15}" r="3" fill="{color}"/>')
+        b.append(t(x + 27, y + 18, title, 9.2, TXT, 700, True, ls=.35))
+        b.append(t(x + 14, y + 35, sub, 8.6, color, 650, True, ls=.4))
+        b.append('</g>')
+
+    # Bottom stack ticker
+    b.append('<rect x="30" y="585" width="1140" height="34" rx="10" fill="#FFFFFF" fill-opacity=".025" stroke="#FFFFFF" stroke-opacity=".07"/>')
+    b.append('<g clip-path="url(#heroMarquee)">'
+             + t(48, 607, stack, 10.5, MUTED, 650, True, ls=1.45, extra=f' textLength="{marquee_w}" lengthAdjust="spacing"')
+             + '</g>')
+    b.append(t(70, 57, "OPEN TO SUMMER 2027 SOFTWARE ENGINEERING INTERNSHIPS", 11.5, EM, 750, True, ls=1.45))
+    return doc("hero", W, H,
+               "Ojas Srivastava — Software Engineer, competitive programmer, full-stack and backend builder. Open to Summer 2027 SWE internships.",
                "\n  ".join(b), defs, css)
 
 
@@ -650,7 +674,7 @@ def main():
     total = solved + 270 + 118
     total_s = f"{total // 50 * 50:,}+"
 
-    write("hero.svg", hero(total_s))
+    write("hero.svg", hero(total_s, lc))
     write("highlights.svg", highlights())
     write("cp.svg", cp(lc, cf, lc_solved, len(lc)))
     write("experience.svg", experience())

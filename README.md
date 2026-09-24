@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://ojas-srivastava.vercel.app/">
-    <img src="./assets/hero.svg?v=3fb42f2c" alt="Ojas Srivastava — Software Engineer, Full-Stack and Applied AI. Open to Summer 2027 SWE internships." width="100%" />
+    <img src="./assets/hero.svg?v=8ff363ec" alt="Ojas Srivastava — Software Engineer, Full-Stack and Applied AI. Open to Summer 2027 SWE internships." width="100%" />
   </a>
 </p>
 
