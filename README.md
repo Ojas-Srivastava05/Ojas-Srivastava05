@@ -45,7 +45,7 @@
 <br/>
 
 <!-- o5ws-block:highlights:7f3a9e2b1c4d -->
-<img src="./assets/section-01.svg?v=5882b83f" alt="01 — Highlights" width="100%" />
+<img src="./assets/section-01.svg?v=24b5b44b" alt="01 — Highlights" width="100%" />
 
 <p align="center">
   <img src="./assets/highlights.svg?v=18a93f08" alt="Vibe2Ship 2026 Global Top 20 · Google Solution Challenge 2026 Global Top 106 · LeetCode Knight, peak 2048 · Codeforces Specialist, max 1421 · McKinsey.org Forward Fellow · Chairperson, Nexus SVNIT" width="100%" />
@@ -54,7 +54,7 @@
 <br/>
 
 <!-- o5ws-block:portfolio:7f3a9e2b1c4d -->
-<img src="./assets/section-02.svg?v=c777b541" alt="02 — Portfolio" width="100%" />
+<img src="./assets/section-02.svg?v=f550ed4f" alt="02 — Portfolio" width="100%" />
 
 <p align="center">
   <a href="https://ojas-srivastava.vercel.app/">
@@ -72,7 +72,7 @@
 <br/>
 
 <!-- o5ws-block:cp-signal:7f3a9e2b1c4d -->
-<img src="./assets/section-03.svg?v=9e1008e1" alt="03 — Competitive Programming" width="100%" />
+<img src="./assets/section-03.svg?v=dbce0a52" alt="03 — Competitive Programming" width="100%" />
 
 <p align="center">
   <img src="./assets/cp.svg?v=3a60a747" alt="LeetCode Knight with peak rating 2048 across 30+ rated contests · Codeforces Specialist, max rating 1421 · CodeChef 2 Star" width="100%" />
@@ -90,7 +90,7 @@
 <br/>
 
 <!-- o5ws-block:selected-work:7f3a9e2b1c4d -->
-<img src="./assets/section-04.svg?v=ef4b9a08" alt="04 — Featured Work" width="100%" />
+<img src="./assets/section-04.svg?v=60473ee3" alt="04 — Featured Work" width="100%" />
 
 <table>
   <tr>
@@ -141,7 +141,7 @@
 <br/>
 
 <!-- o5ws-block:experience:7f3a9e2b1c4d -->
-<img src="./assets/section-05.svg?v=b936226e" alt="05 — Experience and Leadership" width="100%" />
+<img src="./assets/section-05.svg?v=fbf37610" alt="05 — Experience and Leadership" width="100%" />
 
 <p align="center">
   <img src="./assets/experience.svg?v=6ac84510" alt="Chairperson, Nexus SVNIT (AY 2026–27) · Technical Co-Lead, Neural Foundry, GSC 2026 · Forward Fellow, McKinsey.org · Software Engineering Intern, IFFCO (Jun–Jul 2025) · Technical Lead, RangRiti (Jun–Aug 2025) · B.Tech AI, SVNIT Surat (2024–2028)" width="100%" />
@@ -165,7 +165,7 @@
 <br/>
 
 <!-- o5ws-block:tech-stack:7f3a9e2b1c4d -->
-<img src="./assets/section-06.svg?v=6d6475a6" alt="06 — Tech Stack" width="100%" />
+<img src="./assets/section-06.svg?v=e6699672" alt="06 — Tech Stack" width="100%" />
 
 <table align="center">
   <tr>
@@ -201,7 +201,7 @@
 <br/>
 
 <!-- o5ws-block:github-activity:7f3a9e2b1c4d -->
-<img src="./assets/section-07.svg?v=9ee5bc7c" alt="07 — GitHub Activity" width="100%" />
+<img src="./assets/section-07.svg?v=440e2ec2" alt="07 — GitHub Activity" width="100%" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ojas-Srivastava05/Ojas-Srivastava05/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub profile details" width="100%" />

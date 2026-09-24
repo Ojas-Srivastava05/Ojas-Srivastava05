@@ -272,17 +272,42 @@ def hero(solved_total):
 
 def section(n, title, sub):
     W, H = 1200, 96
-    defs = glow("sg", EM, .18)
+    x0, x1, by = 40, 1160, 80
+    bw = x1 - x0
+    lag = n * .45
+    defs = (glow("sg", EM, .18)
+            + f'<linearGradient id="flowbar" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="560" y2="0" spreadMethod="repeat">'
+              f'<stop stop-color="{EM}"/><stop offset=".33" stop-color="{CY}"/><stop offset=".66" stop-color="{AM}"/><stop offset="1" stop-color="{EM}"/>'
+              f'<animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="560 0" dur="5s" repeatCount="indefinite"/></linearGradient>'
+            + '<linearGradient id="comet" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FFFFFF" stop-opacity="0"/>'
+              '<stop offset=".8" stop-color="#FFFFFF" stop-opacity=".75"/><stop offset="1" stop-color="#FFFFFF"/></linearGradient>'
+            + '<filter id="bglow" x="-5%" y="-400%" width="110%" height="900%"><feGaussianBlur stdDeviation="3.2"/></filter>'
+            + '<filter id="cglow" x="-20%" y="-400%" width="140%" height="900%"><feGaussianBlur stdDeviation="2.2" result="b"/>'
+              '<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>'
+            + f'<clipPath id="barclip"><rect x="{x0}" y="{by - 12}" width="{bw}" height="24"/></clipPath>')
     b = [
         '<ellipse cx="120" cy="48" rx="260" ry="90" fill="url(#sg)"/>',
         t(40, 58, f"{n:02d}", 16, EM, 700, True, ls=1),
         '<rect x="74" y="36" width="1" height="28" fill="#FFFFFF" fill-opacity="0.18"/>',
         t(92, 60, title, 30, TXT, 800, ls=-.5),
         t(1160, 57, sub.upper(), 12.5, MUTED, 600, True, "end", 1.6),
-        '<rect class="grow" x="40" y="78" width="64" height="2" rx="1" fill="url(#acc)"/>',
+        f'<rect x="{x0}" y="{by - 1}" width="{bw}" height="2" rx="1" fill="#FFFFFF" fill-opacity="0.06"/>',
+        f'<g class="reveal">'
+        f'<rect class="breathe" style="animation-delay:-{lag:.2f}s" x="{x0}" y="{by - 3}" width="{bw}" height="6" rx="3" fill="url(#flowbar)" filter="url(#bglow)"/>'
+        f'<rect x="{x0}" y="{by - 1}" width="{bw}" height="2" rx="1" fill="url(#flowbar)"/>'
+        f'</g>',
+        f'<g clip-path="url(#barclip)"><rect class="comet" style="animation-delay:-{lag:.2f}s" x="{x0 - 220}" y="{by - 2}" width="220" height="4" rx="2" '
+        f'fill="url(#comet)" filter="url(#cglow)"/></g>',
+        f'<circle class="pulse" cx="{x1}" cy="{by}" r="6" fill="{AM}" fill-opacity="0.35"/><circle cx="{x1}" cy="{by}" r="2.6" fill="{AM}"/>',
+        f'<circle cx="{x0}" cy="{by}" r="2.6" fill="{EM}"/>',
         band(W, H),
     ]
-    css = ".grow { transform-box: fill-box; transform-origin: left; animation: grow 3.6s ease-in-out infinite; } @keyframes grow { 50% { transform: scaleX(2.6); } }"
+    css = (".reveal { transform-box: fill-box; transform-origin: left; animation: reveal 1.4s cubic-bezier(.2,.8,.2,1) both; }"
+           "@keyframes reveal { from { transform: scaleX(0); } }"
+           ".breathe { animation: breathe 3.2s ease-in-out infinite; }"
+           "@keyframes breathe { 0%, 100% { opacity: .45; } 50% { opacity: 1; } }"
+           f".comet {{ animation: comet 3.6s cubic-bezier(.45,0,.25,1) infinite; }}"
+           f"@keyframes comet {{ from {{ transform: translateX(0); }} to {{ transform: translateX({bw + 220}px); }} }}")
     return doc(f"section-{n:02d}", W, H, f"{n:02d} — {title}", "\n  ".join(b), defs, css)
 
 
