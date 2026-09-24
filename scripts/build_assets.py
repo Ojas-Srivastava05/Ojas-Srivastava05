@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 """Build every README SVG from live LeetCode / Codeforces data (run by .github/workflows/profile-assets.yml)."""
 import base64
+import hashlib
 import html
 import json
 import pathlib
+import re
 import urllib.request
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -127,99 +129,142 @@ def write(fname, content):
         f.write(content)
 
 
+def odometer(x, y, value, size, delay, cid):
+    lh = round(size * 1.25)
+    dw = size * 0.6
+    parts, cx = [], x
+    for ch in value:
+        if ch.isdigit():
+            d = int(ch)
+            strip = "".join(t(round(cx, 1), y + k * lh, str(k % 10), size, "url(#txt)", 800,
+                              extra=' style="font-variant-numeric:tabular-nums"') for k in range(20))
+            parts.append(f'<g class="roll" style="transform:translateY(-{(10 + d) * lh}px);animation-delay:{delay:.2f}s">{strip}</g>')
+            cx += dw
+        else:
+            parts.append(t(round(cx, 1), y, ch, size, "url(#txt)", 800))
+            cx += {",": .3, ".": .3, "+": .62, "%": .9}.get(ch, .6) * size
+    clip = f'<clipPath id="{cid}"><rect x="{x - 4}" y="{y - size}" width="{cx - x + 12:.0f}" height="{size * 1.28:.0f}"/></clipPath>'
+    return clip, f'<g clip-path="url(#{cid})">{"".join(parts)}</g>'
+
+
 def hero(solved_total):
-    W, H = 1200, 620
+    import math
+    import random
+    W, H = 1200, 640
+    rnd = random.Random(7)
     stack = ("C++  ·  PYTHON  ·  TYPESCRIPT  ·  FASTAPI  ·  NODE.JS  ·  EXPRESS  ·  NEXT.JS  ·  REACT  ·  "
              "POSTGRESQL  ·  MONGODB  ·  REDIS  ·  FIREBASE  ·  DOCKER  ·  GCP  ·  GITHUB ACTIONS  ·  "
              "GEMINI  ·  RAG  ·  SCIKIT-LEARN  ·  ")
     L = round(len(stack) * 8.7)
-    defs = (glow("gA", EM, .22) + glow("gB", CY, .14) + glow("gC", AM, .08)
-            + lin("term", EM, AM, oa=.7, ob=.5)
-            + '<clipPath id="mq"><rect x="40" y="556" width="1120" height="40" rx="12"/></clipPath>'
-            + '<linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="260" y2="0" gradientTransform="translate(-600 0)">'
-              '<stop stop-color="#FFFFFF" stop-opacity="0"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity="0.85"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>'
-              '<animateTransform attributeName="gradientTransform" type="translate" values="-600 0;-600 0;900 0" keyTimes="0;.45;1" dur="6s" repeatCount="indefinite"/></linearGradient>')
-    css = f".marq {{ animation: marq 45s linear infinite; }} @keyframes marq {{ to {{ transform: translateX(-{L}px); }} }}"
+    roles = ["Software Engineer", "Competitive Programmer", "Full-Stack Builder", "Backend Engineer", "Problem Solver"]
+    lh = 36
+    n = len(roles)
+    kf = []
+    for i in range(n):
+        a, b2 = i * 100 / n, i * 100 / n + 100 / n - 4
+        kf.append(f"{a:.1f}%, {b2:.1f}% {{ transform: translateY(-{i * lh}px); }}")
+    kf.append(f"100% {{ transform: translateY(-{n * lh}px); }}")
+    css = (f".marq {{ animation: marq 45s linear infinite; }} @keyframes marq {{ to {{ transform: translateX(-{L}px); }} }}"
+           ".drift1 { animation: drift1 16s ease-in-out infinite alternate; } @keyframes drift1 { to { transform: translate(-140px, 70px); } }"
+           ".drift2 { animation: drift2 19s ease-in-out infinite alternate; } @keyframes drift2 { to { transform: translate(160px, -60px); } }"
+           ".tw { animation: tw 3.2s ease-in-out infinite; } @keyframes tw { 0%, 100% { opacity: .1; } 50% { opacity: .85; } }"
+           ".roll { animation: roll 2.4s cubic-bezier(.16,1,.3,1) both; } @keyframes roll { from { transform: translateY(0); } }"
+           f".words {{ animation: words {n * 2.6:.1f}s cubic-bezier(.76,0,.24,1) infinite; }} @keyframes words {{ {' '.join(kf)} }}"
+           ".gauge { animation: gauge 2.6s cubic-bezier(.16,1,.3,1) both; } @keyframes gauge { from { stroke-dasharray: 0 100; } }"
+           ".pop { transform-box: fill-box; transform-origin: center; animation: pop 1s cubic-bezier(.2,1.5,.4,1) both; } @keyframes pop { from { transform: scale(.4); opacity: 0; } }")
+    defs = (glow("gA", EM, .26) + glow("gB", CY, .18) + glow("gC", AM, .12) + glow("gO", EM, .22)
+            + lin("lcT", OR, AM) + lin("cfG", "#7CC4FF", BL) + lin("ccG", "#F3D9A4", CC) + lin("lcG", AM, OR)
+            + '<clipPath id="mq"><rect x="40" y="578" width="1120" height="40" rx="12"/></clipPath>'
+            + '<clipPath id="slot"><rect x="60" y="364" width="620" height="32"/></clipPath>'
+            + f'<linearGradient id="flow" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="640" y2="0" spreadMethod="repeat">'
+              f'<stop stop-color="#FFFFFF"/><stop offset=".3" stop-color="#A7F3D0"/><stop offset=".55" stop-color="{CY}"/>'
+              f'<stop offset=".8" stop-color="#FDE68A"/><stop offset="1" stop-color="#FFFFFF"/>'
+              '<animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="640 0" dur="7s" repeatCount="indefinite"/></linearGradient>'
+            + '<linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="220" y2="0" gradientTransform="translate(-600 0)">'
+              '<stop stop-color="#FFFFFF" stop-opacity="0"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity="0.9"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>'
+              '<animateTransform attributeName="gradientTransform" type="translate" values="-600 0;-600 0;900 0" keyTimes="0;.55;1" dur="5s" repeatCount="indefinite"/></linearGradient>')
     b = []
-    b.append('<ellipse cx="1010" cy="130" rx="440" ry="320" fill="url(#gA)"/>')
-    b.append('<ellipse cx="150" cy="560" rx="400" ry="260" fill="url(#gB)"/>')
-    b.append('<ellipse cx="620" cy="300" rx="300" ry="200" fill="url(#gC)"/>')
-    b.append('<path class="dash" d="M40 470C220 380 360 520 540 430C700 350 820 560 1160 470" stroke="url(#acc)" stroke-opacity="0.25" stroke-width="1.5"/>')
-    b.append(particles("M40 470C220 380 360 520 540 430C700 350 820 560 1160 470", EM, 4, 12, 2.6))
+    b.append('<ellipse class="drift1" cx="1000" cy="160" rx="460" ry="330" fill="url(#gA)"/>')
+    b.append('<ellipse class="drift2" cx="160" cy="560" rx="420" ry="280" fill="url(#gB)"/>')
+    b.append('<ellipse class="drift1" cx="560" cy="300" rx="300" ry="200" fill="url(#gC)"/>')
+    for _ in range(48):
+        x, y = rnd.uniform(20, W - 20), rnd.uniform(90, 570)
+        b.append(f'<circle class="tw" style="animation-delay:-{rnd.uniform(0, 3.2):.2f}s;animation-duration:{rnd.uniform(2.2, 4.6):.2f}s" '
+                 f'cx="{x:.0f}" cy="{y:.0f}" r="{rnd.uniform(.6, 1.6):.1f}" fill="#FFFFFF"/>')
+    b.append(band(W, H))
 
-    b.append('<rect x="40" y="36" width="1120" height="44" rx="12" fill="#FFFFFF" fill-opacity="0.035" stroke="#34D399" stroke-opacity="0.25"/>')
-    b.append(f'<circle class="pulse" cx="64" cy="58" r="10" fill="{EM}" fill-opacity="0.25"/><circle cx="64" cy="58" r="4.5" fill="{EM}"/>')
-    b.append(t(84, 63, "OPEN TO SUMMER 2027 SOFTWARE ENGINEERING INTERNSHIPS", 12.5, EM, 700, True, ls=1.6))
-    b.append(f'<rect x="846" y="45" width="302" height="26" rx="13" fill="{CY}" fill-opacity="0.1" stroke="{CY}" stroke-opacity="0.45"/>')
-    b.append(t(997, 62, f"↗  {PORTFOLIO.upper()}", 11.5, CY, 700, True, "middle", 1.1))
+    b.append('<rect x="40" y="34" width="1120" height="46" rx="13" fill="#FFFFFF" fill-opacity="0.04" stroke="#34D399" stroke-opacity="0.3"/>')
+    b.append(f'<circle cx="64" cy="57" r="5" fill="{EM}"/><circle cx="64" cy="57" r="5" fill="none" stroke="{EM}" stroke-width="2">'
+             '<animate attributeName="r" values="5;16" dur="1.8s" repeatCount="indefinite"/>'
+             '<animate attributeName="opacity" values="0.9;0" dur="1.8s" repeatCount="indefinite"/></circle>')
+    b.append(t(84, 62, "OPEN TO SUMMER 2027 SOFTWARE ENGINEERING INTERNSHIPS", 12.5, EM, 700, True, ls=1.6))
+    b.append(f'<rect x="846" y="44" width="302" height="26" rx="13" fill="{CY}" fill-opacity="0.12" stroke="{CY}" stroke-opacity="0.5"/>')
+    b.append(t(997, 61, f"↗  {PORTFOLIO.upper()}", 11.5, CY, 700, True, "middle", 1.1))
 
-    b.append(t(70, 150, "// software engineer · full-stack & applied ai", 15, MUTED, 500, True))
-    b.append(t(64, 238, "Ojas", 92, "url(#txt)", 800, ls=-2))
-    b.append(t(64, 330, f'Srivastava<tspan fill="{EM}">.</tspan>', 92, "url(#txt)", 800, ls=-2, raw=True))
-    b.append(t(64, 238, "Ojas", 92, "url(#shine)", 800, ls=-2))
-    b.append(t(64, 330, "Srivastava.", 92, "url(#shine)", 800, ls=-2))
-    b.append(t(70, 382, "I build backend systems, full-stack products and applied AI —", 19, SOFT))
-    b.append(t(70, 411, "and sharpen them with daily competitive programming.", 19, SOFT))
+    b.append(t(66, 146, "// hello world, i'm", 15, MUTED, 500, True))
+    b.append(t(62, 236, "Ojas", 96, "url(#flow)", 800, ls=-2.5))
+    b.append(t(62, 330, f'Srivastava<tspan fill="{EM}">.</tspan>', 96, "url(#flow)", 800, ls=-2.5, raw=True))
+    b.append(t(62, 236, "Ojas", 96, "url(#shine)", 800, ls=-2.5))
+    b.append(t(62, 330, "Srivastava.", 96, "url(#shine)", 800, ls=-2.5))
+    b.append(t(66, 388, "a", 24, MUTED, 500))
+    words = "".join(t(90, 388 + i * lh, w, 24, TXT, 800, ls=-.3) for i, w in enumerate(roles + roles[:1]))
+    b.append(f'<g clip-path="url(#slot)"><g class="words">{words}</g></g>')
+    b.append(f'<rect x="66" y="402" width="30" height="2" rx="1" fill="{EM}"/>')
+    b.append(t(66, 432, "Backend · full-stack · applied AI — sharpened by daily contests.", 16.5, SOFT))
 
-    stats = [("2048", "LEETCODE PEAK"), ("Top 2%", "LC GLOBAL RANK"), (solved_total, "PROBLEMS SOLVED"), ("9.20", "CGPA · SVNIT")]
-    for i, (n, lab) in enumerate(stats):
-        x = 70 + i * 158
+    stats = [("2048", "LEETCODE PEAK"), (solved_total, "PROBLEMS SOLVED"), ("9.20", "CGPA · SVNIT")]
+    xs = [66, 222, 408]
+    for i, ((val, lab), x) in enumerate(zip(stats, xs)):
+        clip, g = odometer(x, 508, val, 40, .5 + i * .25, f"od{i}")
+        defs += clip
+        b.append(g)
+        b.append(t(x, 536, lab, 11.5, MUTED, 600, True, ls=1.3))
         if i:
-            b.append(f'<rect x="{x - 18}" y="458" width="1" height="68" fill="#FFFFFF" fill-opacity="0.1"/>')
-        b.append(f'<g class="fade" style="animation-delay:{.2 + i * .12:.2f}s">'
-                 + t(x, 494, n, 36, "url(#txt)", 800, ls=-.5) + t(x, 522, lab, 11.5, MUTED, 600, True, ls=1.2) + '</g>')
+            b.append(f'<rect x="{x - 20}" y="470" width="1" height="72" fill="#FFFFFF" fill-opacity="0.1"/>')
+    b.append(f'<rect x="{560 - 20}" y="470" width="1" height="72" fill="#FFFFFF" fill-opacity="0.1"/>')
+    b.append(f'<g class="pop" style="animation-delay:1.3s">' + t(560, 508, "Top 2%", 40, "url(#txt)", 800, ls=-.5)
+             + t(560, 536, "LC GLOBAL", 11.5, MUTED, 600, True, ls=1.3) + '</g>')
 
-    tx, ty, tw, th = 730, 108, 400, 428
-    b.append(f'<rect x="{tx}" y="{ty}" width="{tw}" height="{th}" rx="18" fill="#0D1117" fill-opacity="0.94"/>')
-    b.append(f'<rect x="{tx + .75}" y="{ty + .75}" width="{tw - 1.5}" height="{th - 1.5}" rx="17.25" stroke="url(#term)" stroke-width="1.5"/>')
-    for i, c in enumerate(["#FF5F57", "#FEBC2E", "#28C840"]):
-        b.append(f'<circle cx="{tx + 24 + i * 20}" cy="{ty + 26}" r="5.5" fill="{c}"/>')
-    b.append(t(tx + tw - 22, ty + 31, "ojas@svnit: ~", 12, DIM, 500, True, "end"))
-    b.append(f'<rect x="{tx}" y="{ty + 50}" width="{tw}" height="1" fill="#FFFFFF" fill-opacity="0.07"/>')
+    cx, cy, R = 928, 318, 176
+    b.append(f'<circle cx="{cx}" cy="{cy}" r="240" fill="url(#gO)"/>')
+    b.append(f'<circle cx="{cx}" cy="{cy}" r="{R}" stroke="#FFFFFF" stroke-opacity="0.14" stroke-dasharray="2 9">'
+             f'<animateTransform attributeName="transform" type="rotate" from="0 {cx} {cy}" to="360 {cx} {cy}" dur="60s" repeatCount="indefinite"/></circle>')
+    b.append(f'<circle cx="{cx}" cy="{cy}" r="152" stroke="#FFFFFF" stroke-opacity="0.07"/>')
+    b.append(f'<circle cx="{cx}" cy="{cy}" r="60" stroke="{EM}" stroke-width="1.5" fill="none">'
+             '<animate attributeName="r" values="70;176" dur="3.2s" repeatCount="indefinite"/>'
+             '<animate attributeName="opacity" values="0.55;0" dur="3.2s" repeatCount="indefinite"/></circle>')
+    b.append(f'<g><line x1="{cx}" y1="{cy - 94}" x2="{cx}" y2="{cy - 152}" stroke="{EM}" stroke-opacity="0.6" stroke-width="1.5"/>'
+             f'<circle cx="{cx}" cy="{cy - 152}" r="3.5" fill="{EM}"/>'
+             f'<animateTransform attributeName="transform" type="rotate" from="0 {cx} {cy}" to="360 {cx} {cy}" dur="7s" repeatCount="indefinite"/></g>')
+    for r, pct, grad, lab, col, dl in [(134, 82, "lcG", "LC 2048", OR, .6), (114, 68, "cfG", "CF 1421", BL, .85), (94, 29, "ccG", "CC 2★", CC, 1.1)]:
+        b.append(f'<circle cx="{cx}" cy="{cy}" r="{r}" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="10"/>')
+        b.append(f'<circle class="gauge" style="animation-delay:{dl}s" cx="{cx}" cy="{cy}" r="{r}" stroke="url(#{grad})" stroke-width="10" '
+                 f'stroke-linecap="round" pathLength="100" stroke-dasharray="{pct} 100" transform="rotate(-90 {cx} {cy})"/>')
+        b.append(t(cx - 12, cy - r + 4, lab, 10.5, col, 700, True, "end", 1))
+    b.append(f'<g class="pop" style="animation-delay:.9s">'
+             + t(cx, cy + 4, "2048", 50, "url(#lcT)", 800, anchor="middle", ls=-1.5)
+             + t(cx, cy + 28, "LEETCODE PEAK", 10.5, MUTED, 600, True, "middle", 1.6)
+             + f'<rect x="{cx - 62}" y="{cy + 38}" width="124" height="24" rx="12" fill="{OR}" fill-opacity="0.14" stroke="{OR}" stroke-opacity="0.5"/>'
+             + t(cx, cy + 54, "KNIGHT · TOP 2%", 10.5, "#FFD28A", 700, True, "middle", 1) + '</g>')
+    sats = [("GSC · TOP 106", CY), ("VIBE2SHIP · TOP 20", EM), ("CF SPECIALIST", BL), ("MCKINSEY FELLOW", VI), ("CHAIRPERSON", AM)]
+    period = 56
+    orbit = [f'<g><animateTransform attributeName="transform" type="rotate" from="0 {cx} {cy}" to="360 {cx} {cy}" dur="{period}s" repeatCount="indefinite"/>']
+    for i, (lab, col) in enumerate(sats):
+        a = -math.pi / 2 + i * 2 * math.pi / len(sats)
+        px, py = cx + R * math.cos(a), cy + R * math.sin(a)
+        w = len(lab) * 7.4 + 34
+        orbit.append(f'<g transform="translate({px:.1f} {py:.1f})"><g>'
+                     f'<animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="{period}s" repeatCount="indefinite"/>'
+                     f'<rect x="{-w / 2:.1f}" y="-15" width="{w:.1f}" height="30" rx="15" fill="#0B0E14" fill-opacity="0.94" stroke="{col}" stroke-opacity="0.7"/>'
+                     f'<circle cx="{-w / 2 + 15:.1f}" cy="0" r="3.5" fill="{col}"/>'
+                     + t(round(-w / 2 + 25, 1), 4, lab, 11, TXT, 700, True, ls=.8) + '</g></g>')
+    orbit.append('</g>')
+    b.append("".join(orbit))
 
-    lines = [
-        ("cmd", "whoami"),
-        ("out", "ojas — b.tech ai · svnit surat '28"),
-        ("cmd", "cat achievements.log"),
-        ("item", ("Vibe2Ship 2026", "Global Top 20")),
-        ("item", ("GSC 2026", "Global Top 106")),
-        ("item", ("LeetCode", "Knight · 2048")),
-        ("item", ("Codeforces", "Specialist")),
-        ("item", ("McKinsey.org", "Forward Fellow")),
-        ("item", ("Nexus SVNIT", "Chairperson")),
-        ("item", ("IFFCO", "SWE Intern '25")),
-        ("cmd", "echo $STATUS"),
-        ("ok", "open_to_work --summer-2027 ✓"),
-    ]
-    y = ty + 84
-    clips = []
-    for i, (kind, s) in enumerate(lines):
-        start = .5 + i * .32
-        total = start + (.45 if kind == "cmd" else .3)
-        clips.append(f'<clipPath id="tw{i}"><rect x="{tx + 16}" y="{y - 17}" height="24" width="{tw - 32}">'
-                     f'<animate attributeName="width" values="0;0;{tw - 32}" keyTimes="0;{start / total:.3f};1" dur="{total:.2f}s" fill="freeze"/></rect></clipPath>')
-        d = f' clip-path="url(#tw{i})"'
-        if kind == "cmd":
-            b.append(f'<g{d}>' + t(tx + 24, y, f'<tspan fill="{EM}">❯</tspan> <tspan fill="{TXT}">{esc(s)}</tspan>', 13, SOFT, 600, True, raw=True) + '</g>')
-        elif kind == "out":
-            b.append(f'<g{d}>' + t(tx + 24, y, s, 13, MUTED, 400, True) + '</g>')
-        elif kind == "ok":
-            b.append(f'<g{d}>' + t(tx + 24, y, s, 13, EM, 700, True) + '</g>')
-        else:
-            k, val = s
-            dots = "." * max(2, 37 - len(k) - len(val))
-            b.append(f'<g{d}>' + t(tx + 24, y, f'<tspan fill="{AM}">▸</tspan> <tspan fill="{SOFT}">{esc(k)}</tspan>'
-                                   f'<tspan fill="#3A424D"> {dots} </tspan><tspan fill="{TXT}" font-weight="700">{esc(val)}</tspan>',
-                                   13, SOFT, 400, True, raw=True) + '</g>')
-        y += 25 if kind in ("out", "item") and lines[min(i + 1, len(lines) - 1)][0] == "cmd" else 23
-    defs += "".join(clips)
-    b.append(t(tx + 24, y, f'<tspan fill="{EM}">❯</tspan>', 13, SOFT, 600, True, raw=True))
-    b.append(f'<rect class="blink" x="{tx + 42}" y="{y - 12}" width="8" height="16" fill="{EM}"/>')
-
-    b.append('<rect x="40" y="556" width="1120" height="40" rx="12" fill="#FFFFFF" fill-opacity="0.03" stroke="#FFFFFF" stroke-opacity="0.07"/>')
+    b.append('<rect x="40" y="578" width="1120" height="40" rx="12" fill="#FFFFFF" fill-opacity="0.03" stroke="#FFFFFF" stroke-opacity="0.08"/>')
     b.append('<g clip-path="url(#mq)"><g class="marq">'
-             + t(60, 581, stack, 12, MUTED, 600, True, ls=1.5, extra=f' textLength="{L}" lengthAdjust="spacing"')
-             + t(60 + L, 581, stack, 12, MUTED, 600, True, ls=1.5, extra=f' textLength="{L}" lengthAdjust="spacing"')
+             + t(60, 603, stack, 12, MUTED, 600, True, ls=1.5, extra=f' textLength="{L}" lengthAdjust="spacing"')
+             + t(60 + L, 603, stack, 12, MUTED, 600, True, ls=1.5, extra=f' textLength="{L}" lengthAdjust="spacing"')
              + '</g></g>')
     return doc("hero", W, H, "Ojas Srivastava — Software Engineer, Full-Stack & Applied AI. Open to Summer 2027 SWE internships.",
                "\n  ".join(b), defs, css)
@@ -496,20 +541,17 @@ def footer():
 
 def portfolio():
     tour = json.loads((ROOT / "assets" / "data" / "tour.json").read_text())
-    W, H = 1200, 850
-    vx, vy, vw, vh = 30, 110, 1140, 712
+    W, H = 1200, 880
+    vx, vy, vw, vh = 30, 104, 1140, 712
     slot = 3.4
     T = slot * len(tour)
     a, bfrac, c = 1.2, 100 / len(tour), 100 / len(tour) + 1.2
     css = (f".slide {{ opacity: 0; animation: slide {T:.1f}s linear infinite both; }}"
-           f".zoom {{ transform-box: fill-box; transform-origin: center; animation: zoom {T:.1f}s linear infinite both; }}"
            f".prog {{ transform-box: fill-box; transform-origin: left; animation: prog {slot}s linear infinite; }}"
            f"@keyframes slide {{ 0% {{ opacity: 0; }} {a:.2f}% {{ opacity: 1; }} {bfrac:.2f}% {{ opacity: 1; }} {c:.2f}% {{ opacity: 0; }} 100% {{ opacity: 0; }} }}"
-           f"@keyframes zoom {{ 0% {{ transform: scale(1); }} {c:.2f}% {{ transform: scale(1.045); }} 100% {{ transform: scale(1.045); }} }}"
            f"@keyframes prog {{ from {{ transform: scaleX(0); }} to {{ transform: scaleX(1); }} }}")
     defs = (glow("pa", CY, .2) + glow("pb", EM, .16)
-            + f'<clipPath id="vp"><rect x="{vx}" y="{vy}" width="{vw}" height="{vh}" rx="14"/></clipPath>'
-            + lin("vfade", BG, BG, True, 0, .85))
+            + f'<clipPath id="vp"><rect x="{vx}" y="{vy}" width="{vw}" height="{vh}" rx="14"/></clipPath>')
     labels = {"": "home", "#brief": "60-second brief", "#experience": "experience", "#projects": "projects",
               "#coding-stats": "live coding stats", "#achievements": "milestones", "#contact": "contact"}
     b = ['<ellipse cx="1000" cy="60" rx="480" ry="240" fill="url(#pa)"/>',
@@ -527,24 +569,36 @@ def portfolio():
         segw = 1140 / len(tour) - 8
         b.append(f'<rect x="{x0:.1f}" y="80" width="{segw:.1f}" height="3" rx="1.5" fill="#FFFFFF" fill-opacity="0.1"/>')
         b.append(f'<rect class="slide" style="animation-delay:{i * slot:.1f}s" x="{x0:.1f}" y="80" width="{segw:.1f}" height="3" rx="1.5" fill="url(#acc)"/>')
-    b.append(f'<rect x="{vx}" y="{vy}" width="{vw}" height="{vh}" rx="14" fill="#05070A"/>')
+    b.append(f'<rect x="{vx}" y="{vy}" width="{vw}" height="{vh}" rx="14" fill="#0B0E14"/>')
     frames, urls, caps = [], [], []
     for i, f in enumerate(tour):
         data = base64.b64encode((ROOT / "assets" / "data" / f["file"]).read_bytes()).decode()
         st = f' class="slide" style="animation-delay:{i * slot:.1f}s"'
-        frames.append(f'<g{st}><image class="zoom" style="animation-delay:{i * slot:.1f}s" href="data:image/jpeg;base64,{data}" '
-                      f'x="{vx}" y="{vy}" width="{vw}" height="{vh}" preserveAspectRatio="xMidYMid slice"/></g>')
+        frames.append(f'<g{st}><image href="data:image/jpeg;base64,{data}" '
+                      f'x="{vx}" y="{vy}" width="{vw}" height="{vh}" preserveAspectRatio="xMidYMid meet"/></g>')
         urls.append(f'<g{st}>' + t(184, 49, f'<tspan fill="{TXT}">{PORTFOLIO}</tspan><tspan fill="{MUTED}">/{esc(f["hash"])}</tspan>', 14, TXT, 500, True, raw=True) + '</g>')
         lab = labels.get(f["hash"], f["hash"].lstrip("#"))
-        caps.append(f'<g{st}>' + t(vx + 30, vy + vh - 30, f"{i + 1:02d} / {len(tour):02d}  ·  {lab.upper()}", 13, TXT, 700, True, ls=1.6) + '</g>')
-    b.append('<g clip-path="url(#vp)">' + "".join(reversed(frames))
-             + f'<rect x="{vx}" y="{vy + vh - 150}" width="{vw}" height="150" fill="url(#vfade)"/></g>')
+        caps.append(f'<g{st}>' + t(vx + 4, vy + vh + 40, f"{i + 1:02d} / {len(tour):02d}  ·  {lab.upper()}", 13, TXT, 700, True, ls=1.6) + '</g>')
+    b.append('<g clip-path="url(#vp)">' + "".join(reversed(frames)) + '</g>')
     b += list(reversed(urls)) + list(reversed(caps))
     b.append(f'<rect x="{vx + .5}" y="{vy + .5}" width="{vw - 1}" height="{vh - 1}" rx="13.5" stroke="#FFFFFF" stroke-opacity="0.12"/>')
     b.append(sweep(vx + .5, vy + .5, vw - 1, vh - 1, 13.5, CY, 0, 2))
-    b.append(f'<rect x="{vx + vw - 250}" y="{vy + vh - 56}" width="220" height="38" rx="19" fill="{EM}"/>')
-    b.append(t(vx + vw - 140, vy + vh - 31, "OPEN PORTFOLIO  ↗", 13, BG, 800, True, "middle", 1.2))
+    b.append(f'<rect x="{vx + vw - 210}" y="{vy + vh + 16}" width="210" height="38" rx="19" fill="{EM}"/>')
+    b.append(t(vx + vw - 105, vy + vh + 40, "OPEN PORTFOLIO  ↗", 13, BG, 800, True, "middle", 1.2))
+    b.append(t(vx + vw - 230, vy + vh + 40, "click anywhere to visit", 12, DIM, 500, True, "end"))
     return doc("portfolio", W, H, f"Live portfolio preview — {PORTFOLIO}", "\n  ".join(b), defs, css)
+
+
+def stamp_readme():
+    readme = ROOT / "README.md"
+
+    def version(m):
+        f = ROOT / "assets" / m.group(1)
+        v = hashlib.md5(f.read_bytes()).hexdigest()[:8] if f.exists() else "0"
+        return f"assets/{m.group(1)}?v={v}"
+
+    text = readme.read_text(encoding="utf-8")
+    readme.write_text(re.sub(r"assets/([\w.-]+\.svg)(?:\?v=\w+)?", version, text), encoding="utf-8")
 
 
 def load_data():
@@ -606,6 +660,7 @@ def main():
     ]
     for p in projects:
         write(p[0], project(*p))
+    stamp_readme()
     print("ok", len(lc), len(cf), solved, total_s)
 
 

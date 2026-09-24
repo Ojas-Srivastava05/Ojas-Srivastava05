@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://ojas-srivastava.vercel.app/">
-    <img src="./assets/hero.svg" alt="Ojas Srivastava — Software Engineer, Full-Stack and Applied AI. Open to Summer 2027 SWE internships." width="100%" />
+    <img src="./assets/hero.svg?v=3fb42f2c" alt="Ojas Srivastava — Software Engineer, Full-Stack and Applied AI. Open to Summer 2027 SWE internships." width="100%" />
   </a>
 </p>
 
@@ -39,26 +39,26 @@
 </p>
 
 <p align="center">
-  <img src="./assets/now.svg" alt="Now building the Career Automation Stack · training weekly on LeetCode and Codeforces · seeking a Summer 2027 SWE internship" width="100%" />
+  <img src="./assets/now.svg?v=fe47902f" alt="Now building the Career Automation Stack · training weekly on LeetCode and Codeforces · seeking a Summer 2027 SWE internship" width="100%" />
 </p>
 
 <br/>
 
 <!-- o5ws-block:highlights:7f3a9e2b1c4d -->
-<img src="./assets/section-01.svg" alt="01 — Highlights" width="100%" />
+<img src="./assets/section-01.svg?v=5882b83f" alt="01 — Highlights" width="100%" />
 
 <p align="center">
-  <img src="./assets/highlights.svg" alt="Vibe2Ship 2026 Global Top 20 · Google Solution Challenge 2026 Global Top 106 · LeetCode Knight, peak 2048 · Codeforces Specialist, max 1421 · McKinsey.org Forward Fellow · Chairperson, Nexus SVNIT" width="100%" />
+  <img src="./assets/highlights.svg?v=18a93f08" alt="Vibe2Ship 2026 Global Top 20 · Google Solution Challenge 2026 Global Top 106 · LeetCode Knight, peak 2048 · Codeforces Specialist, max 1421 · McKinsey.org Forward Fellow · Chairperson, Nexus SVNIT" width="100%" />
 </p>
 
 <br/>
 
 <!-- o5ws-block:portfolio:7f3a9e2b1c4d -->
-<img src="./assets/section-02.svg" alt="02 — Portfolio" width="100%" />
+<img src="./assets/section-02.svg?v=c777b541" alt="02 — Portfolio" width="100%" />
 
 <p align="center">
   <a href="https://ojas-srivastava.vercel.app/">
-    <img src="./assets/portfolio.svg" alt="Auto-playing tour of ojas-srivastava.vercel.app — home, 60-second brief, experience, projects, live coding stats, milestones and contact" width="100%" />
+    <img src="./assets/portfolio.svg?v=1c2a7dfb" alt="Auto-playing tour of ojas-srivastava.vercel.app — home, 60-second brief, experience, projects, live coding stats, milestones and contact" width="100%" />
   </a>
 </p>
 
@@ -72,10 +72,10 @@
 <br/>
 
 <!-- o5ws-block:cp-signal:7f3a9e2b1c4d -->
-<img src="./assets/section-03.svg" alt="03 — Competitive Programming" width="100%" />
+<img src="./assets/section-03.svg?v=9e1008e1" alt="03 — Competitive Programming" width="100%" />
 
 <p align="center">
-  <img src="./assets/cp.svg" alt="LeetCode Knight with peak rating 2048 across 30+ rated contests · Codeforces Specialist, max rating 1421 · CodeChef 2 Star" width="100%" />
+  <img src="./assets/cp.svg?v=3a60a747" alt="LeetCode Knight with peak rating 2048 across 30+ rated contests · Codeforces Specialist, max rating 1421 · CodeChef 2 Star" width="100%" />
 </p>
 
 <p align="center">
@@ -90,40 +90,40 @@
 <br/>
 
 <!-- o5ws-block:selected-work:7f3a9e2b1c4d -->
-<img src="./assets/section-04.svg" alt="04 — Featured Work" width="100%" />
+<img src="./assets/section-04.svg?v=ef4b9a08" alt="04 — Featured Work" width="100%" />
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <a href="https://logi-flow-solution-challenge-2026.vercel.app/"><img src="./assets/work-logiflow.svg" alt="LogiFlow — decision intelligence for multi-modal logistics. GSC 2026 Global Top 106." width="100%" /></a>
+      <a href="https://logi-flow-solution-challenge-2026.vercel.app/"><img src="./assets/work-logiflow.svg?v=e985b86e" alt="LogiFlow — decision intelligence for multi-modal logistics. GSC 2026 Global Top 106." width="100%" /></a>
       <a href="https://logi-flow-solution-challenge-2026.vercel.app/"><img src="https://img.shields.io/badge/Live_demo-22D3EE?style=flat-square&logo=vercel&logoColor=0B0E14" alt="LogiFlow live demo" /></a>
       <a href="https://github.com/Ojas-Srivastava05/LogiFlow-Solution-Challenge-2026"><img src="https://img.shields.io/badge/Source-21262D?style=flat-square&logo=github&logoColor=white" alt="LogiFlow source" /></a>
     </td>
     <td width="50%" align="center">
-      <a href="https://community-hero-eight.vercel.app"><img src="./assets/work-community-hero.svg" alt="Community Hero — CIVICPULSE AI civic reporting PWA. Vibe2Ship 2026 Global Top 20." width="100%" /></a>
+      <a href="https://community-hero-eight.vercel.app"><img src="./assets/work-community-hero.svg?v=bbf0974d" alt="Community Hero — CIVICPULSE AI civic reporting PWA. Vibe2Ship 2026 Global Top 20." width="100%" /></a>
       <a href="https://community-hero-eight.vercel.app"><img src="https://img.shields.io/badge/Live_demo-34D399?style=flat-square&logo=vercel&logoColor=0B0E14" alt="Community Hero live demo" /></a>
       <a href="https://github.com/Ojas-Srivastava05/community-hero"><img src="https://img.shields.io/badge/Source-21262D?style=flat-square&logo=github&logoColor=white" alt="Community Hero source" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://oa-forge.vercel.app"><img src="./assets/work-career-automation.svg" alt="Career Automation Stack — Internship Scout, Hiring Scout and OA Forge across 8 GitHub Actions workflows." width="100%" /></a>
+      <a href="https://oa-forge.vercel.app"><img src="./assets/work-career-automation.svg?v=8dbe8dff" alt="Career Automation Stack — Internship Scout, Hiring Scout and OA Forge across 8 GitHub Actions workflows." width="100%" /></a>
       <a href="https://oa-forge.vercel.app"><img src="https://img.shields.io/badge/OA_Forge-FBBF24?style=flat-square&logo=vercel&logoColor=0B0E14" alt="OA Forge live" /></a>
       <a href="https://github.com/Ojas-Srivastava05/automation-workflows"><img src="https://img.shields.io/badge/Workflows-21262D?style=flat-square&logo=githubactions&logoColor=white" alt="Automation workflows" /></a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/Ojas-Srivastava05/AirHelp-AI-Airport-Assistant"><img src="./assets/work-airhelp.svg" alt="AirHelp — offline-first AI airport companion. PowerMind Hackathon 2026." width="100%" /></a>
+      <a href="https://github.com/Ojas-Srivastava05/AirHelp-AI-Airport-Assistant"><img src="./assets/work-airhelp.svg?v=9cfa1c3a" alt="AirHelp — offline-first AI airport companion. PowerMind Hackathon 2026." width="100%" /></a>
       <a href="https://github.com/Ojas-Srivastava05/AirHelp-AI-Airport-Assistant"><img src="https://img.shields.io/badge/Source-21262D?style=flat-square&logo=github&logoColor=white" alt="AirHelp source" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://rangriti.onrender.com"><img src="./assets/work-rangriti.svg" alt="RangRiti — cultural-tech marketplace for Indian art. Web Wonders 2025, technical lead." width="100%" /></a>
+      <a href="https://rangriti.onrender.com"><img src="./assets/work-rangriti.svg?v=288264b3" alt="RangRiti — cultural-tech marketplace for Indian art. Web Wonders 2025, technical lead." width="100%" /></a>
       <a href="https://rangriti.onrender.com"><img src="https://img.shields.io/badge/Live_demo-F472B6?style=flat-square&logo=render&logoColor=0B0E14" alt="RangRiti live demo" /></a>
       <a href="https://github.com/Ojas-Srivastava05/RangRiti"><img src="https://img.shields.io/badge/Source-21262D?style=flat-square&logo=github&logoColor=white" alt="RangRiti source" /></a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/Ojas-Srivastava05/Options-Pricing-Model"><img src="./assets/work-options-pricing.svg" alt="Options Pricing Model — Monte Carlo and Black–Scholes in C++17." width="100%" /></a>
+      <a href="https://github.com/Ojas-Srivastava05/Options-Pricing-Model"><img src="./assets/work-options-pricing.svg?v=bf044d41" alt="Options Pricing Model — Monte Carlo and Black–Scholes in C++17." width="100%" /></a>
       <a href="https://github.com/Ojas-Srivastava05/Options-Pricing-Model"><img src="https://img.shields.io/badge/Source-21262D?style=flat-square&logo=github&logoColor=white" alt="Options Pricing source" /></a>
     </td>
   </tr>
@@ -141,10 +141,10 @@
 <br/>
 
 <!-- o5ws-block:experience:7f3a9e2b1c4d -->
-<img src="./assets/section-05.svg" alt="05 — Experience and Leadership" width="100%" />
+<img src="./assets/section-05.svg?v=b936226e" alt="05 — Experience and Leadership" width="100%" />
 
 <p align="center">
-  <img src="./assets/experience.svg" alt="Chairperson, Nexus SVNIT (AY 2026–27) · Technical Co-Lead, Neural Foundry, GSC 2026 · Forward Fellow, McKinsey.org · Software Engineering Intern, IFFCO (Jun–Jul 2025) · Technical Lead, RangRiti (Jun–Aug 2025) · B.Tech AI, SVNIT Surat (2024–2028)" width="100%" />
+  <img src="./assets/experience.svg?v=6ac84510" alt="Chairperson, Nexus SVNIT (AY 2026–27) · Technical Co-Lead, Neural Foundry, GSC 2026 · Forward Fellow, McKinsey.org · Software Engineering Intern, IFFCO (Jun–Jul 2025) · Technical Lead, RangRiti (Jun–Aug 2025) · B.Tech AI, SVNIT Surat (2024–2028)" width="100%" />
 </p>
 
 <details>
@@ -165,7 +165,7 @@
 <br/>
 
 <!-- o5ws-block:tech-stack:7f3a9e2b1c4d -->
-<img src="./assets/section-06.svg" alt="06 — Tech Stack" width="100%" />
+<img src="./assets/section-06.svg?v=6d6475a6" alt="06 — Tech Stack" width="100%" />
 
 <table align="center">
   <tr>
@@ -201,7 +201,7 @@
 <br/>
 
 <!-- o5ws-block:github-activity:7f3a9e2b1c4d -->
-<img src="./assets/section-07.svg" alt="07 — GitHub Activity" width="100%" />
+<img src="./assets/section-07.svg?v=9ee5bc7c" alt="07 — GitHub Activity" width="100%" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ojas-Srivastava05/Ojas-Srivastava05/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub profile details" width="100%" />
@@ -229,7 +229,7 @@
 <!-- o5ws-block:footer:7f3a9e2b1c4d -->
 <p align="center">
   <a href="mailto:srivastavaojas454@gmail.com">
-    <img src="./assets/footer.svg" alt="Let's build something that ships — open to Summer 2027 SWE internships. srivastavaojas454@gmail.com" width="100%" />
+    <img src="./assets/footer.svg?v=5137d736" alt="Let's build something that ships — open to Summer 2027 SWE internships. srivastavaojas454@gmail.com" width="100%" />
   </a>
 </p>
 
