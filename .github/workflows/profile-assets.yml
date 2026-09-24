@@ -3,11 +3,18 @@ name: Profile assets
 on:
   schedule:
     - cron: "30 */12 * * *"
+    - cron: "0 3 * * 0"
   workflow_dispatch:
+    inputs:
+      recapture_portfolio:
+        description: "Re-capture the portfolio tour screenshots"
+        type: boolean
+        default: false
   push:
     branches: [main]
     paths:
       - ".github/workflows/profile-assets.yml"
+      - "scripts/**"
 
 permissions:
   contents: write
@@ -46,3 +53,38 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main
           UTC_OFFSET: 5.5
+
+  readme-assets:
+    needs: summary-cards
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Re-capture portfolio tour
+        if: github.event.schedule == '0 3 * * 0' || inputs.recapture_portfolio
+        run: |
+          pip install --quiet playwright pillow
+          python -m playwright install --with-deps chromium
+          python scripts/portfolio_tour.py
+
+      - name: Rebuild SVGs from live LeetCode / Codeforces data
+        run: python scripts/build_assets.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          if git diff --cached --quiet; then
+            echo "No asset changes."
+            exit 0
+          fi
+          git commit -m "chore: refresh README assets from live data"
+          git pull --rebase origin main
+          git push origin HEAD:main

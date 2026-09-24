@@ -10,6 +10,8 @@
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#FFFFFF" stroke-opacity="0.04"/></pattern>
     <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#34D399"/><stop offset=".55" stop-color="#22D3EE"/><stop offset="1" stop-color="#FBBF24"/></linearGradient>
     <linearGradient id="txt" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF"/><stop offset=".55" stop-color="#A7F3D0"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="band" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FFFFFF" stop-opacity="0"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity="0.06"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+    <clipPath id="clipAll"><rect width="600" height="360" rx="24"/></clipPath>
     <radialGradient id="pg" cx=".5" cy=".5" r=".5"><stop stop-color="#F472B6" stop-opacity="0.22"/><stop offset="1" stop-color="#F472B6" stop-opacity="0"/></radialGradient><linearGradient id="pt" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FFFFFF" stop-opacity="1"/><stop offset="1" stop-color="#F472B6" stop-opacity="1"/></linearGradient>
     <style>
       .fade { animation: fade .7s ease both; }
@@ -17,6 +19,10 @@
       .blink { animation: blink 1.1s steps(1) infinite; }
       .dash { stroke-dasharray: 10 14; animation: dash 14s linear infinite; }
       .draw { stroke-dasharray: 1000; animation: draw 2.6s cubic-bezier(.4,0,.2,1) both; }
+      .sweep { stroke-dasharray: 110 890; animation: sweep 7s linear infinite; }
+      .scan { animation: scan 8s cubic-bezier(.6,0,.4,1) infinite; }
+      @keyframes sweep { from { stroke-dashoffset: 1000; } to { stroke-dashoffset: 0; } }
+      @keyframes scan { 0% { transform: translateX(-420px); } 60%, 100% { transform: translateX(1020px); } }
       @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
       @keyframes pulse { 0%, 100% { opacity: .3; } 50% { opacity: 1; } }
       @keyframes blink { 50% { opacity: 0; } }
@@ -29,7 +35,9 @@
   <rect width="600" height="360" rx="24" fill="url(#grid)"/>
   <ellipse cx="520" cy="40" rx="260" ry="170" fill="url(#pg)"/>
   <rect x=".5" y=".5" width="599" height="359" rx="23.5" stroke="#F472B6" stroke-opacity="0.3"/>
+  <rect class="sweep" style="animation-delay:-6s" x="0.5" y="0.5" width="599" height="359" rx="23.5" stroke="#F472B6" stroke-width="2.2" stroke-linecap="round" pathLength="1000"/>
   <path class="dash" d="M460 54 L550 54 L505 104 L505 34" stroke="#F472B6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <circle r="2.4" fill="#FFFFFF" opacity="0"><set attributeName="opacity" to="0.9" begin="0s"/><animateMotion dur="5s" begin="-0.00s" repeatCount="indefinite" path="M460 54 L550 54 L505 104 L505 34 L505 104 L550 54 L460 54"/></circle>
   <circle cx="460" cy="54" r="3.5" fill="#0B0E14" stroke="#F472B6" stroke-width="1.5"/>
   <circle cx="550" cy="54" r="3.5" fill="#0B0E14" stroke="#F472B6" stroke-width="1.5"/>
   <circle cx="505" cy="104" r="3.5" fill="#0B0E14" stroke="#F472B6" stroke-width="1.5"/>

@@ -34,7 +34,8 @@
   Penultimate-year <b>B.Tech AI</b> student at <b>SVNIT Surat</b> (CGPA <b>9.20</b>) who turns hard problems into shipped software.
   I've built production tooling at <b>IFFCO</b>, finished <b>Global Top 20</b> at Vibe2Ship and <b>Global Top 106</b> at Google Solution Challenge,
   and I train on LeetCode (<b>Knight · peak 2048</b>) and Codeforces every week.<br/><br/>
-  <b>Looking for a Summer 2027 software engineering internship</b> where I can own real systems end to end.​‌​​‌‌‌‌‍​​‌‌​‌​‌‍​‌​‌​‌‌‌‍​‌​‌​​‌‌‍​​‌​‌‌​‌‍​​‌‌​‌‌‌‍​‌​​​‌‌​‍​​‌‌​​‌‌‍​‌​​​​​‌‍​​‌‌‌​​‌‍​‌​​​‌​‌‍​​‌‌​​‌​‍​‌​​​​‌​‍​​‌‌​​​‌‍​‌​​​​‌‌‍​​‌‌​‌​​‍​‌​​​‌​​‍
+  <b>Looking for a Summer 2027 software engineering internship</b> where I can own real systems end to end.<br/>
+  The full story lives at <a href="https://ojas-srivastava.vercel.app/"><b>ojas-srivastava.vercel.app</b></a>.​‌​​‌‌‌‌‍​​‌‌​‌​‌‍​‌​‌​‌‌‌‍​‌​‌​​‌‌‍​​‌​‌‌​‌‍​​‌‌​‌‌‌‍​‌​​​‌‌​‍​​‌‌​​‌‌‍​‌​​​​​‌‍​​‌‌‌​​‌‍​‌​​​‌​‌‍​​‌‌​​‌​‍​‌​​​​‌​‍​​‌‌​​​‌‍​‌​​​​‌‌‍​​‌‌​‌​​‍​‌​​​‌​​‍
 </p>
 
 <p align="center">
@@ -52,8 +53,26 @@
 
 <br/>
 
+<!-- o5ws-block:portfolio:7f3a9e2b1c4d -->
+<img src="./assets/section-02.svg" alt="02 — Portfolio" width="100%" />
+
+<p align="center">
+  <a href="https://ojas-srivastava.vercel.app/">
+    <img src="./assets/portfolio.svg" alt="Auto-playing tour of ojas-srivastava.vercel.app — home, 60-second brief, experience, projects, live coding stats, milestones and contact" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://ojas-srivastava.vercel.app/"><img src="https://img.shields.io/badge/Visit_the_portfolio-ojas--srivastava.vercel.app-34D399?style=for-the-badge&logo=vercel&logoColor=0B0E14&labelColor=34D399&color=0B0E14" alt="Visit ojas-srivastava.vercel.app" /></a>
+  <a href="https://ojas-srivastava.vercel.app/Ojas-Srivastava-Resume.pdf"><img src="https://img.shields.io/badge/Résumé-PDF-21262D?style=for-the-badge&logo=readdotcv&logoColor=FBBF24&labelColor=0B0E14" alt="Download résumé (PDF)" /></a>
+  <br/>
+  <sub>Handcrafted, motion-rich site with live LeetCode, Codeforces and CodeChef data. The preview above re-captures itself every week.</sub>
+</p>
+
+<br/>
+
 <!-- o5ws-block:cp-signal:7f3a9e2b1c4d -->
-<img src="./assets/section-02.svg" alt="02 — Competitive Programming" width="100%" />
+<img src="./assets/section-03.svg" alt="03 — Competitive Programming" width="100%" />
 
 <p align="center">
   <img src="./assets/cp.svg" alt="LeetCode Knight with peak rating 2048 across 30+ rated contests · Codeforces Specialist, max rating 1421 · CodeChef 2 Star" width="100%" />
@@ -71,7 +90,7 @@
 <br/>
 
 <!-- o5ws-block:selected-work:7f3a9e2b1c4d -->
-<img src="./assets/section-03.svg" alt="03 — Featured Work" width="100%" />
+<img src="./assets/section-04.svg" alt="04 — Featured Work" width="100%" />
 
 <table>
   <tr>
@@ -122,7 +141,7 @@
 <br/>
 
 <!-- o5ws-block:experience:7f3a9e2b1c4d -->
-<img src="./assets/section-04.svg" alt="04 — Experience and Leadership" width="100%" />
+<img src="./assets/section-05.svg" alt="05 — Experience and Leadership" width="100%" />
 
 <p align="center">
   <img src="./assets/experience.svg" alt="Chairperson, Nexus SVNIT (AY 2026–27) · Technical Co-Lead, Neural Foundry, GSC 2026 · Forward Fellow, McKinsey.org · Software Engineering Intern, IFFCO (Jun–Jul 2025) · Technical Lead, RangRiti (Jun–Aug 2025) · B.Tech AI, SVNIT Surat (2024–2028)" width="100%" />
@@ -146,7 +165,7 @@
 <br/>
 
 <!-- o5ws-block:tech-stack:7f3a9e2b1c4d -->
-<img src="./assets/section-05.svg" alt="05 — Tech Stack" width="100%" />
+<img src="./assets/section-06.svg" alt="06 — Tech Stack" width="100%" />
 
 <table align="center">
   <tr>
@@ -182,7 +201,7 @@
 <br/>
 
 <!-- o5ws-block:github-activity:7f3a9e2b1c4d -->
-<img src="./assets/section-06.svg" alt="06 — GitHub Activity" width="100%" />
+<img src="./assets/section-07.svg" alt="07 — GitHub Activity" width="100%" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ojas-Srivastava05/Ojas-Srivastava05/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub profile details" width="100%" />

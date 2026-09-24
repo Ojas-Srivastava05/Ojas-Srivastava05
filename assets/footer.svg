@@ -10,6 +10,8 @@
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#FFFFFF" stroke-opacity="0.04"/></pattern>
     <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#34D399"/><stop offset=".55" stop-color="#22D3EE"/><stop offset="1" stop-color="#FBBF24"/></linearGradient>
     <linearGradient id="txt" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF"/><stop offset=".55" stop-color="#A7F3D0"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="band" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FFFFFF" stop-opacity="0"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity="0.06"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+    <clipPath id="clipAll"><rect width="1200" height="330" rx="24"/></clipPath>
     <radialGradient id="fa" cx=".5" cy=".5" r=".5"><stop stop-color="#34D399" stop-opacity="0.2"/><stop offset="1" stop-color="#34D399" stop-opacity="0"/></radialGradient><radialGradient id="fb" cx=".5" cy=".5" r=".5"><stop stop-color="#22D3EE" stop-opacity="0.14"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient><radialGradient id="fc" cx=".5" cy=".5" r=".5"><stop stop-color="#FBBF24" stop-opacity="0.1"/><stop offset="1" stop-color="#FBBF24" stop-opacity="0"/></radialGradient>
     <style>
       .fade { animation: fade .7s ease both; }
@@ -17,6 +19,10 @@
       .blink { animation: blink 1.1s steps(1) infinite; }
       .dash { stroke-dasharray: 10 14; animation: dash 14s linear infinite; }
       .draw { stroke-dasharray: 1000; animation: draw 2.6s cubic-bezier(.4,0,.2,1) both; }
+      .sweep { stroke-dasharray: 110 890; animation: sweep 7s linear infinite; }
+      .scan { animation: scan 8s cubic-bezier(.6,0,.4,1) infinite; }
+      @keyframes sweep { from { stroke-dashoffset: 1000; } to { stroke-dashoffset: 0; } }
+      @keyframes scan { 0% { transform: translateX(-420px); } 60%, 100% { transform: translateX(1620px); } }
       @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
       @keyframes pulse { 0%, 100% { opacity: .3; } 50% { opacity: 1; } }
       @keyframes blink { 50% { opacity: 0; } }
@@ -31,6 +37,8 @@
   <ellipse cx="180" cy="300" rx="300" ry="140" fill="url(#fb)"/>
   <ellipse cx="1040" cy="300" rx="300" ry="140" fill="url(#fc)"/>
   <path class="dash" d="M0 280C200 220 360 320 600 260C840 200 1000 300 1200 240" stroke="url(#acc)" stroke-opacity="0.35" stroke-width="1.5"/>
+  <circle r="2.6" fill="#34D399" opacity="0"><set attributeName="opacity" to="0.9" begin="0s"/><animateMotion dur="14s" begin="-0.00s" repeatCount="indefinite" path="M0 280C200 220 360 320 600 260C840 200 1000 300 1200 240"/></circle><circle r="2.6" fill="#34D399" opacity="0"><set attributeName="opacity" to="0.9" begin="0s"/><animateMotion dur="14s" begin="-2.80s" repeatCount="indefinite" path="M0 280C200 220 360 320 600 260C840 200 1000 300 1200 240"/></circle><circle r="2.6" fill="#34D399" opacity="0"><set attributeName="opacity" to="0.9" begin="0s"/><animateMotion dur="14s" begin="-5.60s" repeatCount="indefinite" path="M0 280C200 220 360 320 600 260C840 200 1000 300 1200 240"/></circle><circle r="2.6" fill="#34D399" opacity="0"><set attributeName="opacity" to="0.9" begin="0s"/><animateMotion dur="14s" begin="-8.40s" repeatCount="indefinite" path="M0 280C200 220 360 320 600 260C840 200 1000 300 1200 240"/></circle><circle r="2.6" fill="#34D399" opacity="0"><set attributeName="opacity" to="0.9" begin="0s"/><animateMotion dur="14s" begin="-11.20s" repeatCount="indefinite" path="M0 280C200 220 360 320 600 260C840 200 1000 300 1200 240"/></circle>
+  <g clip-path="url(#clipAll)"><rect class="scan" x="-300" y="0" width="300" height="330" fill="url(#band)"/></g>
   <text x="600" y="62" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" fill="#34D399" text-anchor="middle" letter-spacing="3">// OPEN TO WORK</text>
   <text x="600" y="128" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="52" font-weight="800" fill="url(#txt)" text-anchor="middle" letter-spacing="-1.5">Let’s build something that ships.</text>
   <text x="600" y="172" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18.5" font-weight="400" fill="#C9D1D9" text-anchor="middle">Open to Summer 2027 software engineering internships — backend, full-stack and applied AI.</text>
@@ -38,6 +46,7 @@
   <rect x="400" y="230" width="400" height="48" rx="24" fill="#34D399" fill-opacity="0.1" stroke="#34D399" stroke-opacity="0.45"/>
   <circle class="pulse" cx="432" cy="254" r="8" fill="#34D399" fill-opacity="0.3"/><circle cx="432" cy="254" r="4" fill="#34D399"/>
   <text x="612" y="260" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="600" fill="#F0F6FC" text-anchor="middle">srivastavaojas454@gmail.com</text>
+  <text x="600" y="306" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#22D3EE" text-anchor="middle" letter-spacing="1">↗  ojas-srivastava.vercel.app</text>
   <rect x=".5" y=".5" width="1199" height="329" rx="23.5" stroke="#FFFFFF" stroke-opacity="0.09"/>
   <text x="-9999" y="-9999" opacity="0" font-size="1">o5ws7f3a9e2b1c4d</text>
 </svg>
