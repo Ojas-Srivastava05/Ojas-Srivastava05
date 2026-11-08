@@ -58,7 +58,7 @@
 
 <p align="center">
   <a href="https://ojas-srivastava.vercel.app/">
-    <img src="./assets/portfolio.svg?v=614c2e66" alt="Auto-playing tour of ojas-srivastava.vercel.app — home, 60-second brief, experience, projects, live coding stats, milestones and contact" width="100%" />
+    <img src="./assets/portfolio.svg?v=839e2b51" alt="Auto-playing tour of ojas-srivastava.vercel.app — home, 60-second brief, experience, projects, live coding stats, milestones and contact" width="100%" />
   </a>
 </p>
 
